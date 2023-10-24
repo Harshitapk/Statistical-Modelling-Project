@@ -1,0 +1,1145 @@
+Name,Categories,Rating,Address,Res_Latitude,Res_Longitude,Reviews,Distance,Phone,Closed,Price,Latitude,Longitude
+Le Poincaré,"French, Brasseries, Wine Bars",4.0,"22 avenue Raymond Poincaré, Paris",48.8650573,2.2865211,150,796.3837457247423,33145054610.0,False,€€,48.865983,2.275725
+Corso,Italian,4.0,"79 avenue Kléber, Paris",48.864897,2.289009,39,979.1628237952632,33966889717.0,False,€€,48.865983,2.275725
+Le Stella,"French, Brasseries",4.0,"133 avenue Victor Hugo, Paris",48.867555427657,2.28070483011613,78,404.04201706286574,33156905600.0,False,€€€,48.865983,2.275725
+Le Wilson,"Cafes, Coffee & Tea",3.0,"2 Place Du Trocadero, Paris",48.8634231,2.2879945,65,941.5510759746765,33145537561.0,False,€€,48.865983,2.275725
+Café du Trocadéro,French,3.0,"8 place Trocadéro et 11 Novembre, Paris",48.8635709711316,2.28669184811918,148,845.8530056774499,33144053700.0,False,€€€,48.865983,2.275725
+Café Kléber,Brasseries,3.0,"4 Place Trocadéro Et 11 Novembre, Paris",48.8637,2.28721,90,882.0262383983547,33147278665.0,False,€€,48.865983,2.275725
+Le Coq,French,3.0,"2 place du Trocadéro, Paris",48.8635824091453,2.28798579014358,103,935.7359525606691,33147278952.0,False,€€€,48.865983,2.275725
+Le Victor Hugo,"Brasseries, French, Cafes",3.5,"4 place Victor Hugo, Paris",48.87012,2.28548,39,851.5648747331707,33145008755.0,False,€€,48.865983,2.275725
+Le Malakoff,Brasseries,3.0,"6 place du Trocadéro et du 11 Novembre, Paris",48.863719,2.287135,64,871.7601894712426,33145537527.0,False,€€,48.865983,2.275725
+La Rotonde de la Muette,Brasseries,3.5,"12 chaussée de la Muette, Paris",48.8584108475904,2.273045,11,864.5065640077798,33145244545.0,False,€€€,48.865983,2.275725
+Le Bois,"French, Bistros",4.0,"29 rue Bois le Vent, Paris",48.8576,2.27402,9,947.8559191160938,33140720341.0,False,€€€,48.865983,2.275725
+Le Pain Quotidien,"Breakfast & Brunch, Bakeries, Coffee & Tea",2.0,"150 avenue Victor Hugo, Paris",48.8669,2.27849,9,228.00626493422791,33147047911.0,False,€€€,48.865983,2.275725
+La Place Longchamp,French,5.0,"84 rue de Longchamp, Paris",48.86549,2.28379,5,594.5302284158113,33145535000.0,False,€€€,48.865983,2.275725
+McDonald's,"Fast Food, Burgers",3.0,"131 avenue Victor Hugo, Paris",48.86785,2.28137,16,474.0373594186801,33147274106.0,False,€,48.865983,2.275725
+Romeo,Italian,3.5,"6 place Victor Hugo, Paris",48.8700904193351,2.28500807246201,26,818.3104238796902,33145012222.0,False,€€€,48.865983,2.275725
+Le Frankl'in,"French, Brasseries",3.0,"1 rue Benjamin Franklin, Paris",48.8589908246693,2.28471490023003,9,1018.3158308287956,33145206924.0,False,€€€,48.865983,2.275725
+Madison Caffe,"Pizza, Italian, Breakfast & Brunch",3.5,"10 chaussée de la Muette, Paris",48.85834,2.27321,4,864.5416423231704,33145031484.0,False,€€€,48.865983,2.275725
+Maison Privat,"Bakeries, Desserts, Sandwiches",5.0,"42 rue de l'Annonciation, Paris",48.8575475702466,2.27797269591115,1,952.2785359908548,NA,False,€€€,48.865983,2.275725
+Via Di Roma,"Fast Food, Pizza",2.5,"52 Rue St Didier, Paris",48.867,2.28379,3,600.6612716192567,33145530651.0,False,€€€,48.865983,2.275725
+I love Bo-Bun,Vietnamese,2.5,"3 rue Nicolo, Paris",48.858181,2.2806399,6,932.9930290686992,33140501368.0,False,€€,48.865983,2.275725
+Les Antiquaires,Bistros,4.5,"13 rue du Bac, Paris",48.8580664639432,2.32823697067099,458,927.8432442582576,33142610836.0,False,€€€,48.853756,2.339096
+Huguette,Seafood,4.0,"81 rue de Seine, Paris",48.8532753282413,2.337029,67,160.37814712741118,33143250028.0,False,€€,48.853756,2.339096
+Maison Sauvage,"French, Breakfast & Brunch",4.0,"5 rue de Buci, Paris",48.85366,2.33806,62,74.50423512304938,33146342626.0,False,€€,48.853756,2.339096
+L'Atlas,"French, Seafood",3.5,"11 rue Buci, Paris",48.853644,2.33762,99,108.6900621989902,33140512630.0,False,€€€,48.853756,2.339096
+Café de Paris,Cafes,3.5,"10 rue de Buci, Paris",48.853873,2.337616,54,109.05040951264932,33146348411.0,False,€€,48.853756,2.339096
+Culture Crêpes,Creperies,4.5,"26 rue Saint-André-des-Arts, Paris",48.8533962,2.3425902,45,258.77381466177746,33951377541.0,False,€,48.853756,2.339096
+Café Malongo,Cafes,4.0,"50 rue Saint-André des Arts, Paris",48.853487,2.340656,50,117.9991639652032,33143264710.0,False,€€,48.853756,2.339096
+Les Éditeur,"French, Lounges, Brasseries",3.5,"4 carrefour de l'Odéon, Paris",48.851994,2.338499,167,200.7116218515248,33143266776.0,False,€€€,48.853756,2.339096
+Le Café Laurent,"Bars, Jazz & Blues, Cafes",5.0,"Hôtel d'Aubusson, Paris",48.85476,2.33948,18,113.14905427779767,33143290333.0,False,€€€,48.853756,2.339096
+Le Néo Café,"French, Bars",3.5,"126 boulevard Saint-Germain, Paris",48.852482,2.339736,27,149.18501738764687,33974735519.0,False,€€€,48.853756,2.339096
+Le Buci,Brasseries,3.0,"52 Rue Dauphine, Paris",48.8538316757026,2.3384380229985,59,48.860135043578246,33143266752.0,False,€€,48.853756,2.339096
+Le Hibou,"Bistros, Bars",3.0,"16 carrefour de l'Odéon, Paris",48.8515168,2.338431,89,253.67345119301845,33143549691.0,False,€€€,48.853756,2.339096
+Au Petit Suisse,"Brasseries, French",4.0,"16 rue de Vaugirard, Paris",48.84905,2.33901,120,523.299346109386,33143260381.0,False,€€,48.853756,2.339096
+Le Pré aux Clercs,"French, Bars",3.5,"30 rue Bonaparte, Paris",48.8554,2.33383,79,426.9196009987697,33143544173.0,False,€€,48.853756,2.339096
+Café Louise,"Cafes, Brasseries",4.0,"155 bd Saint Germain, Paris",48.853878376742,2.3321086257314,105,511.393471762502,33142228898.0,False,€€,48.853756,2.339096
+Le Restaurant,"French, Breakfast & Brunch",4.5,"13 rue des Beaux-Arts, Paris",48.85635,2.33524,36,401.58421360154335,33144419901.0,False,€€€€,48.853756,2.339096
+Les Deux Magots,Cafes,3.5,"6 place Saint-Germain des Prés, Paris",48.85389,2.33336,395,419.92113768900225,33145485525.0,False,€€€,48.853756,2.339096
+Au Bougnat,French,4.0,"26 rue Chanoinesse, Paris",48.8543,2.35002,76,801.5440095335252,33143545074.0,False,€€€,48.853756,2.339096
+Le Mabillon,Brasseries,2.5,"164 boulevard Saint-Germain, Paris",48.85333,2.33575,141,241.39067742475171,33143266293.0,False,€€€,48.853756,2.339096
+Café Blanc,"French, Coffee & Tea, Breakfast & Brunch",4.5,"10 rue Croix des Petits Champs, Paris",48.8627362423863,2.339585,59,999.2184513343308,33142335585.0,False,€€€,48.853756,2.339096
+Café de Flore,Cafes,3.5,"172 boulevard Saint-Germain, Paris",48.854161,2.332603,495,477.1718086737508,33145485526.0,False,€€€,48.853756,2.339096
+Le Pré,"Cocktail Bars, Beer Bar, Cafes",5.0,"4 rue du Four, Paris",48.85301,2.33514,10,296.7491112650573,33140469322.0,False,€€€,48.853756,2.339096
+Pizza Marinara,"Italian, Pizza",3.5,"46 rue Dauphine, Paris 06",48.8539593962627,2.33876401110755,20,33.19296638882502,33143264594.0,False,€€,48.853756,2.339096
+Eric Kayser,"Bakeries, Sandwiches, Delicatessen",4.5,"8 rue Monge, Paris",48.848938,2.349609,136,937.39106845057,33144070142.0,False,€,48.853756,2.339096
+Café Panis,Brasseries,3.5,"21 quai de Montebello, Paris",48.8522,2.34841,149,700.6850943209228,33143541971.0,False,€€,48.853756,2.339096
+Le Relais Odéon,"Bistros, Cocktail Bars",3.5,"132 boulevard Saint Germain, Paris",48.852621,2.338988,72,126.43133244665944,33143298180.0,False,€€€,48.853756,2.339096
+Le Prince Racine,"Cafes, Brasseries, French",4.5,"22 rue Monsieur le Prince, Paris",48.849857,2.339913,14,437.63124290927504,33143298335.0,False,€€€,48.853756,2.339096
+Breakfast in America,"Breakfast & Brunch, Diners",4.0,"17 rue des Ecoles, Paris",48.847871903457,2.3510840228227,299,1094.2885895108464,33143545028.0,False,€€,48.853756,2.339096
+Le Bar du Marché,Cafes,3.5,"75 Rue Seine, Paris",48.85385,2.33693,95,158.8054968565252,33143265515.0,False,€€,48.853756,2.339096
+Mich Sandwiches,"Creperies, Sandwiches, Food Stands",4.5,"10 place St Michel, Paris",48.8533,2.34312,79,304.1413534904007,33606060606.0,False,€,48.853756,2.339096
+Le Café Marly,French,3.0,"93 rue de Rivoli, Paris",48.862013,2.335925,335,947.0068433686112,33149260660.0,False,€€€,48.853756,2.339096
+Nadia,"Creperies, French, Wine Bars",5.0,"94 bd Saint Germain, Paris",48.8512795,2.3440643,9,456.03708849404296,33146332290.0,False,€,48.853756,2.339096
+MONK la Taverne de Cluny,"Beer Bar, Tapas Bars, Barbeque",3.5,"51 rue de la Harpe, Paris",48.85158,2.34388,18,428.15297121232186,33143542888.0,False,€€,48.853756,2.339096
+Les Deux Palais,"Brasseries, Breakfast & Brunch",3.5,"3 boulevard du Palais, Paris",48.855103,2.346019,92,528.2106561397326,33143542086.0,False,€€€,48.853756,2.339096
+La Taverne de Nesle,Brasseries,4.0,"22 rue Dauphine, Paris",48.8546,2.33921,4,94.24053913510794,33146348519.0,False,€€,48.853756,2.339096
+La Grille Vintage,Brasseries,3.5,"14 rue Mabillon, Paris",48.85194,2.33524,40,346.9217608295327,33143541687.0,False,€€€,48.853756,2.339096
+Le Zimmer,Cafes,3.5,"1 place du Châtelet, Paris",48.857806,2.346886,66,726.3999357125992,33142367403.0,False,€€€,48.853756,2.339096
+La Crêperie,Creperies,4.0,"12 rue Soufflot, Paris",48.8468,2.34326,101,831.3012248102551,33143542280.0,False,€€,48.853756,2.339096
+Café Cassette,"Breakfast & Brunch, French, Wine Bars",3.5,"73 rue de Rennes, Paris",48.85108,2.33069,70,683.2126129966372,33145485378.0,False,€€,48.853756,2.339096
+Café Bords de Seine,"French, Cafes, Brasseries, Breakfast & Brunch",3.5,"1 place du Chatelet, Paris",48.85756272,2.34699379,52,731.527473932815,33142337927.0,False,€€,48.853756,2.339096
+Le Bonaparte,"French, Cafes",3.5,"42 rue Bonaparte, Paris",48.8545,2.33362,79,409.0875380517515,33143264281.0,False,€€,48.853756,2.339096
+La Fontaine Saint Michel,Brasseries,3.5,"11 place Saint-Michel, Paris",48.85314,2.343563,62,333.9369253563517,33143265431.0,False,€€,48.853756,2.339096
+Le Choupinet,"Brasseries, French, Cafes",4.0,"58 boulevard Saint-Michel, Paris",48.8477332,2.340714,27,680.0691973394751,33142030993.0,False,€€€,48.853756,2.339096
+Maison Rouge,Brasseries,3.5,"12-14 rue de la Ferronnerie, Paris",48.8604393,2.346665,34,926.7946094915824,33142211933.0,False,€,48.853756,2.339096
+Le Départ Saint Michel,Brasseries,3.0,"1 place Saint-Michel, Paris",48.853547,2.344754,112,414.62919276960537,33143542455.0,False,€€,48.853756,2.339096
+Restaurant du Musée d'Orsay,French,3.5,"1 rue de la Légion d'Honneur, Paris",48.860175,2.326074,75,1190.404962367449,33145494703.0,False,€€€,48.853756,2.339096
+Le Quartier Général,"Bistros, Cafes",4.0,"82 boulevard Saint Germain, Paris",48.8508075903854,2.34569248898697,25,583.4612560372572,33143541456.0,False,€€€,48.853756,2.339096
+Café Plume,Brasseries,3.5,"164 rue Saint-Honoré, Paris",48.862233,2.339744,30,943.811450756912,33142602766.0,False,€€,48.853756,2.339096
+Le Bistrot Mazarin,Bistros,3.5,"42 rue Mazarine, Paris",48.855389,2.337643,17,210.42182090048496,33143299901.0,False,€€,48.853756,2.339096
+Le Trait d'Union,French,3.5,"122 rue de Rennes, Paris",48.84677,2.32651,35,1197.1316699679712,33145487066.0,False,€€,48.853756,2.339096
+Les Parigots,"Bars, Brasseries",4.0,"5 rue Château d'eau, Paris",48.86926,2.36183,81,272.3360346779786,33977789923.0,False,€€,48.867872,2.364898
+La Marine,French,3.5,"55bis quai de Valmy, Paris",48.870604,2.36533366888659,135,305.3956513545622,33142396981.0,False,€€,48.867872,2.364898
+Season,"Breakfast & Brunch, Vegetarian, American (Traditional)",3.5,"1 rue Charles François Dupuis, Paris",48.86518,2.36283,100,328.6046641879663,33967175297.0,False,€€,48.867872,2.364898
+Kitchen,"Breakfast & Brunch, Vegetarian, Juice Bars & Smoothies",4.5,"74 rue des Gravilliers, Paris",48.864506,2.354586,230,842.0771203548444,33952551166.0,False,€€,48.867872,2.364898
+Café Oberkampf,Cafes,4.5,"3 rue Neuve Popincourt, Paris",48.86469,2.37398,51,745.251225451068,NA,False,€€,48.867872,2.364898
+Café République,Cafes,3.0,"9 place de la République, Paris",48.86671,2.363914,32,147.95706715856917,33142723144.0,False,€€,48.867872,2.364898
+Mon Coco,Brasseries,3.5,"6 place de la République, Paris",48.866807,2.36527,15,121.5572324658772,33147004410.0,False,€€,48.867872,2.364898
+Café Charlot,Cafes,3.5,"38 rue de Bretagne, Paris",48.8630405795265,2.36258512774969,136,563.2939058990962,33144540330.0,False,€€,48.867872,2.364898
+IMA,Mediterranean,4.5,"39 quai de Valmy, Paris",48.86934,2.36638,15,188.29040644633127,33140364137.0,False,€€,48.867872,2.364898
+Café Bonne Biere,"Brasseries, Bistros",4.0,"32 rue du Faubourg du Temple, Paris",48.8688999,2.36809,17,262.25811702425926,33143578496.0,False,€€,48.867872,2.364898
+Au Métro,Brasseries,4.5,"19 rue de Malte, Paris",48.864421,2.368517,13,466.2176092151524,33147004876.0,False,€€,48.867872,2.364898
+Indiana Café,"Burgers, American (Traditional), Breakfast & Brunch",2.5,"1 place de la République, Paris",48.86645,2.36462,76,159.47662307759222,33148878235.0,False,€€,48.867872,2.364898
+Chez Justine,"French, Barbeque",3.5,"96 rue Oberkampf, Paris",48.865686,2.377854,147,978.3451172541668,33143574403.0,False,€€,48.867872,2.364898
+Hôtel du Nord,French,3.5,"102 quai de Jemmapes, Paris",48.873494,2.364109,77,627.742817208283,33140407878.0,False,€€€,48.867872,2.364898
+Café du Temple,"French, Brasseries, Breakfast & Brunch",2.5,"14 rue du Faubourg du Temple, Paris",48.8681488,2.3656499,20,74.48195814189015,33158303896.0,False,€€,48.867872,2.364898
+Café Crème,"Breakfast & Brunch, Cafes",3.5,"4 rue Dupetit-Thouars, Paris",48.865016,2.362797,63,352.8577762204167,33142720406.0,False,€€,48.867872,2.364898
+Le Plein Soleil,French,3.5,"90 avenue Parmentier, Paris",48.866447,2.374318,38,707.0047355889334,33148054106.0,False,€€,48.867872,2.364898
+Le Temple d'Or,"Bars, Brasseries, French",3.5,"17 rue faubourg du Temple, Paris",48.868385,2.3659454,8,95.4697335739148,33144849827.0,False,€,48.867872,2.364898
+Fluctuat Nec Mergitur,"Bars, Tapas/Small Plates, Bistros",3.0,"18 place de la République, Paris",48.8680038318633,2.36299160867929,7,140.21879242683374,33142064281.0,False,€€,48.867872,2.364898
+Les Relais d'Alsace - Taverne Karlsbräu,"French, Brasseries",2.5,"6 Place de la République, Paris",48.8664207,2.3652301,22,142.25417264481592,33147004410.0,False,€€€,48.867872,2.364898
+Au Grand Turenne,French,3.0,"27 bd du Temple, Paris",48.86514,2.36545,9,306.5070539365173,33142723405.0,False,€€,48.867872,2.364898
+Maison Landemaine,"Bakeries, Salad, Sandwiches",4.5,"41 rue Oberkampf, Paris",48.8644770551965,2.37155862764912,14,616.3562004793475,33143578233.0,False,€€,48.867872,2.364898
+Chez Jeanette,"Bars, French, Bistros",3.5,"47 rue du faubourg Saint-Denis, Paris",48.8716,2.35367,70,919.9093208680348,33147703089.0,False,€€,48.867872,2.364898
+1K Paris Hotel,"Hotels, Bars, Restaurants",4.0,"13 boulevard du Temple, Paris",48.8639318,2.3658744,6,443.96343351584983,33142712000.0,False,€€€,48.867872,2.364898
+Les Petits Tonneaux,Brasseries,4.0,"17 rue du Faubourg du Temple, Paris",48.86841,2.36596,8,108.4612803777756,33142459056.0,False,€,48.867872,2.364898
+La Fontaine de Belleville,"Cafes, Bars, Sandwiches",4.0,"31 - 33 rue Juliette Dodu, Paris",48.87577,2.36856,16,926.1789414540024,33981755454.0,False,€€,48.867872,2.364898
+McDonald's,"Fast Food, Burgers",2.5,"19 place de la République, Paris",48.86762,2.3624,16,186.6605038262938,33142729787.0,False,€€,48.867872,2.364898
+Le Sully,"Bars, Brasseries",4.0,"13 rue du faubourg Saint-Denis, Paris",48.87029,2.35282,16,927.1294366568076,33177107470.0,False,€,48.867872,2.364898
+Le Buffet de la Gare,"Bars, Cafes, Brasseries",4.0,"70 bd de Strasbourg, Paris",48.8752213,2.3578801,11,955.2920461306364,33146073605.0,False,€€,48.867872,2.364898
+La Ville de Provins,Brasseries,4.5,"74 boulevard de Strasbourg, Paris",48.875575,2.358201,6,986.6520983567748,33146073360.0,False,€€,48.867872,2.364898
+Café Chéri,"Bars, Music Venues, Cafes",3.5,"44 bd de la Villette, Paris",48.8741,2.3752399,62,1033.2453432578618,33142020205.0,False,€€,48.867872,2.364898
+Origin Restaurant,"French, Wine Bars, Cocktail Bars",4.0,"40 Rue Rene Boulanger, Paris",48.86844,2.36089,2,299.88866165549814,33171183888.0,False,€€€,48.867872,2.364898
+Café du Marché des Enfants Rouges,Cafes,4.0,"37 Rue Bretagne, Paris",48.8628,2.36262,46,597.2366369482637,33964130625.0,False,€€,48.867872,2.364898
+Maison Landemaine,"Bakeries, Salad, Sandwiches",3.0,"180 rue du Temple, Paris",48.86694,2.3629,4,172.86359974705647,33143486336.0,False,€€,48.867872,2.364898
+Le Napoléon,"French, Bars, Brasseries",3.5,"73 rue du Faubourg Saint-Denis, Paris",48.87289,2.35431,56,964.5208143500952,33147702136.0,False,€€,48.867872,2.364898
+Le Comptoir des Archives,"Brasseries, Cocktail Bars",3.0,"41 rue des Archives, Paris",48.860003,2.3565253,37,1068.096273547352,33142721356.0,False,€€,48.867872,2.364898
+La Terrasse des Archives,"Brasseries, French",3.5,"51 rue des Archives, Paris",48.861316188561,2.3579424358902,47,889.0226246677521,33142721757.0,False,€€,48.867872,2.364898
+Mardin Çorba Salonu,"Turkish, Middle Eastern, Soup",4.5,"19 rue du Faubourg-Saint-Denis, Paris",48.87044,2.3529,10,927.4130186506876,NA,False,€,48.867872,2.364898
+Chez XU,Chinese,4.0,"9 rue Volta, Paris",48.8650093,2.35693,15,667.6321698016384,33148870223.0,False,€,48.867872,2.364898
+Mamie Burger,"Burgers, American (Traditional), Barbeque",3.5,"75 rue du Faubourg Saint-Denis, Paris",48.872991,2.354218,12,966.5041399163796,33986318610.0,False,€€,48.867872,2.364898
+Bistrot du Centre,French,4.0,"131 rue Saint-Martin, Paris",48.860790359254,2.35130940171415,8,1268.1473474096065,33140299647.0,False,€€,48.867872,2.364898
+Le Bouquet des Archives,Brasseries,4.0,"31 rue des Archives, Paris",48.85936,2.355931,22,1151.6151145121687,33142720849.0,False,€€,48.867872,2.364898
+La Tour du Temple,"Cafes, French, Brasseries",3.5,"160 bis rue du Temple, Paris 03",48.865843,2.360881,13,370.49698863503255,33142721344.0,False,€€,48.867872,2.364898
+Manfred,"Breakfast & Brunch, Cafes",3.0,"1 rue Réaumur, Paris",48.864656581569,2.3594469925726,48,535.5947448934281,33142789940.0,False,€€,48.867872,2.364898
+Le Carillon,"Bars, Cafes",3.5,"18 rue Alibert, Paris",48.871632,2.367837,34,470.0614578382995,33142398188.0,False,€,48.867872,2.364898
+Les Petites Canailles,French,3.5,"80 rue Amelot, Paris",48.8607241782034,2.36737402981832,24,815.2251656528493,NA,False,€€,48.867872,2.364898
+Le Bistrot,Brasseries,3.5,"92 rue de Turenne, Paris",48.86171,2.36472,14,684.9143893974889,33142770986.0,False,€€,48.867872,2.364898
+Le Progrès,Brasseries,3.5,"1 rue de Bretagne, Paris",48.861893,2.364118,44,667.3325190778546,33142720144.0,False,€€,48.867872,2.364898
+McDonald's,"Burgers, Fast Food",2.5,"29 rue du Faubourg du Temple, Paris",48.86896,2.36776,3,240.98379036648225,33144527173.0,False,€€,48.867872,2.364898
+Les Bains - La Salle à Manger,French,5.0,"7 rue du Bourg l'Abbé, Paris",48.8639183,2.352,2,1041.687637759817,33142770707.0,False,€€€€,48.867872,2.364898
+Les Antiquaires,Bistros,4.5,"13 rue du Bac, Paris",48.8580664639432,2.32823697067099,458,516.166236209099,33142610836.0,False,€€€,48.856452,2.334852
+Le Restaurant,"French, Breakfast & Brunch",4.5,"13 rue des Beaux-Arts, Paris",48.85635,2.33524,36,31.29529513011397,33144419901.0,False,€€€€,48.856452,2.334852
+Huguette,Seafood,4.0,"81 rue de Seine, Paris",48.8532753282413,2.337029,67,387.4805308719385,33143250028.0,False,€€,48.856452,2.334852
+Le Pré aux Clercs,"French, Bars",3.5,"30 rue Bonaparte, Paris",48.8554,2.33383,79,135.8954055370107,33143544173.0,False,€€,48.856452,2.334852
+Les Deux Magots,Cafes,3.5,"6 place Saint-Germain des Prés, Paris",48.85389,2.33336,395,305.0736474092582,33145485525.0,False,€€€,48.856452,2.334852
+Maison Sauvage,"French, Breakfast & Brunch",4.0,"5 rue de Buci, Paris",48.85366,2.33806,62,388.4714127246768,33146342626.0,False,€€,48.856452,2.334852
+Café Louise,"Cafes, Brasseries",4.0,"155 bd Saint Germain, Paris",48.853878376742,2.3321086257314,105,349.5368696609147,33142228898.0,False,€€,48.856452,2.334852
+Angelina,"Breakfast & Brunch, Tea Rooms, Patisserie/Cake Shop",4.0,"226 rue de Rivoli, Paris",48.865092,2.328464,1530,1068.3449493608907,33142608200.0,False,€€€,48.856452,2.334852
+Café de Flore,Cafes,3.5,"172 boulevard Saint-Germain, Paris",48.854161,2.332603,495,303.25968723022976,33145485526.0,False,€€€,48.856452,2.334852
+L'Atlas,"French, Seafood",3.5,"11 rue Buci, Paris",48.853644,2.33762,99,372.16246719021547,33140512630.0,False,€€€,48.856452,2.334852
+Happy Caffé,"Creperies, Sandwiches",5.0,"214 rue de Rivoli, Paris",48.86476,2.329615,117,1000.0936732137324,33953529691.0,False,€,48.856452,2.334852
+Café de Paris,Cafes,3.5,"10 rue de Buci, Paris",48.853873,2.337616,54,350.90380689866123,33146348411.0,False,€€,48.856452,2.334852
+Balagan,"Middle Eastern, Cocktail Bars",4.5,"9 rue d'Alger, Paris",48.86543,2.32979,69,1071.1330174395966,33140207214.0,False,€€,48.856452,2.334852
+Le Café Laurent,"Bars, Jazz & Blues, Cafes",5.0,"Hôtel d'Aubusson, Paris",48.85476,2.33948,18,391.8742623402394,33143290333.0,False,€€€,48.856452,2.334852
+Café Blanc,"French, Coffee & Tea, Breakfast & Brunch",4.5,"10 rue Croix des Petits Champs, Paris",48.8627362423863,2.339585,59,779.859816572764,33142335585.0,False,€€€,48.856452,2.334852
+Café de la Régence,French,4.0,"167 rue Saint-Honoré, Paris",48.863613,2.334516,46,796.6466410929579,33142604011.0,False,€€,48.856452,2.334852
+Le Bonaparte,"French, Cafes",3.5,"42 rue Bonaparte, Paris",48.8545,2.33362,79,235.01876169192772,33143264281.0,False,€€,48.856452,2.334852
+Culture Crêpes,Creperies,4.5,"26 rue Saint-André-des-Arts, Paris",48.8533962,2.3425902,45,660.2934948274066,33951377541.0,False,€,48.856452,2.334852
+Loup,"French, Breakfast & Brunch",4.0,"44 rue du Louvre, Paris",48.863959,2.342631,60,1010.2698116744892,33142367323.0,False,€€€,48.856452,2.334852
+Au Pied de Cochon,"Seafood, Brasseries",3.5,"6 rue Coquillière, Paris",48.863719,2.343711,372,1035.8433190674666,33140137700.0,False,€€€,48.856452,2.334852
+Café Panis,Brasseries,3.5,"21 quai de Montebello, Paris",48.8522,2.34841,149,1097.5013879310325,33143541971.0,False,€€,48.856452,2.334852
+Le Café Marly,French,3.0,"93 rue de Rivoli, Paris",48.862013,2.335925,335,623.319441083252,33149260660.0,False,€€€,48.856452,2.334852
+Grand Hôtel du Palais Royal,"Hotels, Restaurants, Beauty & Spas",4.5,"4 rue de Valois, Paris",48.8631096,2.33779,20,778.0115932691587,33142961535.0,False,€€€,48.856452,2.334852
+Au Petit Suisse,"Brasseries, French",4.0,"16 rue de Vaugirard, Paris",48.84905,2.33901,120,877.4899416038983,33143260381.0,False,€€,48.856452,2.334852
+Le Mabillon,Brasseries,2.5,"164 boulevard Saint-Germain, Paris",48.85333,2.33575,141,350.1543157816473,33143266293.0,False,€€€,48.856452,2.334852
+Les Éditeur,"French, Lounges, Brasseries",3.5,"4 carrefour de l'Odéon, Paris",48.851994,2.338499,167,562.9608101750157,33143266776.0,False,€€€,48.856452,2.334852
+Eric Kayser,"Bakeries, Delicatessen, Sandwiches",4.0,"4 rue de l'Echelle, Paris",48.8636240129141,2.33409101177985,66,799.4323065250023,33140150131.0,False,€€,48.856452,2.334852
+Le Pain Quotidien,"Breakfast & Brunch, Bakeries, Coffee & Tea",4.0,"25 rue de Varenne, Paris",48.85386,2.32417,62,828.4337292752839,33145440210.0,False,€€,48.856452,2.334852
+Le Buci,Brasseries,3.0,"52 Rue Dauphine, Paris",48.8538316757026,2.3384380229985,59,392.086186900409,33143266752.0,False,€€,48.856452,2.334852
+Le Pré,"Cocktail Bars, Beer Bar, Cafes",5.0,"4 rue du Four, Paris",48.85301,2.33514,10,379.7305574637164,33140469322.0,False,€€,48.856452,2.334852
+Café Malongo,Cafes,4.0,"50 rue Saint-André des Arts, Paris",48.853487,2.340656,50,537.6045082259639,33143264710.0,False,€€,48.856452,2.334852
+Le Nemours,Brasseries,3.5,"2 place Colette, Paris",48.863135,2.336537,73,753.2721838448438,33142613414.0,False,€€,48.856452,2.334852
+Le Zimmer,Cafes,3.5,"1 place du Châtelet, Paris",48.857806,2.346886,66,893.189473493477,33142367403.0,False,€€€,48.856452,2.334852
+Café Cassette,"Breakfast & Brunch, French, Wine Bars",3.5,"73 rue de Rennes, Paris",48.85108,2.33069,70,670.4717445291235,33145485378.0,False,€€,48.856452,2.334852
+Café de Paris,Brasseries,4.0,"3 rue de l'Échelle, Paris",48.863662,2.33385,75,805.0594024518684,33142608426.0,False,€€,48.856452,2.334852
+Café Bords de Seine,"French, Cafes, Brasseries, Breakfast & Brunch",3.5,"1 place du Chatelet, Paris",48.85756272,2.34699379,52,918.375537397208,33142337927.0,False,€€,48.856452,2.334852
+L'Imprimerie,Cafes,4.0,"29 rue Coquillière, Paris",48.86413,2.3416,49,982.5265088308204,33145080708.0,False,€€,48.856452,2.334852
+Le Bar du Marché,Cafes,3.5,"75 Rue Seine, Paris",48.85385,2.33693,95,326.8429977902307,33143265515.0,False,€€,48.856452,2.334852
+Café Ruc,French,3.0,"159 rue St Honoré, Paris",48.86316,2.33551,119,747.448534616526,33142609754.0,False,€€€,48.856452,2.334852
+Le Dali,French,4.0,"228 rue Rivoli, Paris",48.86516,2.32807,30,1103.049967055294,33144581044.0,False,€€€€,48.856452,2.334852
+Restaurant du Musée d'Orsay,French,3.5,"1 rue de la Légion d'Honneur, Paris",48.860175,2.326074,75,764.042434323662,33145494703.0,False,€€€,48.856452,2.334852
+Nadia,"Creperies, French, Wine Bars",5.0,"94 bd Saint Germain, Paris",48.8512795,2.3440643,9,886.0602363661543,33146332290.0,False,€,48.856452,2.334852
+La Fregate,"French, Modern European, Seafood",3.5,"1 rue de Bac, Paris",48.85942,2.329265,87,525.333796678097,33142612377.0,False,€€,48.856452,2.334852
+Le Choupinet,"Brasseries, French, Cafes",4.0,"58 boulevard Saint-Michel, Paris",48.8477332,2.340714,27,1060.1245279579953,33142030993.0,False,€€€,48.856452,2.334852
+Maison Rouge,Brasseries,3.5,"12-14 rue de la Ferronnerie, Paris",48.8604393,2.346665,34,971.3124671094592,33142211933.0,False,€,48.856452,2.334852
+Le Prince Racine,"Cafes, Brasseries, French",4.5,"22 rue Monsieur le Prince, Paris",48.849857,2.339913,14,821.5171414556005,33143298335.0,False,€,48.856452,2.334852
+Café Plume,Brasseries,3.5,"164 rue Saint-Honoré, Paris",48.862233,2.339744,30,735.7310071700884,33142602766.0,False,€€,48.856452,2.334852
+Le Néo Café,"French, Bars",3.5,"126 boulevard Saint-Germain, Paris",48.852482,2.339736,27,567.9447585467046,33974735519.0,False,€€€,48.856452,2.334852
+Le Hibou,"Bistros, Bars",3.0,"16 carrefour de l'Odéon, Paris",48.8515168,2.338431,89,608.0436817588659,33143549691.0,False,€€€,48.856452,2.334852
+Les Deux Palais,"Brasseries, Breakfast & Brunch",3.5,"3 boulevard du Palais, Paris",48.855103,2.346019,92,830.6572411905282,33143542086.0,False,€€€,48.856452,2.334852
+Maison Landemaine,"Bakeries, Salad, Sandwiches",4.5,"26 rue des Martyrs, Paris",48.87832,2.33975,25,215.7364756336705,33140160342.0,False,€€,48.879296,2.33736
+The Frog & Underground,"Pubs, American (Traditional), Brasseries",4.5,"176 rue Montmartre, Paris",48.871088,2.343115,45,1005.0451514809832,33144820472.0,False,€€,48.879296,2.33736
+Le Pigalle,"Hotels, Bars, French",4.0,"9 rue Frochot, Paris",48.8816185,2.33727,24,257.34307209391716,33148783714.0,False,€€€,48.879296,2.33736
+Le Pain Quotidien,"Bakeries, Coffee & Tea, Breakfast & Brunch",4.0,"54 rue des Martyrs, Paris",48.8798630733843,2.34026033179163,22,221.26294137117384,33142819209.0,False,€€,48.879296,2.33736
+Bistrot Smiley,"Bistros, Cocktail Bars",4.0,"37 rue des Martyrs, Paris",48.8792686,2.3398499,25,173.73608157146822,33153200067.0,False,€€,48.879296,2.33736
+Pedzouille,"Bistros, Steakhouses",4.5,"66 rue du Faubourg Poissonnière, Paris",48.876133,2.348528,25,889.2101940289419,33986404242.0,False,€€,48.879296,2.33736
+Lazare,"French, Brasseries",4.0,"Parvis de la Gare Saint-Lazare, Paris",48.876683,2.325271,73,930.5802608524054,33144908080.0,False,€€€,48.879296,2.33736
+Bo Man Café,"Brasseries, Cafes, French, Coffee & Tea",4.0,"33 Rue Notre Dame De Lorette, Paris",48.87898,2.33686,24,50.70847133077089,33144637041.0,False,€€,48.879296,2.33736
+Café Marguerite,Brasseries,4.5,"28 rue des Martyrs, Paris",48.8785136901908,2.33986740145586,12,202.9387529623422,33171607076.0,False,€€,48.879296,2.33736
+La Mascotte,"Brasseries, Bars",4.0,"52 rue des Abbesses, Paris",48.88561,2.3354092,61,716.4389627374932,33146062815.0,False,€€€,48.879296,2.33736
+Lakshmi Bhavan,Indian,4.5,"57 rue Rodier, Paris",48.8810196,2.34411,25,529.9035134740925,33145266187.0,False,€€,48.879296,2.33736
+Le Richer,"French, Wine Bars",4.0,"2 rue Richer, Paris",48.874131,2.3476848,74,948.652346037375,33967291843.0,False,€€€,48.879296,2.33736
+Café de la Paix,"French, Breakfast & Brunch, Seafood",3.5,"5 place de l'Opéra, Paris",48.870878,2.331753,246,1021.9108844897293,33140073636.0,False,€€€,48.879296,2.33736
+Rouge Bis,Brasseries,4.0,"7 place Blanche, Paris",48.8837021,2.3319197,95,631.116122587536,33140164536.0,False,€€,48.879296,2.33736
+Tea Follies,French,3.0,"2 Place Gustave Toudouze, Paris",48.87943,2.33749,27,22.83795805695644,33142813603.0,False,€€€,48.879296,2.33736
+La Crème de Paris,"Ice Cream & Frozen Yogurt, Gluten-Free, Creperies",4.0,"4 rue du Faubourg Montmartre, Paris",48.871955,2.343232,151,922.3379593262332,33148248950.0,False,€€,48.879296,2.33736
+Café des Deux Moulins,Brasseries,3.0,"15 rue Lepic, Paris 18",48.8849297,2.333624,184,683.4257827476318,33142549050.0,False,€€,48.879296,2.33736
+La Terrasse Choron,"Cafes, French",4.0,"4 Rue Choron, Paris",48.87755,2.34092,7,324.74774766817916,33142814314.0,False,€€,48.879296,2.33736
+Coquelicot,"Bakeries, Breakfast & Brunch",3.5,"24 rue des Abbesses, Paris",48.88476,2.33762,150,607.8747883278576,33146061877.0,False,€€,48.879296,2.33736
+Le Grand Café des Capucines,French,3.0,"4 boulevard des Capucines, Paris",48.871327,2.333537,139,929.165905289782,33143121900.0,False,€€€,48.879296,2.33736
+A la Place Saint Georges,Brasseries,3.5,"60 rue St Georges, Paris",48.87833,2.33757,19,108.49642613425166,33142803932.0,False,€€,48.879296,2.33736
+Le Sancerre,"Brasseries, Cafes",3.5,"35 Rue Abbesses, Paris",48.88503,2.33704,101,638.0296405349083,33142580820.0,False,€€€,48.879296,2.33736
+Mamie Burger,Burgers,4.0,"21 rue du Faubourg Montmartre, Paris",48.87312,2.34293,24,793.1201319232905,33981457292.0,False,€€,48.879296,2.33736
+Café Limo,Italian,3.0,"4 place Gustave Toudouze, Paris",48.8795153521288,2.33727080257273,7,25.258396391781936,33148783984.0,False,€€,48.879296,2.33736
+Maria Magdalena,"Cocktail Bars, Tapas/Small Plates",3.5,"41 rue de la Rochefoucauld, Paris",48.87982,2.33498,8,188.2179673010596,33674023989.0,False,€€€,48.879296,2.33736
+Le Pain Quotidien,"Breakfast & Brunch, Bakeries, Coffee & Tea",4.5,"108 rue Saint Lazare, Paris",48.8755965146554,2.32529720978698,15,973.3491243554956,33140084330.0,False,€€,48.879296,2.33736
+Wepler,Brasseries,3.5,"14 place de Clichy, Paris",48.883989,2.328086,109,855.69650113508,33145225324.0,False,€€€,48.879296,2.33736
+Café le Baron,"French, Wine Bars, Cocktail Bars",3.0,"11 rue Châteaudun, Paris",48.87573,2.340637,73,463.3016868917009,33148781368.0,False,€€,48.879296,2.33736
+Corso,Italian,3.5,"10 ave Trudaine, Paris",48.881895175377,2.345263582166,47,646.1842604633333,33148785581.0,False,€€,48.879296,2.33736
+La Crémaillère 1900,"French, Cabaret",3.5,"15 place du Tertre, Paris",48.88653,2.34053,50,845.8851628078357,33146065859.0,False,€€€,48.879296,2.33736
+Le Chat Noir 1881,"Lounges, French, Brasseries",3.5,"68 boulevard de Clichy, Paris",48.8836260019127,2.33405392616987,57,538.7700328544908,33146069428.0,False,€€€,48.879296,2.33736
+Clichy's Tavern,"Belgian, Beer Bar",4.0,"128 bis bd Clichy, Paris",48.8847,2.32922,57,845.7531179740217,33142949965.0,False,€€,48.879296,2.33736
+L'Entracte,Brasseries,3.5,"1 rue Auber, Paris",48.871129,2.331325,40,1009.693744991794,33147422625.0,False,€€€,48.879296,2.33736
+Le Relais de la Butte,French,3.5,"12 rue Ravignan, Paris",48.885782,2.338096,63,723.2234135169534,33142232434.0,False,€€,48.879296,2.33736
+Moloko Paris,"Japanese, Cocktail Bars",5.0,"26 rue Pierre Fontaine, Paris",48.88223,2.33377,3,414.5838440769417,33142068724.0,False,€€,48.879296,2.33736
+Café Madeleine,"Cafes, Brasseries",3.0,"1 rue Tronchet, Paris",48.87103,2.32497,70,1251.410884768025,33142652191.0,False,€€,48.879296,2.33736
+Maison Landemaine,"Bakeries, Salad, Sandwiches",4.0,"56 rue de Clichy, Paris",48.880898,2.328875,26,645.5453612604374,33954039556.0,False,€€€€,48.879296,2.33736
+Le Gramont,Bistros,4.5,"15 boulevard des Italiens, Paris",48.87132,2.3372099,20,887.4485441374474,33142975850.0,False,€€€€,48.879296,2.33736
+Braun Notes,"Coffee & Tea, Breakfast & Brunch",4.5,"31-33 rue de Mogador, Paris",48.8758317288875,2.33099130479798,14,604.3988387607191,NA,False,€€,48.879296,2.33736
+La Rotonde,"Brasseries, Breakfast & Brunch, Bars",3.0,"2 place d'Estienne d'Orves, Paris",48.8766575770586,2.33261584047159,18,454.3502154124511,33148742391.0,False,€€,48.879296,2.33736
+Le Vrai Paris,"Brasseries, Wine Bars",3.5,"33 rue des Abbesses, Paris",48.88497,2.3372,70,631.0370871581512,33142622568.0,False,€€,48.879296,2.33736
+Le Dunkerque,"Brasseries, Cocktail Bars, French",3.5,"1 avenue Trudaine, Paris",48.8817482,2.3462999,24,714.1389944029679,33142811134.0,False,€€,48.879296,2.33736
+Brasserie Barbès,"Cocktail Bars, French, Cafes",3.0,"2 bd Barbès, Paris",48.8838824130061,2.35008113086224,61,1060.8409078273075,33185152230.0,False,€€€,48.879296,2.33736
+Le Petit Poucet,"Bars, Cafes",2.5,"5 place de Clichy, Paris",48.88345,2.3272,64,874.8320002029662,33145223676.0,False,€€,48.879296,2.33736
+Mon Paris,"Cocktail Bars, Brasseries",3.5,"6 rue Edouard VII, Paris",48.8708418927069,2.32927461719669,24,1110.556765394041,33142948603.0,False,€€,48.879296,2.33736
+Mae Café,Restaurants,4.0,"42 rue SaintGeorges, Paris",48.8768806,2.33722,3,262.0699331866771,33148780994.0,False,€€,48.879296,2.33736
+Triadou Haussmann,"French, Bars, Brasseries",3.0,"80 bd Haussmann, Paris",48.8741440339748,2.32554371580972,76,1036.7783561934273,33143874767.0,False,€€,48.879296,2.33736
+La Taverne,Brasseries,4.0,"24 boulevard des Italiens, Paris",48.8715389,2.3362824,18,866.133310193974,33155331000.0,False,€€,48.879296,2.33736
+L'Opéra Restaurant,Restaurants,3.0,"Palais Garnier, Paris",48.8720826136232,2.33253479003906,41,876.2778823438734,33142688680.0,False,€€€,48.879296,2.33736
+Vertical'Art Pigalle,"Climbing, Brasseries",4.0,"6 boulevard de Clichy, Paris",48.8824487,2.339059,2,371.934432822917,33140250955.0,False,€€€,48.879296,2.33736
+Chez Troquette,French,5.0,"1 rue Saint-Maur, Paris",48.85866,2.38339,12,737.4983212444724,33143739066.0,False,€€,48.855908,2.392571
+L'Armagnac,Bistros,4.0,"104 rue Charonne, Paris",48.854496,2.384889,38,583.5143252700242,33143714943.0,False,€€,48.855908,2.392571
+Maison Landemaine,"Bakeries, Salad, Sandwiches",4.5,"121 rue de Charonne, Paris",48.8548729472644,2.38575886934996,11,511.4708080083407,33143713306.0,False,€€,48.855908,2.392571
+Chez Prosper,Bistros,3.5,"7 avenue du Trône, Paris",48.848554304744,2.3983338856896,280,919.9727092987672,33143730851.0,False,€€,48.855908,2.392571
+La Belle Équipe,"Bistros, French, Cafes",4.5,"92 rue de Charonne, Paris",48.85384,2.38197,36,807.4700630064053,33143718958.0,False,€€,48.855908,2.392571
+En attendant l'or,"Pubs, French",3.5,"6 rue Faidherbe, Paris",48.850661373888,2.3845008934232,65,829.9984719945213,33143714310.0,False,€€,48.855908,2.392571
+L'Usine Charonne,"Breakfast & Brunch, Tapas/Small Plates, Cocktail Bars",3.5,"1 rue d'Avron, Paris",48.851477,2.39867,45,664.7187293117896,33143730853.0,False,€€,48.855908,2.392571
+L'Office,Cafes,3.5,"148 bd de Charonne, Paris",48.8564534,2.3947267,10,183.23926939329183,33143702622.0,False,€€€,48.855908,2.392571
+L'Abribus Café,"Moroccan, French, Bars",4.0,"56 rue de Bagnolet, Paris",48.85737,2.3992,53,507.9493465356913,33143717818.0,False,€,48.855908,2.392571
+Café Le Papillon,"French, Wine Bars, Bistros",4.0,"144 rue de Bagnolet, Paris",48.85973,2.40224,14,825.263130270932,33143733855.0,False,€€,48.855908,2.392571
+Le Bistrot d'Avron,French,4.0,"17 rue d'Avron, Paris",48.85164,2.39967,13,699.7282614927248,33140098158.0,False,€€,48.855908,2.392571
+Café Marco Polo,Brasseries,3.5,"8-10 avenue du Trône, Paris",48.8479,2.39802,62,975.5921763345902,33143432619.0,False,€€,48.855908,2.392571
+L'Artiste,"French, Cocktail Bars, Breakfast & Brunch",4.0,"153 rue de la Roquette, Paris",48.85952,2.38652,47,600.3232050541156,33143799619.0,False,€€,48.855908,2.392571
+Les Funambules,"French, Breakfast & Brunch",3.5,"12 rue Faidherbes, Paris",48.85118221,2.3840757,89,813.8687581695907,33143708370.0,False,€€,48.855908,2.392571
+La Poulette de Grain,Cafes,3.5,"261 rue du faubourg Saint-Antoine, Paris",48.8498383,2.38709,14,776.7760184685478,33142529124.0,False,€€€,48.855908,2.392571
+Aux Tables du Père Lachaise,Bistros,4.0,"44 bd de Ménilmontant, Paris",48.86322,2.38752,19,893.5740538420306,33950970076.0,False,€€,48.855908,2.392571
+Le Bidule,"Bars, Bistros, French",3.5,"2 Rue Faidherbe, Paris",48.85027,2.38451,22,860.6862874165225,33143716950.0,False,€€,48.855908,2.392571
+Le Dalou,"French, Seafood, Brasseries",3.5,"30 place de la Nation, Paris",48.84778,2.3974,63,974.079422996271,33143434138.0,False,€€€,48.855908,2.392571
+L'Ingénu Café,"Bars, Brasseries",3.5,"184 bd Voltaire, Paris",48.8546669,2.3853294,13,547.4535435537717,33143705159.0,False,€,48.855908,2.392571
+Sushivilla,"Food Delivery Services, Japanese",4.0,"216 Rue Fbg St Antoine, Paris",48.84971,2.38702,7,799.9006689532023,33143486605.0,False,€€,48.855908,2.392571
+Bistrot 79,"Bistros, Bars",4.0,"79 bd Diderot, Paris",48.8475849,2.387061,7,1009.4275323268532,33143724540.0,False,€,48.855908,2.392571
+Indiana Café,American (Traditional),3.0,"2 place Gambetta, Paris",48.864765926952,2.3987548958524,15,1083.9301860338142,33147979001.0,False,€€,48.855908,2.392571
+Artisan Boulanger,"Bakeries, Sandwiches, Chocolatiers & Shops",3.5,"7 rue de Bagnolet, Paris",48.85663,2.39503,2,197.04452143598695,33143702753.0,False,€€,48.855908,2.392571
+Mama Shelter - Restaurant-Bar-Pizzeria,"Pizza, Bars, French",3.5,"109 rue de Bagnolet, Paris",48.85964,2.40286,4,903.461067244274,33143484545.0,False,€€€,48.855908,2.392571
+Maison Landemaine,"Bakeries, Sandwiches, Salad",4.0,"130 rue de la Roquette, Paris",48.85741,2.37993,4,938.0161183680544,33143799803.0,False,€€€,48.855908,2.392571
+Le Mademoiselle,"Brasseries, French, Cocktail Bars",4.0,"14 ave Philippe Auguste, Paris",48.85022,2.39475,4,652.2178576897977,33143480222.0,False,€€€,48.855908,2.392571
+Comptoir Voltaire,Cafes,4.0,"253 boulevard Voltaire, Paris",48.850374,2.393102,8,616.5294830633072,33143734054.0,False,€€,48.855908,2.392571
+Les Blouses Blanches,"Lounges, Tapas Bars, Breakfast & Brunch",3.5,"186 du Faubourg Saint Antoine, Paris",48.850189215175,2.3830640935236,17,942.3895067074844,33614331037.0,False,€€,48.855908,2.392571
+Cafe Moco,Cafes,4.0,"177 boulevard Voltaire, Paris",48.8542369501078,2.38646663725376,8,483.6804770450572,33648521715.0,False,€€,48.855908,2.392571
+Yoshi,"Japanese, Sushi Bars",3.5,"193 boulevard Voltaire, Paris",48.85315,2.38797,5,455.3229648780446,33143481708.0,False,€€,48.855908,2.392571
+Au Rond-Point,French,2.5,"67 boulevard de Ménilmontant, Paris",48.862683,2.387243,20,848.2392370586584,33140211335.0,False,€€,48.855908,2.392571
+Irish Corner,Irish,2.5,"26 place Nation, Paris",48.84752,2.3970699,27,989.0455366002996,33143075150.0,False,€€€,48.855908,2.392571
+Les Argentiers,Brasseries,3.5,"24 rue de Reuilly, Paris",48.8470639,2.386908,9,1067.0888249619445,33143432512.0,False,€€,48.855908,2.392571
+jiliya,Chinese,4.5,"7 Avenue Philippe Auguste, Paris",48.848394,2.39591,6,870.461512314144,33143711703.0,False,€€,48.855908,2.392571
+Maison Landemaine,"Bakeries, Salad, Sandwiches",3.5,"136 rue de la Roquette, Paris",48.857746,2.381017,11,869.6334934873861,33967066598.0,False,€€,48.855908,2.392571
+Le Comptoir Parmentier,"Restaurants, Bars",3.5,"6 Avenue Parmentier, Paris",48.85896,2.3796,11,1007.7965460919652,33143790138.0,False,€€,48.855908,2.392571
+Chez Lui,"Wine Bars, French",4.0,"67 rue Saint-Maur, Paris",48.86292,2.37931,8,1249.3186484625198,33143383702.0,False,€€,48.855908,2.392571
+Les Polissons,"Modern European, French, Steakhouses",5.0,"1 avenue Gambetta, Paris",48.863289,2.388517,1,872.7076318577914,33142549015.0,False,€€€,48.855908,2.392571
+Au Cadran Voltaire,French,2.5,"109 boulevard Voltaire, Paris",48.857648,2.380808,20,882.0487534735769,33143790713.0,False,€€,48.855908,2.392571
+Charlotte,"Modern European, Cafes",3.0,"4 rue Belgrand, Paris",48.86485,2.39906,13,1101.8627948337012,33143490593.0,False,€€,48.855908,2.392571
+Café Zadig,"French, Cafes",3.5,"164 ave Ledru Rollin, Paris",48.8566017,2.37939,5,966.6577406454696,33143727947.0,False,€€,48.855908,2.392571
+Lutèce Café,Brasseries,2.5,"50 boulevard de Charonne, Paris",48.85185,2.39836,3,619.3018373082737,33143713768.0,False,€€,48.855908,2.392571
+Le Quartier Rouge,"Bars, Piano Bars, French",3.5,"52 rue de Bagnolet, Paris",48.85722,2.3988299,3,480.86440967151555,33181294299.0,False,€€,48.855908,2.392571
+Bar de la Place Edith Piaf,French,3.5,"22 rue de la Py, Paris",48.864798864998,2.4056630808216,7,1376.5129570839028,33143610932.0,False,€,48.855908,2.392571
+La Perle de Dalian,Chinese,4.0,"13 Rue Petion, Paris",48.85881,2.38147,1,873.8932664887018,33143671881.0,False,€,48.855908,2.392571
+McDonald's,"Fast Food, Burgers",2.0,"Place Léon Blum, Paris",48.857488,2.380261,2,917.5623562131912,33155258888.0,False,€€,48.855908,2.392571
+Au Bec Salé,"Bars, French",3.5,"119 rue de la Roquette, Paris",48.85814,2.3817499,3,829.1979192719534,33143791296.0,False,€€,48.855908,2.392571
+Artisan Boulanger,"Bakeries, Sandwiches",4.0,"67 rue Saint-Maur, Paris",48.86292,2.37931,2,1249.3186484625198,NA,False,€€,48.855908,2.392571
+Au Petit Panisse,Brasseries,5.0,"35 rue de Montreuil, Paris",48.8515,2.386571,1,657.9388209841073,33143713790.0,False,€€,48.855908,2.392571
+Le Phenix,"Creperies, Brasseries",2.0,"234 rue du Faubourg Saint-Antoine, Paris",48.849304,2.388727,1,786.2931777838846,33143708322.0,False,€€,48.855908,2.392571
+Chez Julia et Ryan,Bistros,5.0,"40 rue Baulant, Paris",48.8411364,2.3873437,1,34.86980716245959,33182099496.0,False,€€,48.840855,2.387555
+Chez Prosper,Bistros,3.5,"7 avenue du Trône, Paris",48.848554304744,2.3983338856896,280,1164.0683209565652,33143730851.0,False,€€,48.840855,2.387555
+Frog,"Pubs, Burgers, Breakfast & Brunch",3.0,"25 cour Saint Émilion, Paris",48.83318,2.38663,181,856.1353535721067,33143407071.0,False,€€,48.840855,2.387555
+L'Arrosoir,"French, Cocktail Bars",3.5,"75 avenue Daumesnil, Paris",48.8461456054576,2.37810809693907,65,907.720417821482,33143436458.0,False,€€,48.840855,2.387555
+L'Inédit Café,"Bistros, Cafes",4.0,"4 rue Taine, Paris",48.8376,2.39163,95,469.00879600960417,33143432180.0,False,€€,48.840855,2.387555
+Café Marco Polo,Brasseries,3.5,"8-10 avenue du Trône, Paris",48.8479,2.39802,62,1095.4808828408588,33143432619.0,False,€€,48.840855,2.387555
+Prêt à Manger,"Sandwiches, Salad, Soup",4.0,"Place Louis Armand, Paris",48.845224,2.373966,17,1106.7456082335243,33144757653.0,False,€€,48.840855,2.387555
+La Poulette de Grain,Cafes,3.5,"261 rue du faubourg Saint-Antoine, Paris",48.8498383,2.38709,14,1004.9302040163114,33142529124.0,False,€€€,48.840855,2.387555
+Chez Coquille,"Brasseries, Bistros",4.5,"7 boulevard de Reuilly, Paris",48.839304,2.390373,2,268.86687535371436,33143430993.0,False,€€,48.840855,2.387555
+Le Dalou,"French, Seafood, Brasseries",3.5,"30 place de la Nation, Paris",48.84778,2.3974,63,1053.8245087463567,33143434138.0,False,€€€,48.840855,2.387555
+Au Métro,Brasseries,3.0,"8 place Felix-Eboué, Paris",48.839129998668,2.3960876917174,28,653.2690815102823,33143408196.0,False,€€,48.840855,2.387555
+Eric Kayser,"Bakeries, French, Patisserie/Cake Shop",3.0,"41 cours Saint Emilion, Paris",48.83335,2.3867,40,836.8897201257531,33143460889.0,False,€€,48.840855,2.387555
+Partie de Campagne,French,2.5,"36 cour Saint Emilion, Paris",48.83318,2.38663,77,856.1353535721067,33143404411.0,False,€€,48.840855,2.387555
+Bistrot 79,"Bistros, Bars",4.0,"79 bd Diderot, Paris",48.8475849,2.387061,7,749.1677347773408,33143724540.0,False,€,48.840855,2.387555
+Le Bistrologue,French,3.5,"74 bd Diderot, Paris",48.846624662714,2.3819836326625,30,760.1129971366663,33140019031.0,False,€€,48.840855,2.387555
+Sushivilla,"Food Delivery Services, Japanese",4.0,"216 Rue Fbg St Antoine, Paris",48.84971,2.38702,7,985.3731784585848,33143486605.0,False,€€,48.840855,2.387555
+Hôtel du Printemps,"Hotels, Breakfast & Brunch",4.0,"80 bd de Picpus, Paris",48.84418,2.40072,6,1031.9224080819624,33143436231.0,False,€€,48.840855,2.387555
+Maison Landemaine,"Bakeries, Salad, Sandwiches",4.0,"2 rue Crozatier, Paris",48.84496,2.38317,4,557.9338633261186,33953518700.0,False,€€,48.840855,2.387555
+La Terrasse de Bercy,"Brasseries, Bistros, Bars",3.0,"102 rue de Bercy, Paris",48.839004136373,2.38095905631781,6,524.7724329600727,33143070407.0,False,€€€,48.840855,2.387555
+Irish Corner,Irish,2.5,"26 place Nation, Paris",48.84752,2.3970699,27,1016.8653165986832,33143075150.0,False,€€€,48.840855,2.387555
+Les Argentiers,Brasseries,3.5,"24 rue de Reuilly, Paris",48.8470639,2.386908,9,691.9841261113937,33143432512.0,False,€€,48.840855,2.387555
+jiliya,Chinese,4.5,"7 Avenue Philippe Auguste, Paris",48.848394,2.39591,6,1037.544699143191,33143711703.0,False,€€,48.840855,2.387555
+Robata,"Japanese, Sushi Bars",3.0,"96 rue Claude Decaen, Paris",48.8386567034974,2.39638118121202,17,690.6619694312136,33143076879.0,False,€€,48.840855,2.387555
+Le Penty,"Bars, French",4.0,"11 rue de Cotte, Paris",48.84897,2.37729,5,1182.805618019844,33143409072.0,False,€€,48.840855,2.387555
+Bercy Cafe,Brasseries,2.0,"118 rue de Bercy, Paris",48.8399,2.37955,13,595.3854849361436,33143434429.0,False,€€,48.840855,2.387555
+Les Spectacles,"French, American (Traditional), Pizza",3.5,"110 rue Bercy, Paris",48.8394,2.38027,9,557.1608140419177,33144758484.0,False,€€€,48.840855,2.387555
+Kfé d'Aujourd'hui,"Brasseries, Cafes",3.0,"1 place d'Aligre, Paris",48.8494,2.37778,11,1199.7043350146653,33953939357.0,False,€€,48.840855,2.387555
+Anco,Bistros,4.5,"108 rue de Bercy, Paris",48.8393210190259,2.38063484430313,2,534.4064447226488,33144680761.0,False,€€,48.840855,2.387555
+Le Restaurant 217,Brasseries,4.0,"217 avenue Daumesnil, Paris",48.83852,2.39908,5,885.9328201447469,33954257570.0,False,€€,48.840855,2.387555
+Le Maximilien,Brasseries,5.0,"28 boulevard Diderot, Paris",48.845893,2.375285,1,1058.3117026773689,33143436783.0,False,€€,48.840855,2.387555
+La Boutique à Boire et à Manger,Cafes,2.5,"157 rue de Charenton, Paris",48.8447609,2.3836801,4,518.2959068068781,33146283221.0,False,€€,48.840855,2.387555
+Brioche Dorée,"Bakeries, Salad, Sandwiches",2.0,"Gare de Lyon, Paris",48.8456612,2.37376,5,1037.78851013874,33144757655.0,False,€,48.840855,2.387555
+Au Va et Vient,"Coffee & Tea, Brasseries",3.5,"6 Place Félix Eboué, Paris",48.83939,2.39577,6,622.9000610068229,33143444636.0,False,€€,48.840855,2.387555
+McDonald's,"Fast Food, Burgers",1.0,"Place Henri Frenay, Paris",48.84468,2.375756,1,962.5048197557971,33144747224.0,False,€€,48.840855,2.387555
+La Grille,"Bars, French",3.0,"4 place d'Aligre, Paris",48.848669458529,2.37774184051023,1,1127.2261805361868,33613870913.0,False,€€,48.840855,2.387555
+Le Phenix,"Creperies, Brasseries",2.0,"234 rue du Faubourg Saint-Antoine, Paris",48.849304,2.388727,1,943.3571987962296,33143708322.0,False,€€,48.840855,2.387555
+Le Gevaudan d'Aligre,"Bars, French",2.5,"19 rue d'Aligre, Paris",48.8497,2.3787,2,1177.7571565476385,33143416912.0,False,€€,48.840855,2.387555
+Les Antiquaires,Bistros,4.5,"13 rue du Bac, Paris",48.8580664639432,2.32823697067099,458,787.8203760285148,33142610836.0,False,€€€,48.851296,2.325062
+Le Pain Quotidien,"Breakfast & Brunch, Bakeries, Coffee & Tea",4.0,"25 rue de Varenne, Paris",48.85386,2.32417,62,280.7941915363053,33145440210.0,False,€€,48.851296,2.325062
+Café Cassette,"Breakfast & Brunch, French, Wine Bars",3.5,"73 rue de Rennes, Paris",48.85108,2.33069,70,412.5056659905221,33145485378.0,False,€€,48.851296,2.325062
+Café Louise,"Cafes, Brasseries",4.0,"155 bd Saint Germain, Paris",48.853878376742,2.3321086257314,105,590.1316057132492,33142228898.0,False,€€,48.851296,2.325062
+Les Fauves,"French, Breakfast & Brunch",4.5,"33 boulevard Edgar Quinet, Paris",48.84256,2.322584,16,988.2214801324214,33172385892.0,False,€€€,48.851296,2.325062
+Les Deux Magots,Cafes,3.5,"6 place Saint-Germain des Prés, Paris",48.85389,2.33336,395,672.1563513328298,33145485525.0,False,€€€,48.851296,2.325062
+Le Restaurant,"French, Breakfast & Brunch",4.5,"13 rue des Beaux-Arts, Paris",48.85635,2.33524,36,930.1708848053167,33144419901.0,False,€€€€,48.851296,2.325062
+Huguette,Seafood,4.0,"81 rue de Seine, Paris",48.8532753282413,2.337029,67,902.8220117930988,33143250028.0,False,€€,48.851296,2.325062
+Café de Flore,Cafes,3.5,"172 boulevard Saint-Germain, Paris",48.854161,2.332603,495,637.0976538577814,33145485526.0,False,€€€,48.851296,2.325062
+La Coupole,"Brasseries, Seafood",3.5,"102 boulevard du Montparnasse, Paris",48.8424,2.32835,270,1018.0784270188612,33143201420.0,False,€€€,48.851296,2.325062
+Maison Sauvage,"French, Breakfast & Brunch",4.0,"5 rue de Buci, Paris",48.85366,2.33806,62,988.9658884793278,33146342626.0,False,€€,48.851296,2.325062
+L'Atlas,"French, Seafood",3.5,"11 rue Buci, Paris",48.853644,2.33762,99,955.1946094279774,33140512630.0,False,€€€,48.851296,2.325062
+Le Pré aux Clercs,"French, Bars",3.5,"30 rue Bonaparte, Paris",48.8554,2.33383,79,789.6532335531207,33143544173.0,False,€€,48.851296,2.325062
+Le Trait d'Union,French,3.5,"122 rue de Rennes, Paris",48.84677,2.32651,35,508.4659249514906,33145487066.0,False,€€,48.851296,2.325062
+La Rotonde,Brasseries,4.0,"105 boulevard du Montparnasse, Paris",48.8423557905769,2.32917424911591,182,1038.699161962832,33143264826.0,False,€€€,48.851296,2.325062
+Les Éditeur,"French, Lounges, Brasseries",3.5,"4 carrefour de l'Odéon, Paris",48.851994,2.338499,167,986.2185041525564,33143266776.0,False,€€€,48.851296,2.325062
+Le Select Montparnasse,Brasseries,3.5,"99 boulevard du Montparnasse, Paris",48.8424,2.32835,56,1018.0784270188612,33173202760.0,False,€€€,48.851296,2.325062
+Café de Paris,Cafes,3.5,"10 rue de Buci, Paris",48.853873,2.337616,54,962.183683393588,33146348411.0,False,€€,48.851296,2.325062
+Le Saint Germain,Brasseries,4.0,"62 rue du Bac, Paris",48.85581,2.32531,32,506.90680360206704,33145489969.0,False,€€,48.851296,2.325062
+Restaurant du Musée d'Orsay,French,3.5,"1 rue de la Légion d'Honneur, Paris",48.860175,2.326074,75,990.0238372381878,33145494703.0,False,€€€,48.851296,2.325062
+Café Montparnasse,"Breakfast & Brunch, Brasseries",3.5,"8 place du 18 Juin 1940, Paris",48.84423,2.32356,30,816.3166579873866,33145489934.0,False,€€€,48.851296,2.325062
+Le Hibou,"Bistros, Bars",3.0,"16 carrefour de l'Odéon, Paris",48.8515168,2.338431,89,978.4996483778934,33143549691.0,False,€€€,48.851296,2.325062
+Le Mabillon,Brasseries,2.5,"164 boulevard Saint-Germain, Paris",48.85333,2.33575,141,822.2755721295733,33143266293.0,False,€€€,48.851296,2.325062
+Le Pré,"Cocktail Bars, Beer Bar, Cafes",5.0,"4 rue du Four, Paris",48.85301,2.33514,10,765.8754185650096,33140469322.0,False,€€€,48.851296,2.325062
+Le Bonaparte,"French, Cafes",3.5,"42 rue Bonaparte, Paris",48.8545,2.33362,79,720.3985730215205,33143264281.0,False,€€,48.851296,2.325062
+Le Terminus,Brasseries,3.5,"5 rue Bac, Paris",48.85917,2.32901,17,921.9209374826072,33142611976.0,False,€€,48.851296,2.325062
+Le Buci,Brasseries,3.0,"52 Rue Dauphine, Paris",48.8538316757026,2.3384380229985,59,1018.4759501923096,33143266752.0,False,€€,48.851296,2.325062
+La Fregate,"French, Modern European, Seafood",3.5,"1 rue de Bac, Paris",48.85942,2.329265,87,954.2075892283956,33142612377.0,False,€€,48.851296,2.325062
+Café Pasteur,Cafes,3.5,"35 boulevard Pasteur, Paris",48.842972,2.31303,30,1277.470474402516,33147343998.0,False,€€,48.851296,2.325062
+La Grille Vintage,Brasseries,3.5,"14 rue Mabillon, Paris",48.85194,2.33524,40,748.1417036535425,33143541687.0,False,€€€,48.851296,2.325062
+Café de l'Atelier,Brasseries,3.0,"95 boulevard du Montparnasse, Paris",48.84272,2.32804,60,982.4501368979828,33145449881.0,False,€€,48.851296,2.325062
+Aux Vieux Garçons,French,4.5,"213 bd St Germain, Paris",48.857,2.32462,13,635.0302037664271,33142220657.0,False,€€€,48.851296,2.325062
+Indiana Café,"Burgers, Tapas Bars, Breakfast & Brunch",2.5,"72 bd de Montparnasse, Paris",48.8433226,2.3250955,69,886.6522911034729,33143353628.0,False,€€,48.851296,2.325062
+Le Tourne-Bouchon,"Mediterranean, Middle Eastern, Moroccan",4.5,"71 bd Raspail, Paris",48.8491,2.32771,5,311.76039465655634,33145441550.0,False,€€,48.851296,2.325062
+Bar de la Croix Rouge,"Wine Bars, Bistros",3.0,"2 place Michel Debré, Paris",48.8522783,2.3297813,33,354.4330672063691,33145480645.0,False,€€€,48.851296,2.325062
+Charivari,Bistros,3.5,"143 boulevard Raspail, Paris",48.84244,2.32956,22,1038.340443838191,33146338202.0,False,€€,48.851296,2.325062
+Le Bar du Marché,Cafes,3.5,"75 Rue Seine, Paris",48.85385,2.33693,95,913.5927104223512,33143265515.0,False,€€,48.851296,2.325062
+Couleur Café,Brasseries,4.0,"60 rue de Sèvres, Paris",48.848136,2.319778,7,522.4676093563803,33175429196.0,False,€€,48.851296,2.325062
+Le Solférino,"French, Brasseries",2.0,"262 bd Saint-Germain, Paris",48.85905,2.32259,55,880.9188305376356,33145515514.0,False,€€,48.851296,2.325062
+La Piazzetta,"Italian, Breakfast & Brunch",5.0,"1 rue Bréa, Paris",48.843792,2.3305,4,924.4792321165452,33973220768.0,False,€€,48.851296,2.325062
+McDonald's,"Fast Food, Burgers",3.0,"167 rue de Rennes, Paris",48.8446,2.32456,41,745.513469464348,33145491850.0,False,€,48.851296,2.325062
+Ayamé,"Sushi Bars, Japanese",3.0,"38 rue de Sèvres, Paris",48.84998,2.32329,1,157.0969947607635,33144398100.0,False,€,48.851296,2.325062
+Marcello,"Bars, Cafes",3.5,"8 rue Mabillon, Paris",48.852384,2.335053,12,740.9609989732553,33143265226.0,False,€,48.851296,2.325062
+La Marquise,French,3.0,"111 rue de Vaugirard, Paris",48.8451,2.32018,29,776.1048977084796,33145446725.0,False,€€,48.851296,2.325062
+Le Bistrot Mazarin,Bistros,3.5,"42 rue Mazarine, Paris",48.855389,2.337643,17,1026.846008551385,33143299901.0,False,€€,48.851296,2.325062
+La Consigne,"French, Bistros, Brasseries",3.0,"71 bd Montparnasse, Paris",48.84366,2.32447,20,850.2353104807306,33145489751.0,False,€€€,48.851296,2.325062
+Le Café du Musée,Brasseries,2.5,"17 boulevard des Invalides, Paris",48.8566151709744,2.31453569434577,27,971.0194742340652,33145512870.0,False,€€,48.851296,2.325062
+La Croissanterie,"Desserts, Salad, Sandwiches",3.5,"168 bd Saint-Germain, Paris",48.8534835,2.3352405,4,783.4372760803328,33143547714.0,False,€,48.851296,2.325062
+Oui Mon Général !,French,4.0,"14 rue du Général Bertrand, Paris",48.84785,2.31313,1,954.2658292143052,33147837666.0,False,€,48.851296,2.325062
+L‘Atlas,Seafood,5.0,"11 rue de Buci, Paris",48.85373,2.33765,1,959.2028940883848,33140512630.0,False,€,48.851296,2.325062
+Culture Crêpes,Creperies,4.5,"26 rue Saint-André-des-Arts, Paris",48.8533962,2.3425902,45,223.21349566955317,33951377541.0,False,€,48.851519,2.34367
+Café Panis,Brasseries,3.5,"21 quai de Montebello, Paris",48.8522,2.34841,149,350.5299702735014,33143541971.0,False,€€,48.851519,2.34367
+MONK la Taverne de Cluny,"Beer Bar, Tapas Bars, Barbeque",3.5,"51 rue de la Harpe, Paris",48.85158,2.34388,18,20.08447125904883,33143542888.0,False,€€,48.851519,2.34367
+Au Petit Suisse,"Brasseries, French",4.0,"16 rue de Vaugirard, Paris",48.84905,2.33901,120,437.7633774918954,33143260381.0,False,€€,48.851519,2.34367
+Café Saint-Régis,"French, Breakfast & Brunch",4.0,"6 rue Jean du Bellay, Paris",48.853392,2.353736,187,765.355617538952,33143545941.0,False,€€,48.851519,2.34367
+Au Bougnat,French,4.0,"26 rue Chanoinesse, Paris",48.8543,2.35002,76,558.0953928342543,33143545074.0,False,€€€,48.851519,2.34367
+Nadia,"Creperies, French, Wine Bars",5.0,"94 bd Saint Germain, Paris",48.8512795,2.3440643,9,39.23155444682645,33146332290.0,False,€,48.851519,2.34367
+Café Malongo,Cafes,4.0,"50 rue Saint-André des Arts, Paris",48.853487,2.340656,50,310.7034985729345,33143264710.0,False,€€,48.851519,2.34367
+Huguette,Seafood,4.0,"81 rue de Seine, Paris",48.8532753282413,2.337029,67,523.7048568350489,33143250028.0,False,€€,48.851519,2.34367
+Les Éditeur,"French, Lounges, Brasseries",3.5,"4 carrefour de l'Odéon, Paris",48.851994,2.338499,167,382.0424271513764,33143266776.0,False,€€€,48.851519,2.34367
+Eric Kayser,"Bakeries, Sandwiches, Delicatessen",4.5,"8 rue Monge, Paris",48.848938,2.349609,136,520.7401181453167,33144070142.0,False,€,48.851519,2.34367
+Le Néo Café,"French, Bars",3.5,"126 boulevard Saint-Germain, Paris",48.852482,2.339736,27,307.1400058220052,33974735519.0,False,€€€,48.851519,2.34367
+Le Quartier Général,"Bistros, Cafes",4.0,"82 boulevard Saint Germain, Paris",48.8508075903854,2.34569248898697,25,167.76797163647797,33143541456.0,False,€€€,48.851519,2.34367
+Le Prince Racine,"Cafes, Brasseries, French",4.5,"22 rue Monsieur le Prince, Paris",48.849857,2.339913,14,331.2486137950564,33143298335.0,False,€€€,48.851519,2.34367
+Maison Sauvage,"French, Breakfast & Brunch",4.0,"5 rue de Buci, Paris",48.85366,2.33806,62,474.151602603708,33146342626.0,False,€€,48.851519,2.34367
+L'Atlas,"French, Seafood",3.5,"11 rue Buci, Paris",48.853644,2.33762,99,501.80242410201066,33140512630.0,False,€€€,48.851519,2.34367
+La Crêperie,Creperies,4.0,"12 rue Soufflot, Paris",48.8468,2.34326,101,525.5659559118068,33143542280.0,False,€€,48.851519,2.34367
+Le Hibou,"Bistros, Bars",3.0,"16 carrefour de l'Odéon, Paris",48.8515168,2.338431,89,383.3481821724496,33143549691.0,False,€€€,48.851519,2.34367
+Breakfast in America,"Breakfast & Brunch, Diners",4.0,"17 rue des Ecoles, Paris",48.847871903457,2.3510840228227,299,677.2816322638264,33143545028.0,False,€€,48.851519,2.34367
+Mich Sandwiches,"Creperies, Sandwiches, Food Stands",4.5,"10 place St Michel, Paris",48.8533,2.34312,79,209.72352495917752,33606060606.0,False,€,48.851519,2.34367
+Le Départ Saint Michel,Brasseries,3.0,"1 place Saint-Michel, Paris",48.853547,2.344754,112,239.0557316260679,33143542455.0,False,€€,48.851519,2.34367
+Les Deux Magots,Cafes,3.5,"6 place Saint-Germain des Prés, Paris",48.85389,2.33336,395,799.1132978431399,33145485525.0,False,€€€,48.851519,2.34367
+Le Café Laurent,"Bars, Jazz & Blues, Cafes",5.0,"Hôtel d'Aubusson, Paris",48.85476,2.33948,18,468.6087530373079,33143290333.0,False,€€€,48.851519,2.34367
+Café Louise,"Cafes, Brasseries",4.0,"155 bd Saint Germain, Paris",48.853878376742,2.3321086257314,105,885.6754192324915,33142228898.0,False,€€,48.851519,2.34367
+Les Deux Palais,"Brasseries, Breakfast & Brunch",3.5,"3 boulevard du Palais, Paris",48.855103,2.346019,92,434.0112679260821,33143542086.0,False,€€€,48.851519,2.34367
+Le Restaurant,"French, Breakfast & Brunch",4.5,"13 rue des Beaux-Arts, Paris",48.85635,2.33524,36,816.2918631306984,33144419901.0,False,€€€€,48.851519,2.34367
+Café de Paris,Cafes,3.5,"10 rue de Buci, Paris",48.853873,2.337616,54,514.5356696228224,33146348411.0,False,€€,48.851519,2.34367
+La Fontaine Saint Michel,Brasseries,3.5,"11 place Saint-Michel, Paris",48.85314,2.343563,62,180.43826803995745,33143265431.0,False,€€,48.851519,2.34367
+Saint Séverin,"French, Bars, Breakfast & Brunch",2.5,"3 place Saint-Michel, Paris",48.853351,2.344467,44,211.90435634186417,33143541936.0,False,€€,48.851519,2.34367
+Maison Pradier,"Bakeries, Cafes",3.0,"14 boulevard Saint-Michel, Paris",48.85226,2.34335,12,90.1224117325676,33143295995.0,False,€€,48.851519,2.34367
+Le Choupinet,"Brasseries, French, Cafes",4.0,"58 boulevard Saint-Michel, Paris",48.8477332,2.340714,27,473.2685611906773,33142030993.0,False,€€€,48.851519,2.34367
+Café de Flore,Cafes,3.5,"172 boulevard Saint-Germain, Paris",48.854161,2.332603,495,861.3987031945244,33145485526.0,False,€€€,48.851519,2.34367
+McDonald's,"Fast Food, Burgers",2.5,"98 boulevard Saint-Germain, Paris",48.8514281,2.343764,8,12.19567020582078,33181695475.0,False,€,48.851519,2.34367
+La Fourmi Ailée,"Tea Rooms, French",3.5,"8 rue Fouarre, Paris",48.85165,2.34736,139,267.15089142457697,33143294099.0,False,€€,48.851519,2.34367
+Le Pré aux Clercs,"French, Bars",3.5,"30 rue Bonaparte, Paris",48.8554,2.33383,79,840.1658532092823,33143544173.0,False,€€,48.851519,2.34367
+Le Zimmer,Cafes,3.5,"1 place du Châtelet, Paris",48.857806,2.346886,66,737.6283300129917,33142367403.0,False,€€€,48.851519,2.34367
+Café Bords de Seine,"French, Cafes, Brasseries, Breakfast & Brunch",3.5,"1 place du Chatelet, Paris",48.85756272,2.34699379,52,717.8056133254295,33142337927.0,False,€€,48.851519,2.34367
+Le Relais Odéon,"Bistros, Cocktail Bars",3.5,"132 boulevard Saint Germain, Paris",48.852621,2.338988,72,363.8518662546979,33143298180.0,False,€€€,48.851519,2.34367
+Café Cassette,"Breakfast & Brunch, French, Wine Bars",3.5,"73 rue de Rennes, Paris",48.85108,2.33069,70,950.9951484899336,33145485378.0,False,€€,48.851519,2.34367
+Le Petit Pont,Brasseries,2.5,"1 rue du Petit Pont, Paris",48.852714,2.346749,142,261.5392392396255,33143542381.0,False,€€,48.851519,2.34367
+Maison Rouge,Brasseries,3.5,"12-14 rue de la Ferronnerie, Paris",48.8604393,2.346665,34,1015.8202945400368,33142211933.0,False,€,48.851519,2.34367
+Les Délices du Fournil,"Patisserie/Cake Shop, Cafes, Creperies",4.0,"2 rue Carmes, Paris",48.85002,2.3479,49,352.70900794583065,33143541447.0,False,€,48.851519,2.34367
+Le Buci,Brasseries,3.0,"52 Rue Dauphine, Paris",48.8538316757026,2.3384380229985,59,461.18961869242594,33143266752.0,False,€€,48.851519,2.34367
+Le Ju',Brasseries,4.0,"16 rue des Archives, Paris",48.857691,2.354803,17,1065.1012498708344,33142781147.0,False,€€,48.851519,2.34367
+Le Mabillon,Brasseries,2.5,"164 boulevard Saint-Germain, Paris",48.85333,2.33575,141,608.2611723044776,33143266293.0,False,€€€,48.851519,2.34367
+Chez Clément,"French, Rotisserie Chicken",3.0,"9 place Saint-André des Arts, Paris",48.8529243469238,2.34303569793701,8,165.00240126617285,33156813200.0,False,€€,48.851519,2.34367
+Pret à Manger,"Coffee & Tea, Sandwiches, Breakfast & Brunch",4.5,"49 boulevard Saint-Michel, Paris",48.84852,2.3418,6,354.4494842430817,33142018196.0,False,€€,48.851519,2.34367
+La Coopérative,Brasseries,3.5,"85 Rue Rivoli, Paris",48.86046,2.34223,35,999.7819740412036,33142601089.0,False,€€,48.851519,2.34367
+L'Authre Bistro,"Bars, Brasseries, French",3.5,"22 rue des Ecoles, Paris",48.84883,2.34843,21,458.99690705467856,33143544457.0,False,€€,48.851519,2.34367
+Le Paradiso,"Pizza, French, Italian",4.5,"81 rue Saint Louis en l'Ile, Paris",48.8528,2.35371,6,750.7397073105702,33146333546.0,False,€€,48.851519,2.34367
+La Maison,"Bistros, Brasseries",4.0,"28 place Saint Ferdinand, Paris",48.87805,2.2883,89,1034.8142666933395,33145741124.0,False,€€€,48.881973,2.301132
+Le Franc Tireur,Brasseries,4.0,"34 rue d'Armaillé, Paris",48.8790379940633,2.29108138528464,52,804.1792095270181,33145741700.0,False,€€,48.881973,2.301132
+Brasserie Lorraine,"Bistros, Breakfast & Brunch, Seafood, Brasseries",3.5,"2 Place Des Ternes, Paris",48.8779,2.29885,87,482.6964739273952,33156212200.0,False,€€€€,48.881973,2.301132
+Naï,"Lebanese, Brasseries",4.5,"8 avenue de la Grande-Armée, Paris",48.87484,2.29283,31,994.1817389888732,33970383724.0,False,€€,48.881973,2.301132
+Café Latéral,"French, Breakfast & Brunch",3.5,"4 ave Mac-Mahon, Paris",48.8752803,2.2947966,102,876.6562128275459,33143802096.0,False,€€,48.881973,2.301132
+Le General,"Brasseries, Bistros, Cafes",3.5,"17 ave de Wagram, Paris",48.8758202,2.2962401,33,771.8313536877065,33143803412.0,False,€€,48.881973,2.301132
+La Compagnie,French,3.0,"123 avenue de Wagram, Paris",48.88267,2.30126,10,89.70931840902485,33142271683.0,False,€€,48.881973,2.301132
+Indiana Café,"American (Traditional), Burgers",3.0,"237 rue du faubourg Saint-Honoré, Paris",48.87748,2.29858,41,533.3500809310408,33144098000.0,False,€€,48.881973,2.301132
+Lina's,"Salad, Sandwiches",5.0,"7 place du Maréchal Juin, Paris",48.8843886,2.2969507,3,414.1859972479653,33142333737.0,False,€,48.881973,2.301132
+Le Royal Pereire,"Seafood, French",3.0,"1 Place Mar Juin, Paris",48.88469,2.29783,24,386.72451024429427,33147636204.0,False,€€,48.881973,2.301132
+John Weng,"Bistros, Pan Asian",4.0,"97 avenue Niel, Paris",48.8842087,2.2968099,4,406.6313243676027,33146225978.0,False,€€,48.881973,2.301132
+L'Etoile 1903,French,3.0,"4 avenue de Wagram, Paris",48.875135,2.296387,75,835.8197106937264,33142275242.0,False,€€€,48.881973,2.301132
+L'Elysée Saint Honoré,French,3.5,"205 rue du Faubourg Saint-Honoré, Paris",48.876504,2.301671,9,609.4327563492583,33153764856.0,False,€€€,48.881973,2.301132
+L'Arc,Brasseries,3.0,"27 avenue Carnot, Paris",48.8769577495208,2.29207500815392,21,865.8522283297575,33143805051.0,False,€€€,48.881973,2.301132
+Le Café Dumas,"French, Cafes",3.5,"34 avenue de Villiers, Paris",48.8823999,2.31214,18,808.517472851159,33146225599.0,False,€€€,48.881973,2.301132
+Sophie la Parisienne,"Food Delivery Services, Breakfast & Brunch",4.0,"4 rue du Sergent Hoff, Paris",48.88156,2.2942,4,483.69910479458815,33179755711.0,False,€€€,48.881973,2.301132
+Le Cristal,"Brasseries, French, Bars",2.5,"6 avenue Grande Armée, Paris",48.8747861667917,2.29303523782602,16,994.6228216516502,33156689812.0,False,€€,48.881973,2.301132
+Café de Paris Friedland,"Cafes, Coffee & Tea",3.0,"45 ave de Friedland, Paris",48.87449,2.30208,27,834.9858437529515,33145637628.0,False,€€,48.881973,2.301132
+La Belle Poule,Brasseries,2.0,"18 avenue Hoche, Paris",48.87653,2.30117,14,597.8885040815458,33145610635.0,False,€€,48.881973,2.301132
+Manhattan Terrazza,"Pizza, Italian",3.0,"108 avenue de Villiers, Paris",48.88489,2.29886,2,371.79786558011057,33147633277.0,False,€€,48.881973,2.301132
+Lucky Luciano,Pizza,5.0,"78 rue de Lévis, Paris",48.8845017455774,2.31241079451306,2,871.3141033907357,33146221799.0,False,€€,48.881973,2.301132
+La Table Monceau,"Tobacco Shops, French, Brasseries",3.5,"3 Rue Phalsbourg, Paris",48.88104,2.30906,7,588.929296813742,33183760287.0,False,€€,48.881973,2.301132
+Café Leffe,"Brasseries, Cafes",3.5,"21 rue du Président Wilson, Levallois-Perret",48.8906097,2.29162,3,1174.2420544603174,33147302223.0,False,€€,48.881973,2.301132
+Bistro les 4 Saisons,Brasseries,2.5,"268 rue du faubourg Sain-Honore, Paris",48.877686304826,2.2991551210143,7,498.1326071144591,33142129915.0,False,€€,48.881973,2.301132
+L’Arc Food,"Salad, Burgers, Pizza",5.0,"5 avenue Carnot, Paris",48.8754742431223,2.29322099419327,1,925.706028049082,33145782353.0,False,€€,48.881973,2.301132
+Le Hoche,"Bars, Bistros",2.5,"205 rue du Faubourg Saint-Honoré, Paris",48.87635,2.30195,7,634.7783653786414,33184150226.0,False,€€€,48.881973,2.301132
+Le Do Ré Mi,"Food, French",2.5,"18 avenue Hoche, Paris",48.8763637,2.3017627,3,625.4601401834572,33145610635.0,False,€€€€,48.881973,2.301132
+Le Café Triomphe,Cafes,3.0,"8 avenue de la Grande Armée, Paris",48.87484,2.29283,4,994.1817389888732,33143805216.0,False,€€,48.881973,2.301132
+McDonald's,"Fast Food, Burgers",2.0,"11 avenue de Wagram, Paris",48.87538,2.29618,9,817.7047086226497,33147631610.0,False,€,48.881973,2.301132
+Burger King,"Burgers, Fast Food",3.0,"7 avenue de Wagram, Paris",48.8753331,2.2959153,1,704.6463396988902,33182732429.0,False,€,48.881973,2.301132
+La Place,Cafes,3.0,"5 place du Maréchal Juin, Paris",48.88436,2.29744,3,375.4003015112802,33147634093.0,False,€,48.881973,2.301132
+Charles Traiteur,"Patisserie/Cake Shop, Fast Food, Chocolatiers & Shops",4.0,"47 rue Jouffroy d'Abbans, Paris",48.8852004,2.30721,2,571.2002089333884,33147636604.0,False,€€€€,48.881973,2.301132
+Mc Donald's,Fast Food,1.5,"145 avenue Villiers, Paris",48.88544,2.29215,5,758.00572004496,33142671150.0,False,€,48.881973,2.301132
+Birdie Num Num,Restaurants,2.5,"61 rue de Courcelles, Paris",48.8774414,2.3062401,5,615.1279344676359,33147649920.0,False,€,48.881973,2.301132
+Le Comptoir du Marché,French,3.0,"28 rue Carnot, Levallois-Perret",48.889894,2.288516,1,1275.396129119252,33147489674.0,False,€,48.881973,2.301132
+La Maison,"Bistros, Brasseries",4.0,"28 place Saint Ferdinand, Paris",48.87805,2.2883,89,538.8105297381725,33145741124.0,False,€€€,48.882878,2.287667
+Le Franc Tireur,Brasseries,4.0,"34 rue d'Armaillé, Paris",48.8790379940633,2.29108138528464,52,494.590794029494,33145741700.0,False,€€,48.882878,2.287667
+Naï,"Lebanese, Brasseries",4.5,"8 avenue de la Grande-Armée, Paris",48.87484,2.29283,31,964.4237809534012,33970383724.0,False,€€,48.882878,2.287667
+Café Latéral,"French, Breakfast & Brunch",3.5,"4 ave Mac-Mahon, Paris",48.8752803,2.2947966,102,992.7129406488953,33143802096.0,False,€€,48.882878,2.287667
+Le Congrès Maillot,Seafood,3.5,"80 avenue Grande Armée, Paris",48.877544,2.284548,69,635.4390130809177,33145741724.0,False,€€€,48.882878,2.287667
+Brasserie Lorraine,"Bistros, Breakfast & Brunch, Seafood, Brasseries",3.5,"2 Place Des Ternes, Paris",48.8779,2.29885,87,987.4469262369438,33156212200.0,False,€€€€,48.882878,2.287667
+Le General,"Brasseries, Bistros, Cafes",3.5,"17 ave de Wagram, Paris",48.8758202,2.2962401,33,1000.1964990531668,33143803412.0,False,€€,48.882878,2.287667
+MAYO,"French, Tapas/Small Plates",3.5,"3 place du Général Kœnig, Paris",48.88037301652808,2.28472039103508,7,352.1467497610527,33140685119.0,False,€€,48.882878,2.287667
+Le Touring,Brasseries,3.5,"61 avenue Grande Armée, Paris",48.876591,2.287229,23,699.7887471754598,33145004624.0,False,€€,48.882878,2.287667
+Indiana Café,"American (Traditional), Burgers",3.0,"237 rue du faubourg Saint-Honoré, Paris",48.87748,2.29858,41,998.5169688126158,33144098000.0,False,€€,48.882878,2.287667
+L'Etoile 1903,French,3.0,"4 avenue de Wagram, Paris",48.875135,2.296387,75,1071.368797617181,33142275242.0,False,€€€,48.882878,2.287667
+Le Durand Dupont,"Bars, French",3.0,"14 place du Marché, Neuilly-sur-Seine",48.88075,2.2755899,62,905.7533943969094,33141929300.0,False,€€€,48.882878,2.287667
+Lina's,"Salad, Sandwiches",5.0,"7 place du Maréchal Juin, Paris",48.8843886,2.2969507,3,689.8080355202545,33142333737.0,False,€,48.882878,2.287667
+Paul,"Sandwiches, Bakeries",4.0,"2 place de la Porte Maillot, Paris",48.8788780623031,2.28274281824645,5,572.2537695408677,33140681005.0,False,€,48.882878,2.287667
+Le Marly,Brasseries,3.5,"54 avenue du Roule, Neuilly-sur-Seine",48.882731,2.277218,8,764.2516121126225,33147454671.0,False,€€,48.882878,2.287667
+L'Arc,Brasseries,3.0,"27 avenue Carnot, Paris",48.8769577495208,2.29207500815392,21,732.945971834336,33143805051.0,False,€€€,48.882878,2.287667
+Eric Kayser,"Bakeries, Delicatessen, Sandwiches",4.5,"61bis avenue de la Grande-Armée, Paris",48.87584,2.28742,2,792.0431234616642,33145005261.0,False,€€€,48.882878,2.287667
+John Weng,"Bistros, Pan Asian",4.0,"97 avenue Niel, Paris",48.8842087,2.2968099,4,682.4622850741673,33146225978.0,False,€€,48.882878,2.287667
+Sophie la Parisienne,"Food Delivery Services, Breakfast & Brunch",4.0,"4 rue du Sergent Hoff, Paris",48.88156,2.2942,4,522.8653705460986,33179755711.0,False,€€€,48.882878,2.287667
+La Terrasse,"Brasseries, Lounges, Bistros",3.5,"76 ave de la Grande Armée, Paris",48.8773711,2.2848731,23,645.5051509119212,33145743210.0,False,€€,48.882878,2.287667
+Le Cristal,"Brasseries, French, Bars",2.5,"6 avenue Grande Armée, Paris",48.8747861667917,2.29303523782602,16,981.6431858458976,33156689812.0,False,€€,48.882878,2.287667
+Le Royal Pereire,"Seafood, French",3.0,"1 Place Mar Juin, Paris",48.88469,2.29783,24,769.9341624064809,33147636204.0,False,€€,48.882878,2.287667
+Pomme de pain,Sandwiches,4.0,NA,48.8791673513668,2.2833114465576,2,521.2273126822276,33145726782.0,False,€,48.882878,2.287667
+Le Maillot,Brasseries,3.5,"78 avenue de la Grande Armée, Paris",48.877465,2.284694,7,639.9398993977888,33145744142.0,False,€,48.882878,2.287667
+Café Leffe,"Brasseries, Cafes",3.5,"21 rue du Président Wilson, Levallois-Perret",48.8906097,2.29162,3,888.3747284028707,33147302223.0,False,€,48.882878,2.287667
+La Compagnie,French,3.0,"123 avenue de Wagram, Paris",48.88267,2.30126,10,993.7483695871624,33142271683.0,False,€€,48.882878,2.287667
+L’Arc Food,"Salad, Burgers, Pizza",5.0,"5 avenue Carnot, Paris",48.8754742431223,2.29322099419327,1,917.9566673182562,33145782353.0,False,€€,48.882878,2.287667
+La Belle Poule,Brasseries,2.0,"18 avenue Hoche, Paris",48.87653,2.30117,14,1211.8775981451051,33145610635.0,False,€€,48.882878,2.287667
+Le Café Triomphe,Cafes,3.0,"8 avenue de la Grande Armée, Paris",48.87484,2.29283,4,964.4237809534012,33143805216.0,False,€€,48.882878,2.287667
+McDonald's,"Burgers, Fast Food",3.0,"277 boulevard Pereire, Paris",48.87769,2.28465,5,616.8970689980654,33153816162.0,False,€,48.882878,2.287667
+Mc Donald's,Fast Food,1.5,"145 avenue Villiers, Paris",48.88544,2.29215,5,430.6487436673076,33142671150.0,False,€,48.882878,2.287667
+Chez Meunier,"Bakeries, Breakfast & Brunch",5.0,"85 avenue du Roule, Neuilly-sur-Seine",48.8830875,2.2741793,1,994.818957995754,NA,False,€,48.882878,2.287667
+McDonald's,"Fast Food, Burgers",2.0,"11 avenue de Wagram, Paris",48.87538,2.29618,9,1040.4741925736648,33147631610.0,False,€,48.882878,2.287667
+Bistro les 4 Saisons,Brasseries,2.5,"268 rue du faubourg Sain-Honore, Paris",48.877686304826,2.2991551210143,7,1019.2702913391378,33142129915.0,False,€€,48.882878,2.287667
+Burger King,"Burgers, Fast Food",3.0,"7 avenue de Wagram, Paris",48.8753331,2.2959153,1,981.6543250575808,33182732429.0,False,€€,48.882878,2.287667
+Manhattan Terrazza,"Pizza, Italian",3.0,"108 avenue de Villiers, Paris",48.88489,2.29886,2,851.3652390408454,33147633277.0,False,€€,48.882878,2.287667
+Café du Marché,"Wine Bars, Cafes",3.0,"10 place du Marché, Neuilly-sur-Seine",48.880583,2.276275,4,871.251885615585,33146242960.0,False,€€,48.882878,2.287667
+Le Comptoir du Marché,French,3.0,"28 rue Carnot, Levallois-Perret",48.889894,2.288516,1,782.6339024673874,33147489674.0,False,€€,48.882878,2.287667
+La Place,Cafes,3.0,"5 place du Maréchal Juin, Paris",48.88436,2.29744,3,735.3292003091792,33147634093.0,False,€€,48.882878,2.287667
+La Marine,French,3.5,"55bis quai de Valmy, Paris",48.870604,2.36533366888659,135,74.6489652295222,33142396981.0,False,€€,48.871044,2.366104
+Hôtel du Nord,French,3.5,"102 quai de Jemmapes, Paris",48.873494,2.364109,77,309.0513140200028,33140407878.0,False,€€€,48.871044,2.366104
+Les Parigots,"Bars, Brasseries",4.0,"5 rue Château d'eau, Paris",48.86926,2.36183,81,370.26289378724334,33977789923.0,False,€€,48.871044,2.366104
+Kitchen,"Breakfast & Brunch, Vegetarian, Juice Bars & Smoothies",4.5,"74 rue des Gravilliers, Paris",48.864506,2.354586,230,1112.8067537594086,33952551166.0,False,€€,48.871044,2.366104
+Café Oberkampf,Cafes,4.5,"3 rue Neuve Popincourt, Paris",48.86469,2.37398,51,902.9964690552856,NA,False,€€,48.871044,2.366104
+IMA,Mediterranean,4.5,"39 quai de Valmy, Paris",48.86934,2.36638,15,194.83497266753537,33140364137.0,False,€€,48.871044,2.366104
+Café Bonne Biere,"Brasseries, Bistros",4.0,"32 rue du Faubourg du Temple, Paris",48.8688999,2.36809,17,285.2256984565181,33143578496.0,False,€€,48.871044,2.366104
+Le Valmy,"Brasseries, French, Cocktail Bars",4.0,"145 quai de Valmy, Paris",48.877615,2.365153,56,733.9612545548408,33142099378.0,False,€€,48.871044,2.366104
+Chez Justine,"French, Barbeque",3.5,"96 rue Oberkampf, Paris",48.865686,2.377854,147,1045.7171434762497,33143574403.0,False,€€,48.871044,2.366104
+Le Carillon,"Bars, Cafes",3.5,"18 rue Alibert, Paris",48.871632,2.367837,34,142.58654667646604,33142398188.0,False,€,48.871044,2.366104
+Café Charlot,Cafes,3.5,"38 rue de Bretagne, Paris",48.8630405795265,2.36258512774969,136,926.4270303030348,33144540330.0,False,€€,48.871044,2.366104
+Season,"Breakfast & Brunch, Vegetarian, American (Traditional)",3.5,"1 rue Charles François Dupuis, Paris",48.86518,2.36283,100,687.9283186479738,33967175297.0,False,€€,48.871044,2.366104
+Au Métro,Brasseries,4.5,"19 rue de Malte, Paris",48.864421,2.368517,13,757.2952249638056,33147004876.0,False,€€,48.871044,2.366104
+La Fontaine de Belleville,"Cafes, Bars, Sandwiches",4.0,"31 - 33 rue Juliette Dodu, Paris",48.87577,2.36856,16,562.9604456349958,33981755454.0,False,€€,48.871044,2.366104
+Le Plein Soleil,French,3.5,"90 avenue Parmentier, Paris",48.866447,2.374318,38,788.7985406342766,33148054106.0,False,€€,48.871044,2.366104
+La Chaufferie,"Bars, French",4.0,"2 boulevard Denain, Paris",48.8788718,2.3541699,14,1232.6432391691956,33148741341.0,False,€€,48.871044,2.366104
+Chez Jeanette,"Bars, French, Bistros",3.5,"47 rue du faubourg Saint-Denis, Paris",48.8716,2.35367,70,911.538279325734,33147703089.0,False,€€,48.871044,2.366104
+Café du Temple,"French, Brasseries, Breakfast & Brunch",2.5,"14 rue du Faubourg du Temple, Paris",48.8681488,2.3656499,20,316.55600115479166,33158303896.0,False,€€,48.871044,2.366104
+Maison Landemaine,"Bakeries, Salad, Sandwiches",4.5,"41 rue Oberkampf, Paris",48.8644770551965,2.37155862764912,14,832.0861385962976,33143578233.0,False,€€,48.871044,2.366104
+Generator Paris,"Hostels, French, Venues & Event Spaces",3.5,"9-11 place du Colonel Fabien, Paris",48.878242,2.369571,53,839.5666303555103,33170988400.0,False,€€,48.871044,2.366104
+Café République,Cafes,3.0,"9 place de la République, Paris",48.86671,2.363914,32,507.857974318177,33142723144.0,False,€€,48.871044,2.366104
+La Ville de Provins,Brasseries,4.5,"74 boulevard de Strasbourg, Paris",48.875575,2.358201,6,766.7763331371875,33146073360.0,False,€€,48.871044,2.366104
+Le Buffet de la Gare,"Bars, Cafes, Brasseries",4.0,"70 bd de Strasbourg, Paris",48.8752213,2.3578801,11,749.4194161337102,33146073605.0,False,€€,48.871044,2.366104
+Le Sully,"Bars, Brasseries",4.0,"13 rue du faubourg Saint-Denis, Paris",48.87029,2.35282,16,976.9510736825804,33177107470.0,False,€,48.871044,2.366104
+Café Chéri,"Bars, Music Venues, Cafes",3.5,"44 bd de la Villette, Paris",48.8741,2.3752399,62,758.5635857076585,33142020205.0,False,€€,48.871044,2.366104
+Indiana Café,"Burgers, American (Traditional), Breakfast & Brunch",2.5,"1 place de la République, Paris",48.86645,2.36462,76,522.2461957844513,33148878235.0,False,€€,48.871044,2.366104
+Le Temple d'Or,"Bars, Brasseries, French",3.5,"17 rue faubourg du Temple, Paris",48.868385,2.3659454,8,295.9015566689037,33144849827.0,False,€,48.871044,2.366104
+Loui's Corner,"American (Traditional), Wine Bars, Cocktail Bars",3.0,"49 rue Bichat, Paris",48.87275,2.36639,4,188.87680569232035,33981106216.0,False,€,48.871044,2.366104
+Les Petits Tonneaux,Brasseries,4.0,"17 rue du Faubourg du Temple, Paris",48.86841,2.36596,8,280.8711230556798,33142459056.0,False,€,48.871044,2.366104
+Le Napoléon,"French, Bars, Brasseries",3.5,"73 rue du Faubourg Saint-Denis, Paris",48.87289,2.35431,56,896.6206464138056,33147702136.0,False,€€,48.871044,2.366104
+Mardin Çorba Salonu,"Turkish, Middle Eastern, Soup",4.5,"19 rue du Faubourg-Saint-Denis, Paris",48.87044,2.3529,10,970.8905741065944,NA,False,€,48.871044,2.366104
+L'Estaminet,"French, Bars",3.5,"116 rue Oberkampf, Paris",48.8661327,2.3793163,121,1109.987999506073,33143573429.0,False,€€,48.871044,2.366104
+Café Crème,"Breakfast & Brunch, Cafes",3.5,"4 rue Dupetit-Thouars, Paris",48.865016,2.362797,63,712.6085692142948,33142720406.0,False,€€,48.871044,2.366104
+Café du Marché des Enfants Rouges,Cafes,4.0,"37 Rue Bretagne, Paris",48.8628,2.36262,46,960.4994952871238,33964130625.0,False,€€,48.871044,2.366104
+Mamie Burger,"Burgers, American (Traditional), Barbeque",3.5,"75 rue du Faubourg Saint-Denis, Paris",48.872991,2.354218,12,895.8980934354618,33986318610.0,False,€€,48.871044,2.366104
+Chez XU,Chinese,4.0,"9 rue Volta, Paris",48.8650093,2.35693,15,950.7072292402526,33148870223.0,False,€,48.871044,2.366104
+Café du Nord,"Brasseries, Breakfast & Brunch, Tea Rooms",3.5,"19 rue de Dunkerque, Paris",48.87963,2.35568,41,1215.7440644191454,NA,False,€€,48.871044,2.366104
+1K Paris Hotel,"Hotels, Bars, Restaurants",4.0,"13 boulevard du Temple, Paris",48.8639318,2.3658744,6,791.0244713399537,33142712000.0,False,€€€,48.871044,2.366104
+Mon Coco,Brasseries,3.5,"6 place de la République, Paris",48.866807,2.36527,15,475.0751081166018,33147004410.0,False,€€€,48.871044,2.366104
+La Grange,"Italian, Pizza",4.0,"35 rue de la Grange aux Belles, Paris",48.8752708,2.3671999,8,479.5458839842401,33142086954.0,False,€€€,48.871044,2.366104
+Le Bistro,"French, Bars",3.0,"32 boulevard de Magenta, Paris",48.871784,2.360403,26,425.0361704610153,33142087818.0,False,€€,48.871044,2.366104
+Dynamo,Brasseries,4.0,"104 avenue Simon Bolivar, Paris",48.8786286,2.3745425,4,1045.0246324920404,33967371116.0,False,€€,48.871044,2.366104
+Café des Dames,"Cafes, French",4.5,"6 place Colonel Fabien, Paris",48.87805,2.37071,5,848.7216332566481,33142004124.0,False,€€,48.871044,2.366104
+Triplettes,"French, Bars, Breakfast & Brunch",3.5,"102 boulevard de Belleville, Paris",48.87058,2.378975,29,942.7564511838418,33143150954.0,False,€€,48.871044,2.366104
+Origin Restaurant,"French, Wine Bars, Cocktail Bars",4.0,"40 Rue Rene Boulanger, Paris",48.86844,2.36089,2,478.8550510248109,33171183888.0,False,€€€,48.871044,2.366104
+McDonald's,"Burgers, Fast Food",2.5,"29 rue du Faubourg du Temple, Paris",48.86896,2.36776,3,254.8032955622649,33144527173.0,False,€€,48.871044,2.366104
+Les Relais d'Alsace - Taverne Karlsbräu,"French, Brasseries",2.5,"6 Place de la République, Paris",48.8664207,2.3652301,22,485.3878534416944,33147004410.0,False,€€€,48.871044,2.366104
+Fluctuat Nec Mergitur,"Bars, Tapas/Small Plates, Bistros",3.0,"18 place de la République, Paris",48.8680038318633,2.36299160867929,7,407.5777354363144,33142064281.0,False,€€,48.871044,2.366104
+Le Petit Café,"French, Cafes",3.5,"14 boulevard de Strasbourg, Paris",48.87059,2.3552,19,781.8280470199514,33626895963.0,False,€€€,48.871044,2.366104
+Les Arts et Métiers,Brasseries,3.0,"51 rue de Turbigo, Paris",48.86537,2.35523,57,1004.233634461152,33148878325.0,False,€€,48.871044,2.366104
+Lazare,"French, Brasseries",4.0,"Parvis de la Gare Saint-Lazare, Paris",48.876683,2.325271,73,343.29025905483667,33144908080.0,False,€€€,48.874423,2.328469
+Capucine Café,Brasseries,4.0,"39 boulevard Capucines, Paris",48.869916,2.329266,59,504.5122272604761,33142611471.0,False,€€€,48.874423,2.328469
+Le Pain Quotidien,"Breakfast & Brunch, Bakeries, Coffee & Tea",4.5,"108 rue Saint Lazare, Paris",48.8755965146554,2.32529720978698,15,266.1315161091472,33140084330.0,False,€€,48.874423,2.328469
+Balagan,"Middle Eastern, Cocktail Bars",4.5,"9 rue d'Alger, Paris",48.86543,2.32979,69,999.8399376924358,33140207214.0,False,€€,48.874423,2.328469
+Triadou Haussmann,"French, Bars, Brasseries",3.0,"80 bd Haussmann, Paris",48.8741440339748,2.32554371580972,76,216.1403858729838,33143874767.0,False,€€,48.874423,2.328469
+Café de la Paix,"French, Breakfast & Brunch, Seafood",3.5,"5 place de l'Opéra, Paris",48.870878,2.331753,246,461.5893221784419,33140073636.0,False,€€€,48.874423,2.328469
+Le Grand Café des Capucines,French,3.0,"4 boulevard des Capucines, Paris",48.871327,2.333537,139,505.87153588312617,33143121900.0,False,€€€,48.874423,2.328469
+Café Madeleine,"Cafes, Brasseries",3.0,"1 rue Tronchet, Paris",48.87103,2.32497,70,421.2034648259916,33142652191.0,False,€€,48.874423,2.328469
+Flottes,Brasseries,3.5,"2 rue Cambon, Paris",48.86602,2.32504,166,967.4107652776332,33142608089.0,False,€€€,48.874423,2.328469
+Hôtel Costes,"Hotels, Bars, French",3.5,"239 rue Saint-Honoré, Paris",48.86675,2.32798,317,863.0140001816718,33142445000.0,False,€€€€,48.874423,2.328469
+Le Castiglione,French,3.5,"235 rue Saint Honoré, Paris",48.866408025259,2.3287296025404,80,891.4028370443768,33142606822.0,False,€€€,48.874423,2.328469
+Braun Notes,"Coffee & Tea, Breakfast & Brunch",4.5,"31-33 rue de Mogador, Paris",48.8758317288875,2.33099130479798,14,242.04091504934223,NA,False,€€,48.874423,2.328469
+L'Entracte,Brasseries,3.5,"1 rue Auber, Paris",48.871129,2.331325,40,421.6429800241603,33147422625.0,False,€€€,48.874423,2.328469
+Camélia,French,4.0,"251 rue Saint-Honoré, Paris",48.8671099,2.32705,24,843.272276868029,33170987400.0,False,€€€€,48.874423,2.328469
+Mon Paris,"Cocktail Bars, Brasseries",3.5,"6 rue Edouard VII, Paris",48.8708418927069,2.32927461719669,24,402.51579455202653,33142948603.0,False,€€,48.874423,2.328469
+L'Opéra Restaurant,Restaurants,3.0,"Palais Garnier, Paris",48.8720826136232,2.33253479003906,41,395.1583723516709,33142688680.0,False,€€€,48.874423,2.328469
+La Ville d'Argentan,"Bars, Brasseries, French",3.5,"4 rue d'Amsterdam, Paris",48.87594,2.32696,12,195.5257479489157,33148743261.0,False,€€,48.874423,2.328469
+Maison Landemaine,"Bakeries, Salad, Sandwiches",4.5,"26 rue des Martyrs, Paris",48.87832,2.33975,25,939.5711825739722,33140160342.0,False,€€,48.874423,2.328469
+Le Pigalle,"Hotels, Bars, French",4.0,"9 rue Frochot, Paris",48.8816185,2.33727,24,1021.88576476705,33148783714.0,False,€€€,48.874423,2.328469
+Café Mademoiselle,Bistros,4.0,"21 rue Duphot, Paris",48.868696,2.325257,23,678.7272452253394,33142975714.0,False,€€€,48.874423,2.328469
+La Rotonde,"Brasseries, Breakfast & Brunch, Bars",3.0,"2 place d'Estienne d'Orves, Paris",48.8766575770586,2.33261584047159,18,392.1006332242696,33148742391.0,False,€€,48.874423,2.328469
+Le Pain Quotidien,"Breakfast & Brunch, Bakeries, Coffee & Tea",3.5,"18 Place du Marché Saint Honoré, Paris",48.8664,2.33174,120,924.3844819470168,33142963170.0,False,€€,48.874423,2.328469
+Café du Mogador,"Bakeries, Brasseries, French",3.5,"57 rue Chaussée d'Antin, Paris",48.87627,2.33186,26,322.03496499092614,33148748519.0,False,€€,48.874423,2.328469
+L'Impérial,Brasseries,3.5,"240 rue de Rivoli, Paris",48.86586,2.32588,48,970.7770066596948,33142607327.0,False,€€€,48.874423,2.328469
+Le Pain Quotidien,"Bakeries, Coffee & Tea, Breakfast & Brunch",4.0,"54 rue des Martyrs, Paris",48.8798630733843,2.34026033179163,22,1053.3582148367182,33142819209.0,False,€€,48.874423,2.328469
+Le Comptoir de l'Europe,Brasseries,3.0,"27 rue d'Athènes, Paris",48.87787,2.32736,15,387.6423086818206,33148744211.0,False,€€,48.874423,2.328469
+Maison Landemaine,"Bakeries, Salad, Sandwiches",4.0,"56 rue de Clichy, Paris",48.880898,2.328875,26,720.6247701422043,33954039556.0,False,€€€€,48.874423,2.328469
+Le Gramont,Bistros,4.5,"15 boulevard des Italiens, Paris",48.87132,2.3372099,20,726.7279603946002,33142975850.0,False,€€€€,48.874423,2.328469
+Le Pain Quotidien,"Bakeries, Coffee & Tea, Breakfast & Brunch",3.5,"5 rue des Petits Champs, Paris",48.866171,2.339022,26,1199.043229316374,33142601524.0,False,€€,48.874423,2.328469
+Sofa Café,"Bars, French, Tea Rooms",3.0,"4-6 rue la Fayette, Paris",48.8731468,2.3339088,33,422.4128270499898,33147705746.0,False,€€€€,48.874423,2.328469
+L'Espadon,"French, Breakfast & Brunch",5.0,"15 place Vendôme, Paris",48.868108,2.328869,5,702.7805178926842,33143163374.0,False,€€€€,48.874423,2.328469
+Café Dalayrac,Brasseries,4.0,"2 Rue Dalayrac, Paris",48.86756,2.33475,13,890.7270119897735,33142965457.0,False,€€,48.874423,2.328469
+Quick,"Fast Food, Burgers",2.5,"2 rue d'Amsterdam, Paris",48.87583,2.32696,13,179.48658970183507,33142800804.0,False,€€,48.874423,2.328469
+Café le Baron,"French, Wine Bars, Cocktail Bars",3.0,"11 rue Châteaudun, Paris",48.87573,2.340637,73,901.709284897046,33148781368.0,False,€€,48.874423,2.328469
+Bistrot Smiley,"Bistros, Cocktail Bars",4.0,"37 rue des Martyrs, Paris",48.8792686,2.3398499,25,982.0738390188116,33153200067.0,False,€€,48.874423,2.328469
+Le Paris London,"French, Bars",3.0,"16 place de la Madeleine, Paris",48.8699352236323,2.32527240792326,50,551.0319204194776,33147423392.0,False,€€€,48.874423,2.328469
+Café Marguerite,Brasseries,4.5,"28 rue des Martyrs, Paris",48.8785136901908,2.33986740145586,12,949.6469108465644,33171607076.0,False,€€,48.874423,2.328469
+Le Petit Poucet,"Bars, Cafes",2.5,"5 place de Clichy, Paris",48.88345,2.3272,64,1008.0581950712688,33145223676.0,False,€€,48.874423,2.328469
+La Taverne,Brasseries,4.0,"24 boulevard des Italiens, Paris",48.8715389,2.3362824,18,655.296572442574,33155331000.0,False,€€,48.874423,2.328469
+McDonald's,"Burgers, Fast Food",3.5,"73 rue Caumartin, Paris",48.87538,2.32849,4,106.45016787841745,33148742212.0,False,€€,48.874423,2.328469
+Le Dome,"Bars, Cafes",3.0,"4 avenue des Villiers, Paris",48.88163,2.31576,65,1242.7758979221985,33142441901.0,False,€€€€,48.874423,2.328469
+L'Avant Première,"Bars, Bistros",4.0,"9 rue Petits Champs, Paris",48.8663,2.3387,10,1172.9378971385854,33140200936.0,False,€€,48.874423,2.328469
+Bo Man Café,"Brasseries, Cafes, French, Coffee & Tea",4.0,"33 Rue Notre Dame De Lorette, Paris",48.87898,2.33686,24,795.8512522829864,33144637041.0,False,€€,48.874423,2.328469
+La Terrasse Choron,"Cafes, French",4.0,"4 Rue Choron, Paris",48.87755,2.34092,7,974.7322385240308,33142814314.0,False,€€,48.874423,2.328469
+Francois Felix,French,3.5,"9 rue Boissy d'Anglas, Paris",48.8680267333984,2.32127594947815,25,884.6199754155285,33142650405.0,False,€€,48.874423,2.328469
+Indiana Café,"Burgers, American (Traditional)",2.5,"18-20 bd Montmartre, Paris",48.87188,2.34058,42,929.813481469826,33147700805.0,False,€€,48.874423,2.328469
+McDonald's,"Burgers, Fast Food",2.0,"119 rue Saint Lazare, Paris",48.87529,2.32556,13,229.9791314809216,33145225673.0,False,€,48.874423,2.328469
+Coquette,"Breakfast & Brunch, French, Burgers",3.5,"4 rue Meyerbeer, Paris",48.8721532,2.3333499,8,437.1925315129608,33177489444.0,False,€€€,48.874423,2.328469
+Le Saint Augustin,"French, Breakfast & Brunch",3.0,"114 boulevard Haussmann, Paris",48.875055,2.320696,29,572.7663847355052,33143874055.0,False,€€€,48.874423,2.328469
+Moloko Paris,"Japanese, Cocktail Bars",5.0,"26 rue Pierre Fontaine, Paris",48.88223,2.33377,3,949.69452882809,33142068724.0,False,€€€,48.874423,2.328469
+Bullier,Brasseries,3.0,"22 avenue de l'Observatoire, Paris",48.839561,2.336374,25,227.65203487280007,33143210606.0,False,€€,48.837526,2.336035
+Les Fauves,"French, Breakfast & Brunch",4.5,"33 boulevard Edgar Quinet, Paris",48.84256,2.322584,16,1132.4543652631448,33172385892.0,False,€€€,48.837526,2.336035
+Chez Félicie,French,4.0,"174 avenue du Maine, Paris",48.83245,2.32472,110,1006.8702037141202,33145410575.0,False,€€,48.837526,2.336035
+Café du Rendez-Vous,Cafes,3.5,"2 ave du Général Leclerc, Paris",48.8336659905406,2.33163136239466,104,536.7577089637756,33143210397.0,False,€€,48.837526,2.336035
+La Coupole,"Brasseries, Seafood",3.5,"102 boulevard du Montparnasse, Paris",48.8424,2.32835,270,781.0868419208142,33143201420.0,False,€€€,48.837526,2.336035
+Le Plomb du Cantal,Auvergnat,3.5,"3 rue de la Gaîté, Paris",48.8407210804336,2.32449908747356,302,916.0053604018752,33143351692.0,False,€€€,48.837526,2.336035
+Le Petit Broc,Brasseries,4.0,"206 boulevard Raspail, Paris",48.841575,2.329496,35,657.0895926185817,33140477483.0,False,€€,48.837526,2.336035
+La Rotonde,Brasseries,4.0,"105 boulevard du Montparnasse, Paris",48.8423557905769,2.32917424911591,182,735.2376612377265,33143264826.0,False,€€€,48.837526,2.336035
+L'Écir,"Bars, French, Brasseries",4.0,"59 bd Saint Jacques, Paris",48.8328285,2.3361199,31,519.1188649555091,33145652215.0,False,€€,48.837526,2.336035
+Le Select Montparnasse,Brasseries,3.5,"99 boulevard du Montparnasse, Paris",48.8424,2.32835,56,781.0868419208142,33173202760.0,False,€€€,48.837526,2.336035
+Indiana Café,"Burgers, American (Traditional), Tapas/Small Plates",3.0,"1 avenue du Général Leclerc, Paris",48.8334649318106,2.33203859519921,98,538.0271753277605,33140476041.0,False,€€,48.837526,2.336035
+Le Lakanal,"Bars, French, Cafes",4.0,"2 ave René Coty, Paris",48.8332835681057,2.33265409779829,31,532.6965681473777,33143272025.0,False,€€,48.837526,2.336035
+Café Montparnasse,"Breakfast & Brunch, Brasseries",3.5,"8 place du 18 Juin 1940, Paris",48.84423,2.32356,30,1106.323772972549,33145489934.0,False,€€€,48.837526,2.336035
+La Terrasse Saint Jacques,"French, Bistros, Brasseries",3.5,"86 bd de Port-Royal, Paris",48.83892,2.33958,7,302.20857255440626,33143542373.0,False,€€,48.837526,2.336035
+Les Caves de Bourgogne,Brasseries,4.0,"144 rue Mouffetard, Paris",48.839176,2.349675,76,1014.9622441921848,33147078280.0,False,€€,48.837526,2.336035
+Café Daguerre,"French, Cafes",3.5,"4 avenue du Général Leclerc, Paris",48.833442784993,2.3314380077707,85,565.1137169408717,33143221729.0,False,€€,48.837526,2.336035
+Le Jockey,Brasseries,3.0,"232 bd Raspail, Paris",48.83965,2.33017,25,496.32250233555106,33143206452.0,False,€€,48.837526,2.336035
+My Baar,"Tapas Bars, Bistros",3.5,"152 boulevard du Montparnasse, Paris",48.8402731,2.3343055,7,330.6774518721728,33143210521.0,False,€€,48.837526,2.336035
+Café de l'Atelier,Brasseries,3.0,"95 boulevard du Montparnasse, Paris",48.84272,2.32804,60,815.7375953167054,33145449881.0,False,€€,48.837526,2.336035
+Comptoir du Panthéon,French,3.5,"5 rue Soufflot, Paris",48.846501811655,2.3440907168984,53,1159.1704864894596,33143547536.0,False,€€,48.837526,2.336035
+Chez Papa,French Southwest,4.0,"138 bd du Montprnasse, Paris",48.84087,2.33235,6,454.2169658223588,33143224485.0,False,€€,48.837526,2.336035
+Indiana Café,"Burgers, Tapas Bars, Breakfast & Brunch",2.5,"72 bd de Montparnasse, Paris",48.8433226,2.3250955,69,1027.8467377706836,33143353628.0,False,€€,48.837526,2.336035
+L'Alouette,"Bars, Brasseries",3.5,"18-24 rue du Champ de l'Alouette, Paris",48.832,2.34464,51,879.872115837272,33143363248.0,False,€€,48.837526,2.336035
+Tashi Delek,Himalayan/Nepalese,4.0,"4 rue des fossés Saint-Jacques, Paris",48.84594,2.34346,34,1075.804870046068,33143265555.0,False,€€,48.837526,2.336035
+Charivari,Bistros,3.5,"143 boulevard Raspail, Paris",48.84244,2.32956,22,723.3016065312742,33146338202.0,False,€€,48.837526,2.336035
+A Bout de Souffle,French,4.0,"17 rue Campagne Premiere, Paris",48.8396909940915,2.3323761592217,3,360.1156849432746,33143209781.0,False,€€,48.837526,2.336035
+Indiana Club,"Pubs, Tex-Mex, Pool Halls, Burgers, American (Traditional), Breakfast & Brunch",3.0,"77 avenue Maine, Paris",48.83844,2.3228,81,973.9835246114666,33143225046.0,False,€€,48.837526,2.336035
+Le Grand Comptoir d'Alésia,"French, Bars",4.0,"125 rue d'Alésia, Paris",48.829235,2.322792,9,1337.7274753788354,33183560903.0,False,€€,48.837526,2.336035
+La Piazzetta,"Italian, Breakfast & Brunch",5.0,"1 rue Bréa, Paris",48.843792,2.3305,4,805.9696385291232,33973220768.0,False,€€,48.837526,2.336035
+La Pizza,"Italian, Pizza",4.5,"318 rue Saint Jacques, Paris",48.8406,2.34076,4,486.2172298911872,33143543095.0,False,€€,48.837526,2.336035
+Café Odessa,Brasseries,3.0,"28 rue d'Odessa, Paris",48.841569,2.324697,21,943.765152023366,33143206484.0,False,€€€,48.837526,2.336035
+A Mi-Chemin,French,3.5,"31 rue Boulard, Paris",48.83319,2.32835,34,740.8464019435622,33145395645.0,False,€€€,48.837526,2.336035
+Les Petits Plats de Marc,"French, Breakfast & Brunch, Soup",5.0,"6 rue de l' Arbalete, Paris",48.840475,2.349184,8,1016.6333832503676,33983616079.0,False,€€,48.837526,2.336035
+Café Gaité,Brasseries,3.0,"10 rue de la Gaité, Paris",48.84041,2.32407,10,933.2583913462748,33143207729.0,False,€€,48.837526,2.336035
+Le Cristal,Brasseries,3.5,"96 bd de Port-Royal, Paris",48.83946,2.33758,4,242.9677884094778,33984255339.0,False,€€,48.837526,2.336035
+Lili et Riton,French,4.5,"64 rue du Montparnasse, Paris",48.8415247163425,2.32505436045775,8,918.4604192727072,33143209352.0,False,€€,48.837526,2.336035
+Café Delmas,Brasseries,3.0,"2 place de la Contrescarpe, Paris",48.84465,2.349405,89,1258.907221110587,33143265126.0,False,€€€,48.837526,2.336035
+R'Yves,French,3.0,"17 bd Saint Jacques, Paris",48.83188,2.33953,10,711.4555885575924,33140787930.0,False,€€€,48.837526,2.336035
+La Contrescarpe,"Bars, Cafes",3.0,"57 rue Lacépède, Paris",48.84437,2.34958,58,1249.687935238327,33143368288.0,False,€€,48.837526,2.336035
+McDonald's,"Fast Food, Burgers",3.0,"167 rue de Rennes, Paris",48.8446,2.32456,41,1150.6627076820575,33145491850.0,False,€,48.837526,2.336035
+Maison Marie,"Brasseries, French",4.0,"222 rue Saint-Jacques, Paris",48.8447825,2.3420057,9,917.6020369813097,33143547868.0,False,€,48.837526,2.336035
+Gaston,"Salad, Breakfast & Brunch, Burgers",2.5,"3 place de la Contrescarpe, Paris",48.84444,2.3494,19,1244.0598856760887,33143296145.0,False,€€,48.837526,2.336035
+Stand,Italian,3.5,"9 bd Edgard Quinet, Paris",48.84058,2.32665,15,766.2473678073659,33143273887.0,False,€,48.837526,2.336035
+Tourn'Bride,Cafes,3.0,"104 rue Mouffetard, Paris",48.84106,2.349546,15,1064.0098618034117,33143314298.0,False,€€,48.837526,2.336035
+McDonald's,"Burgers, Fast Food",3.5,"5 avenue Général Leclerc, Paris",48.833258,2.331701,7,570.8327770282604,33142180378.0,False,€€,48.837526,2.336035
+La Consigne,"French, Bistros, Brasseries",3.0,"71 bd Montparnasse, Paris",48.84366,2.32447,20,1087.0286986184187,33145489751.0,False,€€€,48.837526,2.336035
+La Paix,Kebab,4.0,"14 rue d'Odessa, Paris",48.8423136,2.3245205,4,996.7887200177064,33140475467.0,False,€€€,48.837526,2.336035
+Café de la Place,Bistros,3.0,"23 rue Odessa, Paris",48.84165,2.32482,34,934.0687805063928,33142180155.0,False,€€€€,48.837526,2.336035
+Au Temps Passé,Bistros,3.5,"108 rue d'Alésia, Paris",48.8294989317158,2.32256568968296,2,1329.9050015791968,33145422517.0,False,€,48.837526,2.336035
+Fournil Daguerre,"Bakeries, Sandwiches, Desserts",5.0,"69 rue Daguerre, Paris",48.83535974,2.32580647,2,791.1019510533848,NA,False,€,48.837526,2.336035
+Les Antiquaires,Bistros,4.5,"13 rue du Bac, Paris",48.8580664639432,2.32823697067099,458,737.4409726433971,33142610836.0,False,€€€,48.851654,2.330808
+Café Louise,"Cafes, Brasseries",4.0,"155 bd Saint Germain, Paris",48.853878376742,2.3321086257314,105,265.03696875379734,33142228898.0,False,€€,48.851654,2.330808
+Café Cassette,"Breakfast & Brunch, French, Wine Bars",3.5,"73 rue de Rennes, Paris",48.85108,2.33069,70,64.38645694361415,33145485378.0,False,€€,48.851654,2.330808
+Les Deux Magots,Cafes,3.5,"6 place Saint-Germain des Prés, Paris",48.85389,2.33336,395,310.9612339831549,33145485525.0,False,€€€,48.851654,2.330808
+Café de Flore,Cafes,3.5,"172 boulevard Saint-Germain, Paris",48.854161,2.332603,495,308.17669883654725,33145485526.0,False,€€€,48.851654,2.330808
+Huguette,Seafood,4.0,"81 rue de Seine, Paris",48.8532753282413,2.337029,67,489.591906841382,33143250028.0,False,€€,48.851654,2.330808
+Maison Sauvage,"French, Breakfast & Brunch",4.0,"5 rue de Buci, Paris",48.85366,2.33806,62,578.090618051251,33146342626.0,False,€€,48.851654,2.330808
+L'Atlas,"French, Seafood",3.5,"11 rue Buci, Paris",48.853644,2.33762,99,545.3410090289331,33140512630.0,False,€€€,48.851654,2.330808
+Le Pré aux Clercs,"French, Bars",3.5,"30 rue Bonaparte, Paris",48.8554,2.33383,79,474.5967858168776,33143544173.0,False,€€,48.851654,2.330808
+Le Restaurant,"French, Breakfast & Brunch",4.5,"13 rue des Beaux-Arts, Paris",48.85635,2.33524,36,611.3166723731231,33144419901.0,False,€€€€,48.851654,2.330808
+Le Pain Quotidien,"Breakfast & Brunch, Bakeries, Coffee & Tea",4.0,"25 rue de Varenne, Paris",48.85386,2.32417,62,531.9013876138833,33145440210.0,False,€€,48.851654,2.330808
+Au Petit Suisse,"Brasseries, French",4.0,"16 rue de Vaugirard, Paris",48.84905,2.33901,120,666.340485076136,33143260381.0,False,€€,48.851654,2.330808
+Culture Crêpes,Creperies,4.5,"26 rue Saint-André-des-Arts, Paris",48.8533962,2.3425902,45,883.5763433164026,33951377541.0,False,€,48.851654,2.330808
+Café de Paris,Cafes,3.5,"10 rue de Buci, Paris",48.853873,2.337616,54,555.8978598194002,33146348411.0,False,€€,48.851654,2.330808
+Les Éditeur,"French, Lounges, Brasseries",3.5,"4 carrefour de l'Odéon, Paris",48.851994,2.338499,167,564.0141476450095,33143266776.0,False,€€€,48.851654,2.330808
+Le Bonaparte,"French, Cafes",3.5,"42 rue Bonaparte, Paris",48.8545,2.33362,79,377.4849262931436,33143264281.0,False,€€,48.851654,2.330808
+Le Café Laurent,"Bars, Jazz & Blues, Cafes",5.0,"Hôtel d'Aubusson, Paris",48.85476,2.33948,18,724.0565476002073,33143290333.0,False,€€€,48.851654,2.330808
+Le Pré,"Cocktail Bars, Beer Bar, Cafes",5.0,"4 rue du Four, Paris",48.85301,2.33514,10,355.7420018443557,33140469322.0,False,€€€,48.851654,2.330808
+Le Mabillon,Brasseries,2.5,"164 boulevard Saint-Germain, Paris",48.85333,2.33575,141,415.3568264621749,33143266293.0,False,€€€,48.851654,2.330808
+La Grille Vintage,Brasseries,3.5,"14 rue Mabillon, Paris",48.85194,2.33524,40,325.85024969261775,33143541687.0,False,€€€,48.851654,2.330808
+La Crêperie,Creperies,4.0,"12 rue Soufflot, Paris",48.8468,2.34326,101,1058.9973674960854,33143542280.0,False,€€,48.851654,2.330808
+Le Trait d'Union,French,3.5,"122 rue de Rennes, Paris",48.84677,2.32651,35,619.4735206987469,33145487066.0,False,€€,48.851654,2.330808
+Nadia,"Creperies, French, Wine Bars",5.0,"94 bd Saint Germain, Paris",48.8512795,2.3440643,9,970.8410799738814,33146332290.0,False,€,48.851654,2.330808
+Café Malongo,Cafes,4.0,"50 rue Saint-André des Arts, Paris",48.853487,2.340656,50,748.8324098565282,33143264710.0,False,€€,48.851654,2.330808
+Bar de la Croix Rouge,"Wine Bars, Bistros",3.0,"2 place Michel Debré, Paris",48.8522783,2.3297813,33,102.56529441063708,33145480645.0,False,€€€,48.851654,2.330808
+Le Choupinet,"Brasseries, French, Cafes",4.0,"58 boulevard Saint-Michel, Paris",48.8477332,2.340714,27,845.8424425726344,33142030993.0,False,€€€,48.851654,2.330808
+Le Prince Racine,"Cafes, Brasseries, French",4.5,"22 rue Monsieur le Prince, Paris",48.849857,2.339913,14,695.5317255645057,33143298335.0,False,€€€,48.851654,2.330808
+Restaurant du Musée d'Orsay,French,3.5,"1 rue de la Légion d'Honneur, Paris",48.860175,2.326074,75,1008.8202488272822,33145494703.0,False,€€€,48.851654,2.330808
+Le Hibou,"Bistros, Bars",3.0,"16 carrefour de l'Odéon, Paris",48.8515168,2.338431,89,557.9797552602666,33143549691.0,False,€€€,48.851654,2.330808
+Café Montparnasse,"Breakfast & Brunch, Brasseries",3.5,"8 place du 18 Juin 1940, Paris",48.84423,2.32356,30,971.3324446954372,33145489934.0,False,€€€,48.851654,2.330808
+Le Saint Germain,Brasseries,4.0,"62 rue du Bac, Paris",48.85581,2.32531,32,614.0272583793961,33145489969.0,False,€€€,48.851654,2.330808
+MONK la Taverne de Cluny,"Beer Bar, Tapas Bars, Barbeque",3.5,"51 rue de la Harpe, Paris",48.85158,2.34388,18,959.9245491941358,33143542888.0,False,€€,48.851654,2.330808
+Le Néo Café,"French, Bars",3.5,"126 boulevard Saint-Germain, Paris",48.852482,2.339736,27,659.7078023272985,33974735519.0,False,€€€,48.851654,2.330808
+Mich Sandwiches,"Creperies, Sandwiches, Food Stands",4.5,"10 place St Michel, Paris",48.8533,2.34312,79,927.7690196733304,33606060606.0,False,€,48.851654,2.330808
+Le Buci,Brasseries,3.0,"52 Rue Dauphine, Paris",48.8538316757026,2.3384380229985,59,608.5327984285974,33143266752.0,False,€€,48.851654,2.330808
+La Coopérative,Brasseries,3.5,"85 Rue Rivoli, Paris",48.86046,2.34223,35,1287.307685614495,33142601089.0,False,€€,48.851654,2.330808
+Le Terminus,Brasseries,3.5,"5 rue Bac, Paris",48.85917,2.32901,17,846.045375865496,33142611976.0,False,€€,48.851654,2.330808
+Marcello,"Bars, Cafes",3.5,"8 rue Mabillon, Paris",48.852384,2.335053,12,321.0452294282443,33143265226.0,False,€€,48.851654,2.330808
+La Fregate,"French, Modern European, Seafood",3.5,"1 rue de Bac, Paris",48.85942,2.329265,87,870.9029035970689,33142612377.0,False,€€,48.851654,2.330808
+Le Bar du Marché,Cafes,3.5,"75 Rue Seine, Paris",48.85385,2.33693,95,510.1786559695883,33143265515.0,False,€€,48.851654,2.330808
+Le Relais Odéon,"Bistros, Cocktail Bars",3.5,"132 boulevard Saint Germain, Paris",48.852621,2.338988,72,608.1045579150186,33143298180.0,False,€€€,48.851654,2.330808
+Comptoir du Panthéon,French,3.5,"5 rue Soufflot, Paris",48.846501811655,2.3440907168984,53,1128.1987125636365,33143547536.0,False,€€,48.851654,2.330808
+Café de l'Atelier,Brasseries,3.0,"95 boulevard du Montparnasse, Paris",48.84272,2.32804,60,1015.4488033560594,33145449881.0,False,€€,48.851654,2.330808
+Indiana Café,"Burgers, Tapas Bars, Breakfast & Brunch",2.5,"72 bd de Montparnasse, Paris",48.8433226,2.3250955,69,1016.3225164579244,33143353628.0,False,€€,48.851654,2.330808
+Tashi Delek,Himalayan/Nepalese,4.0,"4 rue des fossés Saint-Jacques, Paris",48.84594,2.34346,34,1120.6511488991446,33143265555.0,False,€€,48.851654,2.330808
+Aux Vieux Garçons,French,4.5,"213 bd St Germain, Paris",48.857,2.32462,13,747.2249509444497,33142220657.0,False,€€€,48.851654,2.330808
+Le Cercle Luxembourg,Brasseries,3.5,"1 rue Gay-Lussac, Paris",48.846948,2.340918,16,906.1287399889784,33146346398.0,False,€€,48.851654,2.330808
+La Fontaine Saint Michel,Brasseries,3.5,"11 place Saint-Michel, Paris",48.85314,2.343563,62,947.7702335128824,33143265431.0,False,€€,48.851654,2.330808
+Le Solférino,"French, Brasseries",2.0,"262 bd Saint-Germain, Paris",48.85905,2.32259,55,1018.7462219077948,33145515514.0,False,€€,48.851654,2.330808
+Café du Pont Neuf,Brasseries,3.5,"14 quai du Louvre, Paris",48.8587,2.34153,59,1108.714456571717,33142333237.0,False,€€,48.851654,2.330808
+Les Antiquaires,Bistros,4.5,"13 rue du Bac, Paris",48.8580664639432,2.32823697067099,458,563.3643545701241,33142610836.0,False,€€€,48.853148,2.326391
+Le Pain Quotidien,"Breakfast & Brunch, Bakeries, Coffee & Tea",4.0,"25 rue de Varenne, Paris",48.85386,2.32417,62,168.66923818160026,33145440210.0,False,€€,48.853148,2.326391
+Café Louise,"Cafes, Brasseries",4.0,"155 bd Saint Germain, Paris",48.853878376742,2.3321086257314,105,426.1771174945792,33142228898.0,False,€€,48.853148,2.326391
+Café Cassette,"Breakfast & Brunch, French, Wine Bars",3.5,"73 rue de Rennes, Paris",48.85108,2.33069,70,389.6509582565427,33145485378.0,False,€€,48.853148,2.326391
+Les Deux Magots,Cafes,3.5,"6 place Saint-Germain des Prés, Paris",48.85389,2.33336,395,516.5547155049726,33145485525.0,False,€€€,48.853148,2.326391
+Café de Flore,Cafes,3.5,"172 boulevard Saint-Germain, Paris",48.854161,2.332603,495,468.2867765032351,33145485526.0,False,€€€,48.853148,2.326391
+Le Saint Germain,Brasseries,4.0,"62 rue du Bac, Paris",48.85581,2.32531,32,310.006033511623,33145489969.0,False,€€€,48.853148,2.326391
+Le Restaurant,"French, Breakfast & Brunch",4.5,"13 rue des Beaux-Arts, Paris",48.85635,2.33524,36,736.5243237847199,33144419901.0,False,€€€€,48.853148,2.326391
+Huguette,Seafood,4.0,"81 rue de Seine, Paris",48.8532753282413,2.337029,67,778.4947334767234,33143250028.0,False,€€,48.853148,2.326391
+Au Petit Suisse,"Brasseries, French",4.0,"16 rue de Vaugirard, Paris",48.84905,2.33901,120,1029.654142807292,33143260381.0,False,€€,48.853148,2.326391
+Le Café Marly,French,3.0,"93 rue de Rivoli, Paris",48.862013,2.335925,335,1207.5910275178228,33149260660.0,False,€€€,48.853148,2.326391
+Le Pré aux Clercs,"French, Bars",3.5,"30 rue Bonaparte, Paris",48.8554,2.33383,79,601.1644157502292,33143544173.0,False,€€,48.853148,2.326391
+Maison Sauvage,"French, Breakfast & Brunch",4.0,"5 rue de Buci, Paris",48.85366,2.33806,62,857.5969513048543,33146342626.0,False,€€,48.853148,2.326391
+L'Atlas,"French, Seafood",3.5,"11 rue Buci, Paris",48.853644,2.33762,99,823.453592076524,33140512630.0,False,€€€,48.853148,2.326391
+Le Café Laurent,"Bars, Jazz & Blues, Cafes",5.0,"Hôtel d'Aubusson, Paris",48.85476,2.33948,18,977.1957430026886,33143290333.0,False,€€€,48.853148,2.326391
+Les Éditeur,"French, Lounges, Brasseries",3.5,"4 carrefour de l'Odéon, Paris",48.851994,2.338499,167,895.1714019620434,33143266776.0,False,€€€,48.853148,2.326391
+Café de Paris,Cafes,3.5,"10 rue de Buci, Paris",48.853873,2.337616,54,825.2576099454432,33146348411.0,False,€€,48.853148,2.326391
+Restaurant du Musée d'Orsay,French,3.5,"1 rue de la Légion d'Honneur, Paris",48.860175,2.326074,75,781.7293331891351,33145494703.0,False,€€€,48.853148,2.326391
+Le Trait d'Union,French,3.5,"122 rue de Rennes, Paris",48.84677,2.32651,35,702.3820468852928,33145487066.0,False,€€,48.853148,2.326391
+Le Bonaparte,"French, Cafes",3.5,"42 rue Bonaparte, Paris",48.8545,2.33362,79,549.8941784968237,33143264281.0,False,€€,48.853148,2.326391
+Le Prince Racine,"Cafes, Brasseries, French",4.5,"22 rue Monsieur le Prince, Paris",48.849857,2.339913,14,1054.905692135054,33143298335.0,False,€€,48.853148,2.326391
+Le Hibou,"Bistros, Bars",3.0,"16 carrefour de l'Odéon, Paris",48.8515168,2.338431,89,899.432958557592,33143549691.0,False,€€€,48.853148,2.326391
+Le Mabillon,Brasseries,2.5,"164 boulevard Saint-Germain, Paris",48.85333,2.33575,141,692.4423745190277,33143266293.0,False,€€€,48.853148,2.326391
+Le Pré,"Cocktail Bars, Beer Bar, Cafes",5.0,"4 rue du Four, Paris",48.85301,2.33514,10,643.6856446023611,33140469322.0,False,€€€,48.853148,2.326391
+Le Néo Café,"French, Bars",3.5,"126 boulevard Saint-Germain, Paris",48.852482,2.339736,27,979.2340463338394,33974735519.0,False,€€€,48.853148,2.326391
+Bar de la Croix Rouge,"Wine Bars, Bistros",3.0,"2 place Michel Debré, Paris",48.8522783,2.3297813,33,263.21457872635295,33145480645.0,False,€€€,48.853148,2.326391
+Le Terminus,Brasseries,3.5,"5 rue Bac, Paris",48.85917,2.32901,17,696.5191009252817,33142611976.0,False,€€,48.853148,2.326391
+La Fregate,"French, Modern European, Seafood",3.5,"1 rue de Bac, Paris",48.85942,2.329265,87,728.4504387894439,33142612377.0,False,€€,48.853148,2.326391
+Le Buci,Brasseries,3.0,"52 Rue Dauphine, Paris",48.8538316757026,2.3384380229985,59,884.7259525929196,33143266752.0,False,€€,48.853148,2.326391
+Aux Vieux Garçons,French,4.5,"213 bd St Germain, Paris",48.857,2.32462,13,447.5008080720914,33142220657.0,False,€€€,48.853148,2.326391
+La Grille Vintage,Brasseries,3.5,"14 rue Mabillon, Paris",48.85194,2.33524,40,661.2639614285388,33143541687.0,False,€€€,48.853148,2.326391
+Le Relais Odéon,"Bistros, Cocktail Bars",3.5,"132 boulevard Saint Germain, Paris",48.852621,2.338988,72,923.5617260019028,33143298180.0,False,€€€,48.853148,2.326391
+Le Solférino,"French, Brasseries",2.0,"262 bd Saint-Germain, Paris",48.85905,2.32259,55,712.7628190096096,33145515514.0,False,€€,48.853148,2.326391
+Le Bar du Marché,Cafes,3.5,"75 Rue Seine, Paris",48.85385,2.33693,95,775.0606864364617,33143265515.0,False,€€,48.853148,2.326391
+Pizza Marinara,"Italian, Pizza",3.5,"46 rue Dauphine, Paris 06",48.8539593962627,2.33876401110755,20,909.7884667142336,33143264594.0,False,€€,48.853148,2.326391
+Couleur Café,Brasseries,4.0,"60 rue de Sèvres, Paris",48.848136,2.319778,7,738.0121252279754,33175429196.0,False,€€,48.853148,2.326391
+La Taverne de Nesle,Brasseries,4.0,"22 rue Dauphine, Paris",48.8546,2.33921,4,951.72475815782,33146348519.0,False,€€,48.853148,2.326391
+McDonald's,"Fast Food, Burgers",3.0,"167 rue de Rennes, Paris",48.8446,2.32456,41,959.8640041973576,33145491850.0,False,€,48.853148,2.326391
+Marcello,"Bars, Cafes",3.5,"8 rue Mabillon, Paris",48.852384,2.335053,12,639.462380759261,33143265226.0,False,€,48.853148,2.326391
+Le Tourne-Bouchon,"Mediterranean, Middle Eastern, Moroccan",4.5,"71 bd Raspail, Paris",48.8491,2.32771,5,460.33389095688847,33145441550.0,False,€€,48.853148,2.326391
+La Marquise,French,3.0,"111 rue de Vaugirard, Paris",48.8451,2.32018,29,1003.6478449769838,33145446725.0,False,€€,48.853148,2.326391
+Le Bistrot Mazarin,Bistros,3.5,"42 rue Mazarine, Paris",48.855389,2.337643,17,860.163205543261,33143299901.0,False,€€,48.853148,2.326391
+Healing,"Yoga, Cafes",5.0,"154 rue Saint Honoré, Paris",48.8620907613027,2.34002,2,1408.221169220214,33142603184.0,False,€€,48.853148,2.326391
+La Croissanterie,"Desserts, Salad, Sandwiches",3.5,"168 bd Saint-Germain, Paris",48.8534835,2.3352405,4,648.5834178382771,33143547714.0,False,€,48.853148,2.326391
+L‘Atlas,Seafood,5.0,"11 rue de Buci, Paris",48.85373,2.33765,1,825.0664776927504,33140512630.0,False,€,48.853148,2.326391
+Restaurants du Monde,International,3.0,"99 rue de Rivoli, Paris",48.8621,2.33597,17,1217.3926342234429,33679549216.0,False,€€,48.853148,2.326391
+Le Café du Musée,Brasseries,2.5,"17 boulevard des Invalides, Paris",48.8566151709744,2.31453569434577,27,949.1642283359856,33145512870.0,False,€€,48.853148,2.326391
+Oui Mon Général !,French,4.0,"14 rue du Général Bertrand, Paris",48.84785,2.31313,1,1135.8318163163297,33147837666.0,False,€€,48.853148,2.326391
+Ayamé,"Sushi Bars, Japanese",3.0,"38 rue de Sèvres, Paris",48.84998,2.32329,1,372.65387958507773,33144398100.0,False,€,48.853148,2.326391
+La Table du Luxembourg,"Breakfast & Brunch, French",2.0,"7 rue Guynemer, Paris",48.846472,2.334487,5,949.7340796346992,33674900506.0,False,€,48.853148,2.326391
+Eric Kayser,"Bakeries, Sandwiches, Delicatessen",4.5,"8 rue Monge, Paris",48.848938,2.349609,136,586.91551197284,33144070142.0,False,€,48.843893,2.351966
+Breakfast in America,"Breakfast & Brunch, Diners",4.0,"17 rue des Ecoles, Paris",48.847871903457,2.3510840228227,299,447.13483372904057,33143545028.0,False,€€,48.843893,2.351966
+Le Descartes,"French, Bistros",4.0,"1 rue Thouin, Paris",48.84507,2.34981,12,205.02033135566305,33143261770.0,False,€€,48.843893,2.351966
+Café Panis,Brasseries,3.5,"21 quai de Montebello, Paris",48.8522,2.34841,149,956.4715567738798,33143541971.0,False,€€,48.843893,2.351966
+Au Petit Suisse,"Brasseries, French",4.0,"16 rue de Vaugirard, Paris",48.84905,2.33901,120,1108.0175098951618,33143260381.0,False,€€,48.843893,2.351966
+La Crêperie,Creperies,4.0,"12 rue Soufflot, Paris",48.8468,2.34326,101,714.4210020931864,33143542280.0,False,€€,48.843893,2.351966
+La Contrescarpe,"Bars, Cafes",3.0,"57 rue Lacépède, Paris",48.84437,2.34958,58,182.51349240047855,33143368288.0,False,€€,48.843893,2.351966
+Café Delmas,Brasseries,3.0,"2 place de la Contrescarpe, Paris",48.84465,2.349405,89,205.4769317217093,33143265126.0,False,€€€,48.843893,2.351966
+Les Éditeur,"French, Lounges, Brasseries",3.5,"4 carrefour de l'Odéon, Paris",48.851994,2.338499,167,1335.1228897778174,33143266776.0,False,€€€,48.843893,2.351966
+Nadia,"Creperies, French, Wine Bars",5.0,"94 bd Saint Germain, Paris",48.8512795,2.3440643,9,1004.4727661044036,33146332290.0,False,€,48.843893,2.351966
+Le Choupinet,"Brasseries, French, Cafes",4.0,"58 boulevard Saint-Michel, Paris",48.8477332,2.340714,27,927.5476284990478,33142030993.0,False,€€€,48.843893,2.351966
+Verse Toujours,"French, Brasseries, Cafes",4.0,"3 ave des Gobelins, Paris",48.83843,2.3510399,73,609.1451551176111,33143310698.0,False,€€,48.843893,2.351966
+Gaston,"Salad, Breakfast & Brunch, Burgers",2.5,"3 place de la Contrescarpe, Paris",48.84444,2.3494,19,197.41246100400943,33143296145.0,False,€€,48.843893,2.351966
+Les Caves de Bourgogne,Brasseries,4.0,"144 rue Mouffetard, Paris",48.839176,2.349675,76,550.6453025989472,33147078280.0,False,€€,48.843893,2.351966
+Le Prince Racine,"Cafes, Brasseries, French",4.5,"22 rue Monsieur le Prince, Paris",48.849857,2.339913,14,1103.5086015267425,33143298335.0,False,€€,48.843893,2.351966
+Le Quartier Général,"Bistros, Cafes",4.0,"82 boulevard Saint Germain, Paris",48.8508075903854,2.34569248898697,25,895.509435486376,33143541456.0,False,€€€,48.843893,2.351966
+Le Saint-Médard,"Brasseries, Cafes",3.5,"53 rue Censier, Paris",48.839292,2.350318,15,525.6223936893547,33143313299.0,False,€€,48.843893,2.351966
+MONK la Taverne de Cluny,"Beer Bar, Tapas Bars, Barbeque",3.5,"51 rue de la Harpe, Paris",48.85158,2.34388,18,1037.9151789865114,33143542888.0,False,€€,48.843893,2.351966
+Le Paradiso,"Pizza, French, Italian",4.5,"81 rue Saint Louis en l'Ile, Paris",48.8528,2.35371,6,999.0337543507576,33146333546.0,False,€€,48.843893,2.351966
+Le Passage,French,4.0,"46 rue des Fossés Saint-Bernard, Paris",48.847601,2.352987,11,419.03448674340774,33143293724.0,False,€€,48.843893,2.351966
+Tzeferakos,"Greek, Cafes",5.0,"24 rue Monge, Paris",48.84692,2.3512199,4,339.4568410106174,33146347627.0,False,€€,48.843893,2.351966
+Le Cardinal Saint-Germain,Brasseries,4.0,"11 boulevard Saint-Germain, Paris",48.8492932702688,2.3543923797622,11,626.1872314523696,33143546529.0,False,€€,48.843893,2.351966
+Le Néo Café,"French, Bars",3.5,"126 boulevard Saint-Germain, Paris",48.852482,2.339736,27,1308.834808141548,33974735519.0,False,€€€,48.843893,2.351966
+Le Hibou,"Bistros, Bars",3.0,"16 carrefour de l'Odéon, Paris",48.8515168,2.338431,89,1303.6917907345687,33143549691.0,False,€€€,48.843893,2.351966
+Comptoir du Panthéon,French,3.5,"5 rue Soufflot, Paris",48.846501811655,2.3440907168984,53,645.21284411991,33143547536.0,False,€€,48.843893,2.351966
+L'Authre Bistro,"Bars, Brasseries, French",3.5,"22 rue des Ecoles, Paris",48.84883,2.34843,21,606.9167728871362,33143544457.0,False,€€,48.843893,2.351966
+Tourn'Bride,Cafes,3.0,"104 rue Mouffetard, Paris",48.84106,2.349546,15,361.384209279991,33143314298.0,False,€€,48.843893,2.351966
+Les Négociants,French,3.5,"23 avenue des Gobelins, Paris",48.83676,2.35188,22,793.1627537891957,33143312816.0,False,€€,48.843893,2.351966
+Les Petits Plats de Marc,"French, Breakfast & Brunch, Soup",5.0,"6 rue de l' Arbalete, Paris",48.840475,2.349184,8,431.158525752943,33983616079.0,False,€€,48.843893,2.351966
+Le Flore en l'Ile,"French, Bistros",3.0,"42 quai d'Orléans, Paris",48.85261,2.35344,58,995.6326317219334,33143298827.0,False,€€,48.843893,2.351966
+Tashi Delek,Himalayan/Nepalese,4.0,"4 rue des fossés Saint-Jacques, Paris",48.84594,2.34346,34,666.5077112164726,33143265555.0,False,€€,48.843893,2.351966
+Les Délices du Fournil,"Patisserie/Cake Shop, Cafes, Creperies",4.0,"2 rue Carmes, Paris",48.85002,2.3479,49,742.0511477135781,33143541447.0,False,€,48.843893,2.351966
+Zig Zag,"Sports Bars, French",3.5,"32 rue des Carmes, Paris",48.8483,2.34701,36,609.6644889993725,33140468109.0,False,€€,48.843893,2.351966
+Le Cercle Luxembourg,Brasseries,3.5,"1 rue Gay-Lussac, Paris",48.846948,2.340918,16,876.9550198957222,33146346398.0,False,€€,48.843893,2.351966
+La Fourmi Ailée,"Tea Rooms, French",3.5,"8 rue Fouarre, Paris",48.85165,2.34736,139,931.934707191723,33143294099.0,False,€€,48.843893,2.351966
+Le Relais Odéon,"Bistros, Cocktail Bars",3.5,"132 boulevard Saint Germain, Paris",48.852621,2.338988,72,1357.8541737028818,33143298180.0,False,€€€,48.843893,2.351966
+Le Petit Pont,Brasseries,2.5,"1 rue du Petit Pont, Paris",48.852714,2.346749,142,1052.5406565260903,33143542381.0,False,€€,48.843893,2.351966
+Royal-Jussieu,Brasseries,3.5,"1 Rue Ecoles, Paris",48.84747,2.35271,10,401.46357440325806,33146335195.0,False,€€,48.843893,2.351966
+Pret à Manger,"Coffee & Tea, Sandwiches, Breakfast & Brunch",4.5,"49 boulevard Saint-Michel, Paris",48.84852,2.3418,6,905.2873067611548,33142018196.0,False,€€,48.843893,2.351966
+Le Nouvel Institut,"Brasseries, Bars, French",3.0,"1 bd Saint-Germain, Paris",48.84925,2.35559,17,646.7774637228754,33967517709.0,False,€€,48.843893,2.351966
+Bistro du Marché,French,2.0,"75 bis rue Monge, Paris",48.84312,2.35221,1,87.76820263500268,33143310481.0,False,€€,48.843893,2.351966
+Maison Marie,"Brasseries, French",4.0,"222 rue Saint-Jacques, Paris",48.8447825,2.3420057,9,735.5860542830159,33143547868.0,False,€€,48.843893,2.351966
+Le Rostand,"French, Bars",3.0,"6 place Edmond Rostand, Paris",48.84775,2.34025,53,961.1520920225842,33143546158.0,False,€€€,48.843893,2.351966
+La Pizza,"Italian, Pizza",4.5,"318 rue Saint Jacques, Paris",48.8406,2.34076,4,898.1221001829513,33143543095.0,False,€€€,48.843893,2.351966
+Le Canon des Gobelins,Brasseries,3.0,"25 avenue des Gobelins, Paris",48.83674,2.35189,24,795.3810989384345,33143365834.0,False,€€,48.843893,2.351966
+French Theory,"Coffee & Tea, Cafes",4.0,"18 rue Cujas, Paris",48.84805,2.34215,4,850.6890876427603,33143545810.0,False,€€,48.843893,2.351966
+La Terrasse Saint Jacques,"French, Bistros, Brasseries",3.5,"86 bd de Port-Royal, Paris",48.83892,2.33958,7,1061.809929703225,33143542373.0,False,€€,48.843893,2.351966
+Maison Pradier,"Bakeries, Cafes",3.0,"14 boulevard Saint-Michel, Paris",48.85226,2.34335,12,1128.2886881124202,33143295995.0,False,€€,48.843893,2.351966
+L'Annexe,"Brasseries, French",4.0,"6 bd de l'Hôpital, Paris",48.8426564200703,2.36364199206676,3,865.4073263962894,33142170172.0,False,€€,48.843893,2.351966
+McDonald's,"Fast Food, Burgers",3.0,"65 boulevard Saint-Michel, Paris",48.8471572390417,2.34099311295194,12,881.2145688329468,33140518648.0,False,€€,48.843893,2.351966
+Ciel de Paris,"Modern European, French",3.5,"33 avenue du Maine, Paris",48.842182,2.322119,232,547.5241891221125,33140647764.0,False,€€€€,48.847082,2.321375
+Les Fauves,"French, Breakfast & Brunch",4.5,"33 boulevard Edgar Quinet, Paris",48.84256,2.322584,16,510.50469763664427,33172385892.0,False,€€€,48.847082,2.321375
+Le Trait d'Union,French,3.5,"122 rue de Rennes, Paris",48.84677,2.32651,35,380.924951242706,33145487066.0,False,€€,48.847082,2.321375
+Café Louise,"Cafes, Brasseries",4.0,"155 bd Saint Germain, Paris",48.853878376742,2.3321086257314,105,1089.9606082721484,33142228898.0,False,€€,48.847082,2.321375
+La Coupole,"Brasseries, Seafood",3.5,"102 boulevard du Montparnasse, Paris",48.8424,2.32835,270,729.0602428609069,33143201420.0,False,€€€,48.847082,2.321375
+Le Plomb du Cantal,Auvergnat,3.5,"3 rue de la Gaîté, Paris",48.8407210804336,2.32449908747356,302,743.2921993585708,33143351692.0,False,€€€,48.847082,2.321375
+Les Deux Magots,Cafes,3.5,"6 place Saint-Germain des Prés, Paris",48.85389,2.33336,395,1158.5230100127249,33145485525.0,False,€€€,48.847082,2.321375
+Café Montparnasse,"Breakfast & Brunch, Brasseries",3.5,"8 place du 18 Juin 1940, Paris",48.84423,2.32356,30,415.69270696026433,33145489934.0,False,€€€,48.847082,2.321375
+Le Paris Montparnasse,"Breakfast & Brunch, Brasseries",4.0,"43 avenue du Maine, Paris",48.841152,2.321768,52,659.9672685204922,33143209302.0,False,€€,48.847082,2.321375
+Le Pain Quotidien,"Breakfast & Brunch, Bakeries, Coffee & Tea",4.0,"25 rue de Varenne, Paris",48.85386,2.32417,62,773.6367541558492,33145440210.0,False,€€,48.847082,2.321375
+Café de Flore,Cafes,3.5,"172 boulevard Saint-Germain, Paris",48.854161,2.332603,495,1137.8170360659751,33145485526.0,False,€€€,48.847082,2.321375
+Le Petit Broc,Brasseries,4.0,"206 boulevard Raspail, Paris",48.841575,2.329496,35,853.2893897620269,33140477483.0,False,€€,48.847082,2.321375
+La Rotonde,Brasseries,4.0,"105 boulevard du Montparnasse, Paris",48.8423557905769,2.32917424911591,182,775.8117995183898,33143264826.0,False,€€€,48.847082,2.321375
+Le Pré aux Clercs,"French, Bars",3.5,"30 rue Bonaparte, Paris",48.8554,2.33383,79,1301.181469481695,33143544173.0,False,€€,48.847082,2.321375
+Café Cassette,"Breakfast & Brunch, French, Wine Bars",3.5,"73 rue de Rennes, Paris",48.85108,2.33069,70,813.7912472413866,33145485378.0,False,€€,48.847082,2.321375
+Couleur Café,Brasseries,4.0,"60 rue de Sèvres, Paris",48.848136,2.319778,7,165.52484423073838,33175429196.0,False,€€,48.847082,2.321375
+Le Select Montparnasse,Brasseries,3.5,"99 boulevard du Montparnasse, Paris",48.8424,2.32835,56,729.0602428609069,33173202760.0,False,€€€,48.847082,2.321375
+La Marquise,French,3.0,"111 rue de Vaugirard, Paris",48.8451,2.32018,29,237.0543054887652,33145446725.0,False,€€,48.847082,2.321375
+McDonald's,"Fast Food, Burgers",3.0,"167 rue de Rennes, Paris",48.8446,2.32456,41,361.20557765479606,33145491850.0,False,€,48.847082,2.321375
+Le Saint Germain,Brasseries,4.0,"62 rue du Bac, Paris",48.85581,2.32531,32,1017.6655233944248,33145489969.0,False,€,48.847082,2.321375
+Indiana Café,"Burgers, Tapas Bars, Breakfast & Brunch",2.5,"72 bd de Montparnasse, Paris",48.8433226,2.3250955,69,498.836974568346,33143353628.0,False,€€,48.847082,2.321375
+Café Pasteur,Cafes,3.5,"35 boulevard Pasteur, Paris",48.842972,2.31303,30,762.6973029993554,33147343998.0,False,€€,48.847082,2.321375
+Le Baribal,"Bars, French",4.0,"186 rue Vaugirard, Paris",48.841890513781,2.3089872879311,40,1074.6671577422746,33147341532.0,False,€€,48.847082,2.321375
+Café de l'Atelier,Brasseries,3.0,"95 boulevard du Montparnasse, Paris",48.84272,2.32804,60,694.2577774807182,33145449881.0,False,€€,48.847082,2.321375
+Le Bonaparte,"French, Cafes",3.5,"42 rue Bonaparte, Paris",48.8545,2.33362,79,1217.8651055589912,33143264281.0,False,€€,48.847082,2.321375
+Charivari,Bistros,3.5,"143 boulevard Raspail, Paris",48.84244,2.32956,22,790.6638228285246,33146338202.0,False,€€,48.847082,2.321375
+Pizza Roma,"Pizza, Italian",3.0,"61 avenue Maine, Paris",48.8395923,2.3223434,29,835.7814129011605,33143201185.0,False,€€,48.847082,2.321375
+Le Jockey,Brasseries,3.0,"232 bd Raspail, Paris",48.83965,2.33017,25,1042.3670706816188,33143206452.0,False,€€,48.847082,2.321375
+Café Odessa,Brasseries,3.0,"28 rue d'Odessa, Paris",48.841569,2.324697,21,659.4224563931245,33143206484.0,False,€€€,48.847082,2.321375
+Just'in,"French, Breakfast & Brunch",3.5,"Hôtel Pullman Montparnasse, Paris",48.83854,2.3203299,17,977.4043449776724,33144364400.0,False,€€,48.847082,2.321375
+Indiana Club,"Pubs, Tex-Mex, Pool Halls, Burgers, American (Traditional), Breakfast & Brunch",3.0,"77 avenue Maine, Paris",48.83844,2.3228,81,966.5437194335258,33143225046.0,False,€€,48.847082,2.321375
+La Piazzetta,"Italian, Breakfast & Brunch",5.0,"1 rue Bréa, Paris",48.843792,2.3305,4,761.3737966445021,33973220768.0,False,€€,48.847082,2.321375
+Café Gaité,Brasseries,3.0,"10 rue de la Gaité, Paris",48.84041,2.32407,10,761.3265219456163,33143207729.0,False,€€,48.847082,2.321375
+L'Inspiration,"Breakfast & Brunch, Bistros",5.0,"65 boulevard Pasteur, Paris",48.84101,2.3148,1,828.7461422134222,33143202122.0,False,€€,48.847082,2.321375
+Chez Papa,French Southwest,4.0,"138 bd du Montprnasse, Paris",48.84087,2.33235,6,1062.968128254994,33143224485.0,False,€€,48.847082,2.321375
+Le Bistrot d'Eléonore et Maxence,"French, Wine Bars",4.5,"39 avenue Duquesne, Paris",48.85144,2.31096,5,903.1074329515684,33147346727.0,False,€€,48.847082,2.321375
+Lili et Riton,French,4.5,"64 rue du Montparnasse, Paris",48.8415247163425,2.32505436045775,8,674.0164102469972,33143209352.0,False,€€,48.847082,2.321375
+La Consigne,"French, Bistros, Brasseries",3.0,"71 bd Montparnasse, Paris",48.84366,2.32447,20,442.7787773733207,33145489751.0,False,€€€,48.847082,2.321375
+Le Ciel de Paris,"French, Bars",3.5,"33 Avenue du Maine, Paris",48.84228,2.32124,7,551.4678255421532,33140647764.0,False,€€€,48.847082,2.321375
+L'Atlantique,"French, Food",2.5,"37 rue du Départ, Paris",48.841227,2.321957,19,652.3927531612362,33183760271.0,False,€€,48.847082,2.321375
+Le Tourne-Bouchon,"Mediterranean, Middle Eastern, Moroccan",4.5,"71 bd Raspail, Paris",48.8491,2.32771,5,515.0371142899947,33145441550.0,False,€€,48.847082,2.321375
+Stand,Italian,3.5,"9 bd Edgard Quinet, Paris",48.84058,2.32665,15,819.5540147059068,33143273887.0,False,€,48.847082,2.321375
+La Cîme,"Lebanese, Brasseries, Caterers",3.0,"22 rue de l'Arrivée, Paris",48.842961,2.321241,4,458.2928700644516,33143381227.0,False,€,48.847082,2.321375
+Bar de la Croix Rouge,"Wine Bars, Bistros",3.0,"2 place Michel Debré, Paris",48.8522783,2.3297813,33,834.9930188583569,33145480645.0,False,€€€,48.847082,2.321375
+My Baar,"Tapas Bars, Bistros",3.5,"152 boulevard du Montparnasse, Paris",48.8402731,2.3343055,7,1211.8397746356552,33143210521.0,False,€€,48.847082,2.321375
+Oui Mon Général !,French,4.0,"14 rue du Général Bertrand, Paris",48.84785,2.31313,1,610.2283276943563,33147837666.0,False,€€,48.847082,2.321375
+A Bout de Souffle,French,4.0,"17 rue Campagne Premiere, Paris",48.8396909940915,2.3323761592217,3,1150.4318554022122,33143209781.0,False,€€,48.847082,2.321375
+Café Basile,Brasseries,4.0,"2 boulevard Pasteur, Paris",48.84484,2.31063,4,824.1343510155143,33140333635.0,False,€€,48.847082,2.321375
+La Paix,Kebab,4.0,"14 rue d'Odessa, Paris",48.8423136,2.3245205,4,577.9933594678113,33140475467.0,False,€€,48.847082,2.321375
+Café de la Place,Bistros,3.0,"23 rue Odessa, Paris",48.84165,2.32482,34,659.7052296236782,33142180155.0,False,€€€€,48.847082,2.321375
+Sambola,"Brazilian, Bars",4.0,"87 rue Henri Barbusse, Aubervilliers",48.907978,2.390296,1,463.3463060227576,33143521168.0,False,€€,48.910399,2.385136
+Le Chien Qui Fume,French,3.0,"193 avenue Victor Hugo, Aubervilliers",48.9140228,2.3805591,1,523.681063550601,33143521075.0,False,€€,48.910399,2.385136
+Thieng Heng,"Sandwiches, Vietnamese",4.0,"50 avenue d'Ivry, Paris",48.82357,2.36513,57,1215.183317841213,33145829295.0,False,€,48.815802,2.376805
+Tang Gourmet,"Chinese, Pan Asian",3.0,"48 avenue d'Ivry, Paris",48.82365,2.36542,10,1222.5528428723326,33145708000.0,False,€€,48.815802,2.376805
+Le Petit Machon,French,4.0,"5 Rue Paul Bert, Nogent-Sur-Marne",48.837521,2.484433,16,1009.1553228456394,33148736814.0,False,€€€,48.836022,2.470834
+Ajisai,Restaurants,4.0,"3 Rue Michelet, BOULOGNE BILLANCOURT",48.83441,2.23106,2,170.09175363499153,33146215758.0,False,€€€,48.835584,2.23255
+Le Bistro de la Ferme,French,3.5,"170 rue du Vieux Pont de Sèvres, Boulogne-Billancourt",48.8304,2.23905,15,741.1971897879138,33146210416.0,False,€€,48.835584,2.23255
+Café Chérie,"Brasseries, Cocktail Bars",3.5,"1 rue des 4 Cheminées, Boulogne Billancourt",48.83323,2.24342,21,846.1220540147963,33235704676.0,False,€€,48.835584,2.23255
+McDonald's,"Fast Food, Burgers",3.5,"192 boulevard Jean Jaurès, Boulogne-Billancourt",48.834116,2.243028,9,784.0749494524007,33147120102.0,False,€,48.835584,2.23255
+Fatto Qui,"Pizza, Italian, Fast Food",4.5,"100 avenue Edouard Vaillant, Boulogne-Billancourt",48.83424,2.24493,3,914.5188141804664,33185732966.0,False,€,48.835584,2.23255
+Café Seguin,Brasseries,3.0,"89 avenue Pierre Lefaucheux, Boulogne-Billancourt",48.8274254033277,2.23482127196481,11,922.2822635059896,33146099868.0,False,€€,48.835584,2.23255
+Restaurant Coreen,Korean,4.5,"87 ave Jean Baptiste Clement, Boulogne Billancourt",48.8444405,2.23422,2,992.7322806365136,33147120249.0,False,€€€,48.835584,2.23255
+Les Négociants,French,3.5,"23 avenue des Gobelins, Paris",48.83676,2.35188,22,218.8117325850413,33143312816.0,False,€€,48.835093,2.353468
+La Manufacture,"Bars, French, Brasseries",4.0,"62 ave des Gobelins, Paris",48.8334322211117,2.35405210519735,28,189.52889519391732,33143310136.0,False,€€,48.835093,2.353468
+Verse Toujours,"French, Brasseries, Cafes",4.0,"3 ave des Gobelins, Paris",48.83843,2.3510399,73,410.2203644688014,33143310698.0,False,€€,48.835093,2.353468
+Le Canon des Gobelins,Brasseries,3.0,"25 avenue des Gobelins, Paris",48.83674,2.35189,24,216.5395072984669,33143365834.0,False,€€,48.835093,2.353468
+Les Caves de Bourgogne,Brasseries,4.0,"144 rue Mouffetard, Paris",48.839176,2.349675,76,532.1792146579751,33147078280.0,False,€€,48.835093,2.353468
+Le Prétexte,French,4.0,"111 rue de Tolbiac, Paris 13",48.8265032,2.3632729,20,1194.7072065435384,33145855343.0,False,€€,48.835093,2.353468
+Café de France,"Brasseries, French, Cafes",3.0,"12 place d'Italie, Paris",48.83135,2.35421,32,418.35675204130195,33143311986.0,False,€€,48.835093,2.353468
+Le Saint-Médard,"Brasseries, Cafes",3.5,"53 rue Censier, Paris",48.839292,2.350318,15,520.74867359024,33143313299.0,False,€€,48.835093,2.353468
+Pastazza,Italian,4.0,"22 rue Lebrun, Paris",48.83632,2.35484,1,169.4194227913184,33143370968.0,False,€€,48.835093,2.353468
+Bagel Corner,"Burgers, Bagels",4.0,"66 avenue des Gobelins, Paris",48.833,2.35418,1,240.90313771475343,33143372922.0,False,€€,48.835093,2.353468
+L'Alouette,"Bars, Brasseries",3.5,"18-24 rue du Champ de l'Alouette, Paris",48.832,2.34464,51,731.9822205101336,33143363248.0,False,€€,48.835093,2.353468
+Les Frangins,Bistros,4.0,"3 rue des Gobelins, Paris",48.83576,2.35214,1,118.94867551266552,33147072346.0,False,€€,48.835093,2.353468
+McDonald's,"Fast Food, Burgers",2.5,"2 boulevard Arago, Paris",48.836671,2.350741,7,265.7755237793013,33145351672.0,False,€,48.835093,2.353468
+Les Petits Plats de Marc,"French, Breakfast & Brunch, Soup",5.0,"6 rue de l' Arbalete, Paris",48.840475,2.349184,8,675.6346140693812,33983616079.0,False,€€,48.835093,2.353468
+O'Jules,"Brasseries, French",3.0,"2 rue Bobillot, Paris",48.83062,2.35459,50,511.9747176386247,33145806033.0,False,€€,48.835093,2.353468
+Cafe d'Italie,"Pizza, Cafes, Cocktail Bars",3.0,"2 place d'Italie, Paris",48.83212,2.3546999,4,341.4745381606261,33143310510.0,False,€€€,48.835093,2.353468
+La Pizza,"Italian, Pizza",4.5,"318 rue Saint Jacques, Paris",48.8406,2.34076,4,1113.5731827162551,33143543095.0,False,€€€,48.835093,2.353468
+Tourn'Bride,Cafes,3.0,"104 rue Mouffetard, Paris",48.84106,2.349546,15,722.9526736350479,33143314298.0,False,€€,48.835093,2.353468
+L'Annexe,"Brasseries, French",4.0,"6 bd de l'Hôpital, Paris",48.8426564200703,2.36364199206676,3,1123.2758696309504,33142170172.0,False,€€,48.835093,2.353468
+La Terrasse d'Italie,"Pizza, Italian",3.0,"21 avenue d'Italie, Paris",48.82882,2.35651,2,717.429458006718,33142169789.0,False,€€,48.835093,2.353468
+Les Affranchis,Brasseries,5.0,"98 rue de Tolbiac, Paris",48.8267743,2.3638612,1,1178.6623539408367,33145839439.0,False,€€,48.835093,2.353468
+La Nouvelle Gare,Bistros,4.0,"49 Boulevard Vincent-Auriol, Paris",48.83397,2.364764,5,836.1448814062359,33145847429.0,False,€,48.835093,2.353468
+Au Soleil d'Austerlitz,"French, Creperies",3.0,"18 boulevard de l'Hôpital, Paris",48.8418,2.36283,4,1012.1030358113304,33143312238.0,False,€,48.835093,2.353468
+McDonald's,"Fast Food, Burgers",3.0,"2 boulevard de l'Hôpital, Paris",48.843056,2.363747,8,1161.8770791599927,33181695478.0,False,€€,48.835093,2.353468
+McDonald's,"Burgers, Fast Food",2.5,"211-213 bd Vincent Auriol, Paris",48.8307830567886,2.35666966376025,2,533.4458062442245,33145859818.0,False,€€€,48.835093,2.353468
+Maki Store Paris 5,"Food Delivery Services, Japanese, Pan Asian",1.0,"65 Rue Claude Bernard, Paris",48.84089936,2.34447541,1,924.7058128123062,33143370404.0,False,€€€,48.835093,2.353468
+Le Grain Magique,Moroccan,3.5,"69 Rue Croulebarbe, Paris 13",48.8316,2.34913,3,501.6589631631678,33965271856.0,False,€,48.835093,2.353468
+Cafe l'Arbalète,Cafes,3.0,"2 rue de l'Arbalète, Paris",48.8405620001958,2.35052359714313,5,645.2021421067014,33143313934.0,False,€€,48.835093,2.353468
+Chez Nénesse,"Brasseries, Pizza, Burgers",3.0,"23 rue de la Butte aux Cailles, Paris",48.82759,2.34953,2,879.0412882859333,33982310375.0,False,€€,48.835093,2.353468
+Bistro du Marché,French,2.0,"75 bis rue Monge, Paris",48.84312,2.35221,1,897.3209943212792,33143310481.0,False,€€,48.835093,2.353468
+La Maison Bleue,"Bistros, French, Breakfast & Brunch",4.5,"7 place Franz Liszt, Paris",48.878343,2.351023,43,249.1036664001472,33144650180.0,False,€€€,48.879089,2.354235
+Terminus Nord,"French, Brasseries",3.5,"23 rue de Dunkerque, Paris",48.88083,2.35144,113,281.5160377488347,33142850515.0,False,€€€,48.879089,2.354235
+The Frog & Underground,"Pubs, American (Traditional), Brasseries",4.5,"176 rue Montmartre, Paris",48.871088,2.343115,45,1205.3514411979957,33144820472.0,False,€€,48.879089,2.354235
+La Chaufferie,"Bars, French",4.0,"2 boulevard Denain, Paris",48.8788718,2.3541699,14,24.61622998509864,33148741341.0,False,€€,48.879089,2.354235
+Pedzouille,"Bistros, Steakhouses",4.5,"66 rue du Faubourg Poissonnière, Paris",48.876133,2.348528,25,531.2430220274954,33986404242.0,False,€€,48.879089,2.354235
+Le Richer,"French, Wine Bars",4.0,"2 rue Richer, Paris",48.874131,2.3476848,74,730.3410767972528,33967291843.0,False,€€€,48.879089,2.354235
+Café du Nord,"Brasseries, Breakfast & Brunch, Tea Rooms",3.5,"19 rue de Dunkerque, Paris",48.87963,2.35568,41,117.46625895212428,NA,False,€€,48.879089,2.354235
+La Marine,French,3.5,"55bis quai de Valmy, Paris",48.870604,2.36533366888659,135,1244.5886747333695,33142396981.0,False,€€,48.879089,2.354235
+Le Valmy,"Brasseries, French, Cocktail Bars",4.0,"145 quai de Valmy, Paris",48.877615,2.365153,56,815.0649529391553,33142099378.0,False,€€,48.879089,2.354235
+karaoke Sun Ra Cafe,"Basque, Bars",4.0,"8 Boulevard de Denain, Paris",48.8794,2.35444,2,37.691079067034515,33618920993.0,False,€€,48.879089,2.354235
+Lakshmi Bhavan,Indian,4.5,"57 rue Rodier, Paris",48.8810196,2.34411,25,768.3285552697876,33145266187.0,False,€€,48.879089,2.354235
+La Crème de Paris,"Ice Cream & Frozen Yogurt, Gluten-Free, Creperies",4.0,"4 rue du Faubourg Montmartre, Paris",48.871955,2.343232,151,1129.9434883482754,33148248950.0,False,€€,48.879089,2.354235
+Le Magenta,Brasseries,4.0,"152 boulevard de Magenta, Paris",48.881968,2.351333,10,384.0779773351421,33148780547.0,False,€€,48.879089,2.354235
+Hôtel du Nord,French,3.5,"102 quai de Jemmapes, Paris",48.873494,2.364109,77,953.1417242235176,33140407878.0,False,€€€,48.879089,2.354235
+Mamie Burger,Burgers,4.0,"21 rue du Faubourg Montmartre, Paris",48.87312,2.34293,24,1065.1906979341427,33981457292.0,False,€€,48.879089,2.354235
+La Maison Blanche,French,3.0,"21 rue Dunkerque, Paris",48.8796315742254,2.35529413198979,22,98.17608642193986,33148781592.0,False,€€€€,48.879089,2.354235
+Le Buffet de la Gare,"Bars, Cafes, Brasseries",4.0,"70 bd de Strasbourg, Paris",48.8752213,2.3578801,11,515.6786333785544,33146073605.0,False,€€,48.879089,2.354235
+Le Café de l'Église,Cafes,4.0,"2 place Franz Liszt, Paris",48.87754,2.35175,5,248.07713080219028,33142470123.0,False,€€,48.879089,2.354235
+McDonald's,"Fast Food, Burgers",3.5,"25 rue de Dunkerque, Paris",48.88083,2.35144,13,281.5160377488347,33140239132.0,False,€,48.879089,2.354235
+La Ville de Provins,Brasseries,4.5,"74 boulevard de Strasbourg, Paris",48.875575,2.358201,6,486.6166381782206,33146073360.0,False,€€,48.879089,2.354235
+Paris Nord Café,Cafes,3.5,"17 rue de Dunkerque, Paris",48.88083,2.35144,18,281.5160377488347,33142852361.0,False,€€€,48.879089,2.354235
+Corso,Italian,3.5,"10 ave Trudaine, Paris",48.881895175377,2.345263582166,47,726.4631114669554,33148785581.0,False,€€,48.879089,2.354235
+Chez Jeanette,"Bars, French, Bistros",3.5,"47 rue du faubourg Saint-Denis, Paris",48.8716,2.35367,70,833.7623902845777,33147703089.0,False,€€,48.879089,2.354235
+Brasserie Barbès,"Cocktail Bars, French, Cafes",3.0,"2 bd Barbès, Paris",48.8838824130061,2.35008113086224,61,613.4768152534206,33185152230.0,False,€€€,48.879089,2.354235
+La Colonie,"Bars, French",4.0,"128 rue la Fayette, Paris",48.8782083834799,2.35316572940142,2,125.30982966674092,33145810305.0,False,€€€,48.879089,2.354235
+Le Sully,"Bars, Brasseries",4.0,"13 rue du faubourg Saint-Denis, Paris",48.87029,2.35282,16,978.5986866002214,33177107470.0,False,€,48.879089,2.354235
+Le Napoléon,"French, Bars, Brasseries",3.5,"73 rue du Faubourg Saint-Denis, Paris",48.87289,2.35431,56,684.7471678120688,33147702136.0,False,€€,48.879089,2.354235
+Le Dunkerque,"Brasseries, Cocktail Bars, French",3.5,"1 avenue Trudaine, Paris",48.8817482,2.3462999,24,644.3422342336335,33142811134.0,False,€€,48.879089,2.354235
+Café le Baron,"French, Wine Bars, Cocktail Bars",3.0,"11 rue Châteaudun, Paris",48.87573,2.340637,73,1062.248742494457,33148781368.0,False,€€,48.879089,2.354235
+Mamie Burger,"Burgers, American (Traditional), Barbeque",3.5,"75 rue du Faubourg Saint-Denis, Paris",48.872991,2.354218,12,678.0670503784646,33986318610.0,False,€€,48.879089,2.354235
+Mardin Çorba Salonu,"Turkish, Middle Eastern, Soup",4.5,"19 rue du Faubourg-Saint-Denis, Paris",48.87044,2.3529,10,961.91298623231,NA,False,€,48.879089,2.354235
+Chez Fabienne,Creperies,5.0,"85 bis boulevard Magenta, Paris",48.87697,2.35519,3,254.7129179671563,NA,False,€,48.879089,2.354235
+La Terrasse Choron,"Cafes, French",4.0,"4 Rue Choron, Paris",48.87755,2.34092,7,988.6284080414858,33142814314.0,False,€€,48.879089,2.354235
+Five Guys,"Burgers, Fast Food",2.5,"18 rue de Dunkerque, Paris",48.880107,2.355156,4,131.71699194072778,33140370263.0,False,€€,48.879089,2.354235
+La Chope du Château Rouge,Brasseries,4.0,"40 rue de Clignancourt, Paris",48.88694,2.34778,26,992.9621723583464,33953637189.0,False,€,48.879089,2.354235
+Burger King,"Fast Food, Burgers",1.0,"25 rue de Dunkerque, Paris",48.879797,2.354296,1,78.85219550912849,33182732579.0,False,€,48.879089,2.354235
+Le Ronsard,"Bars, French",2.5,"13 place St Pierre, Paris",48.8843,2.34347,29,977.4402821662808,33146060338.0,False,€€,48.879089,2.354235
+Le Panorama,"French, Beer, Wine & Spirits, Brasseries",3.5,"20 Rue Gérando, Paris",48.88321,2.34681,24,710.4719924555123,33148780278.0,False,€€,48.879089,2.354235
+Indiana Café,"Burgers, American (Traditional)",2.5,"18-20 bd Montmartre, Paris",48.87188,2.34058,42,1280.5545395960792,33147700805.0,False,€€,48.879089,2.354235
+Chez Eugène,Cafes,3.0,"17 place du Tertre, Paris",48.88661,2.34061,66,1300.758916134056,33146067349.0,False,€€,48.879089,2.354235
+East Side Café,"Burgers, Breakfast & Brunch, Cafes",2.5,"129 rue du faubourg Saint-Martin, Paris",48.875581,2.359042,3,525.1025319394353,33140055565.0,False,€€,48.879089,2.354235
+EXKi,"Salad, Juice Bars & Smoothies, Sandwiches",3.0,"173 rue du Faubourg Saint-Denis, Paris",48.88003,2.35731,1,254.7000670678424,33153209767.0,False,€€,48.879089,2.354235
+Madeleine,"Bars, Brasseries",3.0,"39 bd de Bonne Nouvelle, Paris",48.87063,2.34809,27,1042.4430106816048,33142334785.0,False,€€,48.879089,2.354235
+Le Carillon,"Bars, Cafes",3.5,"18 rue Alibert, Paris",48.871632,2.367837,34,1295.0171598304703,33142398188.0,False,€,48.879089,2.354235
+Le Petit Café,"French, Cafes",3.5,"14 boulevard de Strasbourg, Paris",48.87059,2.3552,19,956.6921009674152,33626895963.0,False,€€€,48.879089,2.354235
+La Grange,"Italian, Pizza",4.0,"35 rue de la Grange aux Belles, Paris",48.8752708,2.3671999,8,1039.421606280428,33142086954.0,False,€€€,48.879089,2.354235
+Le Café Zéphyr,Brasseries,3.5,"12 boulevard Montmartre, Paris",48.871901,2.341824,49,1209.4025684631654,33147708014.0,False,€€,48.879089,2.354235
+Prêt à Manger,Cafes,4.0,"3 rue Steinkerque, Paris",48.883179,2.343593,4,901.3372038109424,33146065467.0,False,€,48.879089,2.354235
+Sunset Boulevard,"Bars, Brasseries",3.5,"26 boulevard Poissonnière, Paris",48.87129,2.34418,19,1137.0105704341504,33142461322.0,False,€,48.879089,2.354235
+Le Bonne Nouvelle,Bistros,5.0,"24 boulevard de Bonne Nouvelle, Paris",48.87053,2.350453,5,991.093624453214,33153348589.0,False,€,48.879089,2.354235
+La Maison,"Bistros, Brasseries",4.0,"28 place Saint Ferdinand, Paris",48.87805,2.2883,89,215.4355714843836,33145741124.0,False,€€€,48.876116,2.288124
+Le Franc Tireur,Brasseries,4.0,"34 rue d'Armaillé, Paris",48.8790379940633,2.29108138528464,52,390.30819969851143,33145741700.0,False,€€,48.876116,2.288124
+Le Congrès Maillot,Seafood,3.5,"80 avenue Grande Armée, Paris",48.877544,2.284548,69,305.94630401644054,33145741724.0,False,€€€,48.876116,2.288124
+Naï,"Lebanese, Brasseries",4.5,"8 avenue de la Grande-Armée, Paris",48.87484,2.29283,31,369.65791367830445,33970383724.0,False,€€,48.876116,2.288124
+Le Touring,Brasseries,3.5,"61 avenue Grande Armée, Paris",48.876591,2.287229,23,84.10541968294208,33145004624.0,False,€€,48.876116,2.288124
+Café Latéral,"French, Breakfast & Brunch",3.5,"4 ave Mac-Mahon, Paris",48.8752803,2.2947966,102,496.751237660248,33143802096.0,False,€€,48.876116,2.288124
+Eric Kayser,"Bakeries, Delicatessen, Sandwiches",4.5,"61bis avenue de la Grande-Armée, Paris",48.87584,2.28742,2,88.96245961913962,33145005261.0,False,€€,48.876116,2.288124
+Le Fouquet's,"French, Bars, Breakfast & Brunch",3.5,"99 avenue des Champs-Elysées, Paris",48.871577,2.301229,203,1083.2037105964907,33140696050.0,False,€€€€,48.876116,2.288124
+Le General,"Brasseries, Bistros, Cafes",3.5,"17 ave de Wagram, Paris",48.8758202,2.2962401,33,590.4689286160689,33143803412.0,False,€€,48.876116,2.288124
+La Terrasse,"Brasseries, Lounges, Bistros",3.5,"76 ave de la Grande Armée, Paris",48.8773711,2.2848731,23,275.67694030331245,33145743210.0,False,€€,48.876116,2.288124
+Brasserie Lorraine,"Bistros, Breakfast & Brunch, Seafood, Brasseries",3.5,"2 Place Des Ternes, Paris",48.8779,2.29885,87,809.0909840832036,33156212200.0,False,€€€€,48.876116,2.288124
+L'Arc,Brasseries,3.0,"27 avenue Carnot, Paris",48.8769577495208,2.29207500815392,21,303.7230062984839,33143805051.0,False,€€€,48.876116,2.288124
+Washington Poste,"Pubs, Burgers",3.5,"3 rue de Washington, Paris",48.8723602,2.3016801,72,1073.684387935281,33142259963.0,False,€€,48.876116,2.288124
+Le Stella,"French, Brasseries",4.0,"133 avenue Victor Hugo, Paris",48.867555427657,2.28070483011613,78,1095.6896851835738,33156905600.0,False,€€€,48.876116,2.288124
+Café George V,Cafes,3.0,"120 avenue des Champs Elysées, Paris",48.87215,2.30013,204,982.5768061743707,33145623351.0,False,€€,48.876116,2.288124
+Le Maillot,Brasseries,3.5,"78 avenue de la Grande Armée, Paris",48.877465,2.284694,7,292.26751540222494,33145744142.0,False,€,48.876116,2.288124
+L'Etoile 1903,French,3.0,"4 avenue de Wagram, Paris",48.875135,2.296387,75,614.0590130983501,33142275242.0,False,€€€,48.876116,2.288124
+Fleurus Café,"Breakfast & Brunch, Cafes",4.0,"39 avenue Kléber, Paris",48.868828,2.291766,14,853.0407259715772,33147046140.0,False,€€,48.876116,2.288124
+Indiana Café,"American (Traditional), Burgers",3.0,"237 rue du faubourg Saint-Honoré, Paris",48.87748,2.29858,41,779.5507352185991,33144098000.0,False,€€,48.876116,2.288124
+Le Cristal,"Brasseries, French, Bars",2.5,"6 avenue Grande Armée, Paris",48.8747861667917,2.29303523782602,16,388.4198123487382,33156689812.0,False,€€,48.876116,2.288124
+Le Victor Hugo,"Brasseries, French, Cafes",3.5,"4 place Victor Hugo, Paris",48.87012,2.28548,39,695.0208176037931,33145008755.0,False,€€,48.876116,2.288124
+Le Durand Dupont,"Bars, French",3.0,"14 place du Marché, Neuilly-sur-Seine",48.88075,2.2755899,62,1047.9817199383003,33141929300.0,False,€€€,48.876116,2.288124
+La Galerie,"French, Breakfast & Brunch, Tea Rooms",4.5,"31 avenue George V, Paris",48.8688,2.30083,6,1202.5587587681882,33149527006.0,False,€€€€,48.876116,2.288124
+Paul,"Sandwiches, Bakeries",4.0,"2 place de la Porte Maillot, Paris",48.8788780623031,2.28274281824645,5,499.1872596178768,33140681005.0,False,€,48.876116,2.288124
+Le M64,"French, Breakfast & Brunch",4.0,"Hôtel InterContinental, Paris",48.8706,2.29778,11,935.3686318348545,33144433650.0,False,€€€€,48.876116,2.288124
+McDonald's,"Fast Food, Burgers",3.0,"140 avenue des Champs Elysées, Paris",48.8727748,2.298793,91,864.2033594668857,33153772100.0,False,€,48.876116,2.288124
+Lina's,"Salad, Sandwiches",5.0,"7 place du Maréchal Juin, Paris",48.8843886,2.2969507,3,1118.0240150982324,33142333737.0,False,€,48.876116,2.288124
+Le Marly,Brasseries,3.5,"54 avenue du Roule, Neuilly-sur-Seine",48.882731,2.277218,8,1084.9325601065862,33147454671.0,False,€€,48.876116,2.288124
+Bistro des Champs,Bistros,2.5,"122 avenue des Champs-Élysées, Paris",48.87251,2.30015,35,980.3750563100044,33143599331.0,False,€€,48.876116,2.288124
+MAYO,"French, Tapas/Small Plates",3.5,"3 place du Général Kœnig, Paris",48.88037301652808,2.28472039103508,7,534.8079659328611,33140685119.0,False,€€,48.876116,2.288124
+McDonald's,"Burgers, Fast Food",3.0,"277 boulevard Pereire, Paris",48.87769,2.28465,5,304.3812719475304,33153816162.0,False,€,48.876116,2.288124
+L'Elysée Saint Honoré,French,3.5,"205 rue du Faubourg Saint-Honoré, Paris",48.876504,2.301671,9,991.6493687902037,33153764856.0,False,€€€,48.876116,2.288124
+L’Arc Food,"Salad, Burgers, Pizza",5.0,"5 avenue Carnot, Paris",48.8754742431223,2.29322099419327,1,379.5230262041456,33145782353.0,False,€€€,48.876116,2.288124
+Le Café Triomphe,Cafes,3.0,"8 avenue de la Grande Armée, Paris",48.87484,2.29283,4,369.65791367830445,33143805216.0,False,€€,48.876116,2.288124
+L'Orangerie,"Breakfast & Brunch, French",4.5,"31 avenue George V, Paris",48.8688,2.30083,4,1202.5587587681882,33149527224.0,False,€€,48.876116,2.288124
+Romeo,Italian,3.5,"6 place Victor Hugo, Paris",48.8700904193351,2.28500807246201,26,707.7076125264334,33145012222.0,False,€€€,48.876116,2.288124
+Brioche Dorée,"Fast Food, Sandwiches",3.5,"144 avenue des Champs Elysées, Paris",48.87259,2.29877,18,871.7330815592794,33145613158.0,False,€€,48.876116,2.288124
+John Weng,"Bistros, Pan Asian",4.0,"97 avenue Niel, Paris",48.8842087,2.2968099,4,1102.5168460212035,33146225978.0,False,€€,48.876116,2.288124
+Le Royal Pereire,"Seafood, French",3.0,"1 Place Mar Juin, Paris",48.88469,2.29783,24,1188.5677927451832,33147636204.0,False,€€,48.876116,2.288124
+Pomme de pain,Sandwiches,4.0,NA,48.8791673513668,2.2833114465576,2,488.85772400224994,33145726782.0,False,€,48.876116,2.288124
+Sophie la Parisienne,"Food Delivery Services, Breakfast & Brunch",4.0,"4 rue du Sergent Hoff, Paris",48.88156,2.2942,4,768.4462453399753,33179755711.0,False,€€€,48.876116,2.288124
+McDonald's,"Fast Food, Burgers",3.0,"131 avenue Victor Hugo, Paris",48.86785,2.28137,16,1043.2203321588104,33147274106.0,False,€,48.876116,2.288124
+Pleine Terre,French,4.5,"15 rue de Bassano, Paris",48.868733,2.297226,2,1056.9335026390572,33981767610.0,False,€,48.876116,2.288124
+La Belle Poule,Brasseries,2.0,"18 avenue Hoche, Paris",48.87653,2.30117,14,958.5380101027245,33145610635.0,False,€,48.876116,2.288124
+McDonald's,"Fast Food, Burgers",2.0,"11 avenue de Wagram, Paris",48.87538,2.29618,9,594.8097833717301,33147631610.0,False,€,48.876116,2.288124
+La Compagnie,French,3.0,"123 avenue de Wagram, Paris",48.88267,2.30126,10,1212.7236059449378,33142271683.0,False,€€,48.876116,2.288124
+Burger King,"Burgers, Fast Food",3.0,"7 avenue de Wagram, Paris",48.8753331,2.2959153,1,627.6555519502341,33182732429.0,False,€€,48.876116,2.288124
+Le Do Ré Mi,"Food, French",2.5,"18 avenue Hoche, Paris",48.8763637,2.3017627,3,997.798162688929,33145610635.0,False,€€€€,48.876116,2.288124
+Bistro les 4 Saisons,Brasseries,2.5,"268 rue du faubourg Sain-Honore, Paris",48.877686304826,2.2991551210143,7,825.3917785176404,33142129915.0,False,€€,48.876116,2.288124
+Manhattan Terrazza,"Pizza, Italian",3.0,"108 avenue de Villiers, Paris",48.88489,2.29886,2,1259.3828005747034,33147633277.0,False,€€,48.876116,2.288124
+Show Devant,"Wine Bars, French",4.0,"38 rue Georges Lebigot, Villejuif",48.79493,2.36624,6,525.825832629479,33149606170.0,False,€€€,48.794902,2.373418
+Breakfast in America,"Breakfast & Brunch, Diners",4.0,"17 rue des Ecoles, Paris",48.847871903457,2.3510840228227,299,335.70174997269635,33143545028.0,False,€€,48.845047,2.349465
+Café Saint-Régis,"French, Breakfast & Brunch",4.0,"6 rue Jean du Bellay, Paris",48.853392,2.353736,187,979.1203151501604,33143545941.0,False,€€,48.845047,2.349465
+Le Descartes,"French, Bistros",4.0,"1 rue Thouin, Paris",48.84507,2.34981,12,25.389066988836387,33143261770.0,False,€€,48.845047,2.349465
+Eric Kayser,"Bakeries, Sandwiches, Delicatessen",4.5,"8 rue Monge, Paris",48.848938,2.349609,136,432.7691339601865,33144070142.0,False,€,48.845047,2.349465
+Café Delmas,Brasseries,3.0,"2 place de la Contrescarpe, Paris",48.84465,2.349405,89,44.37903128379489,33143265126.0,False,€€€,48.845047,2.349465
+La Crêperie,Creperies,4.0,"12 rue Soufflot, Paris",48.8468,2.34326,101,494.1058096219625,33143542280.0,False,€€,48.845047,2.349465
+Café Panis,Brasseries,3.5,"21 quai de Montebello, Paris",48.8522,2.34841,149,795.1250244018831,33143541971.0,False,€€,48.845047,2.349465
+Culture Crêpes,Creperies,4.5,"26 rue Saint-André-des-Arts, Paris",48.8533962,2.3425902,45,1055.8874127296212,33951377541.0,False,€,48.845047,2.349465
+Huguette,Seafood,4.0,"81 rue de Seine, Paris",48.8532753282413,2.337029,67,1290.3813861239162,33143250028.0,False,€€,48.845047,2.349465
+Au Petit Suisse,"Brasseries, French",4.0,"16 rue de Vaugirard, Paris",48.84905,2.33901,120,885.0785463067924,33143260381.0,False,€€,48.845047,2.349465
+Maison Sauvage,"French, Breakfast & Brunch",4.0,"5 rue de Buci, Paris",48.85366,2.33806,62,1270.8098313324251,33146342626.0,False,€€,48.845047,2.349465
+L'Atlas,"French, Seafood",3.5,"11 rue Buci, Paris",48.853644,2.33762,99,1290.3271283358292,33140512630.0,False,€€€,48.845047,2.349465
+La Contrescarpe,"Bars, Cafes",3.0,"57 rue Lacépède, Paris",48.84437,2.34958,58,75.7679607301389,33143368288.0,False,€€,48.845047,2.349465
+Les Éditeur,"French, Lounges, Brasseries",3.5,"4 carrefour de l'Odéon, Paris",48.851994,2.338499,167,1113.7811097043643,33143266776.0,False,€€€,48.845047,2.349465
+Nadia,"Creperies, French, Wine Bars",5.0,"94 bd Saint Germain, Paris",48.8512795,2.3440643,9,797.7532124745478,33146332290.0,False,€,48.845047,2.349465
+Le Choupinet,"Brasseries, French, Cafes",4.0,"58 boulevard Saint-Michel, Paris",48.8477332,2.340714,27,706.5692411934612,33142030993.0,False,€€€,48.845047,2.349465
+Gaston,"Salad, Breakfast & Brunch, Burgers",2.5,"3 place de la Contrescarpe, Paris",48.84444,2.3494,19,67.6800174560369,33143296145.0,False,€€,48.845047,2.349465
+Café de Paris,Cafes,3.5,"10 rue de Buci, Paris",48.853873,2.337616,54,1309.4956984001335,33146348411.0,False,€€,48.845047,2.349465
+Café Malongo,Cafes,4.0,"50 rue Saint-André des Arts, Paris",48.853487,2.340656,50,1138.4893218420275,33143264710.0,False,€€,48.845047,2.349465
+Le Passage,French,4.0,"46 rue des Fossés Saint-Bernard, Paris",48.847601,2.352987,11,383.49693865748856,33143293724.0,False,€€,48.845047,2.349465
+Comptoir du Panthéon,French,3.5,"5 rue Soufflot, Paris",48.846501811655,2.3440907168984,53,425.2180909542758,33143547536.0,False,€€,48.845047,2.349465
+Tzeferakos,"Greek, Cafes",5.0,"24 rue Monge, Paris",48.84692,2.3512199,4,239.0492137304975,33146347627.0,False,€€,48.845047,2.349465
+Le Prince Racine,"Cafes, Brasseries, French",4.5,"22 rue Monsieur le Prince, Paris",48.849857,2.339913,14,880.0883964589106,33143298335.0,False,€€,48.845047,2.349465
+L'Authre Bistro,"Bars, Brasseries, French",3.5,"22 rue des Ecoles, Paris",48.84883,2.34843,21,427.3923875726189,33143544457.0,False,€€,48.845047,2.349465
+Verse Toujours,"French, Brasseries, Cafes",4.0,"3 ave des Gobelins, Paris",48.83843,2.3510399,73,744.2866658511703,33143310698.0,False,€€,48.845047,2.349465
+MONK la Taverne de Cluny,"Beer Bar, Tapas Bars, Barbeque",3.5,"51 rue de la Harpe, Paris",48.85158,2.34388,18,832.0874515149579,33143542888.0,False,€€,48.845047,2.349465
+Le Quartier Général,"Bistros, Cafes",4.0,"82 boulevard Saint Germain, Paris",48.8508075903854,2.34569248898697,25,697.4740006994483,33143541456.0,False,€€€,48.845047,2.349465
+Mich Sandwiches,"Creperies, Sandwiches, Food Stands",4.5,"10 place St Michel, Paris",48.8533,2.34312,79,1033.4016060878605,33606060606.0,False,€,48.845047,2.349465
+Le Hibou,"Bistros, Bars",3.0,"16 carrefour de l'Odéon, Paris",48.8515168,2.338431,89,1081.3712954998496,33143549691.0,False,€€€,48.845047,2.349465
+Le Paradiso,"Pizza, French, Italian",4.5,"81 rue Saint Louis en l'Ile, Paris",48.8528,2.35371,6,917.2790710787672,33146333546.0,False,€€€,48.845047,2.349465
+Les Caves de Bourgogne,Brasseries,4.0,"144 rue Mouffetard, Paris",48.839176,2.349675,76,653.0244462845395,33147078280.0,False,€€,48.845047,2.349465
+Le Néo Café,"French, Bars",3.5,"126 boulevard Saint-Germain, Paris",48.852482,2.339736,27,1090.9709301746625,33974735519.0,False,€€€,48.845047,2.349465
+Le Cardinal Saint-Germain,Brasseries,4.0,"11 boulevard Saint-Germain, Paris",48.8492932702688,2.3543923797622,11,594.0811400608052,33143546529.0,False,€€,48.845047,2.349465
+Tashi Delek,Himalayan/Nepalese,4.0,"4 rue des fossés Saint-Jacques, Paris",48.84594,2.34346,34,454.8910442511294,33143265555.0,False,€€,48.845047,2.349465
+Zig Zag,"Sports Bars, French",3.5,"32 rue des Carmes, Paris",48.8483,2.34701,36,403.8462746092188,33140468109.0,False,€€,48.845047,2.349465
+Le Saint-Médard,"Brasseries, Cafes",3.5,"53 rue Censier, Paris",48.839292,2.350318,15,642.9835038923587,33143313299.0,False,€€,48.845047,2.349465
+Le Buci,Brasseries,3.0,"52 Rue Dauphine, Paris",48.8538316757026,2.3384380229985,59,1266.9273769603617,33143266752.0,False,€€,48.845047,2.349465
+Les Délices du Fournil,"Patisserie/Cake Shop, Cafes, Creperies",4.0,"2 rue Carmes, Paris",48.85002,2.3479,49,563.351632298492,33143541447.0,False,€,48.845047,2.349465
+Le Mabillon,Brasseries,2.5,"164 boulevard Saint-Germain, Paris",48.85333,2.33575,141,1359.9731767212884,33143266293.0,False,€€€,48.845047,2.349465
+Le Flore en l'Ile,"French, Bistros",3.0,"42 quai d'Orléans, Paris",48.85261,2.35344,58,909.1519625459272,33143298827.0,False,€€,48.845047,2.349465
+Le Relais Odéon,"Bistros, Cocktail Bars",3.5,"132 boulevard Saint Germain, Paris",48.852621,2.338988,72,1138.8286754765145,33143298180.0,False,€€€,48.845047,2.349465
+Les Négociants,French,3.5,"23 avenue des Gobelins, Paris",48.83676,2.35188,22,938.28841790523,33143312816.0,False,€€,48.845047,2.349465
+Le Cercle Luxembourg,Brasseries,3.5,"1 rue Gay-Lussac, Paris",48.846948,2.340918,16,660.1667589815465,33146346398.0,False,€€,48.845047,2.349465
+Les Petits Plats de Marc,"French, Breakfast & Brunch, Soup",5.0,"6 rue de l' Arbalete, Paris",48.840475,2.349184,8,508.8162398348147,33983616079.0,False,€€,48.845047,2.349465
+La Fourmi Ailée,"Tea Rooms, French",3.5,"8 rue Fouarre, Paris",48.85165,2.34736,139,755.7183638579195,33143294099.0,False,€€,48.845047,2.349465
+Le Départ Saint Michel,Brasseries,3.0,"1 place Saint-Michel, Paris",48.853547,2.344754,112,1006.0303883588048,33143542455.0,False,€€,48.845047,2.349465
+La Fontaine Saint Michel,Brasseries,3.5,"11 place Saint-Michel, Paris",48.85314,2.343563,62,998.1341984410589,33143265431.0,False,€€,48.845047,2.349465
+Royal-Jussieu,Brasseries,3.5,"1 Rue Ecoles, Paris",48.84747,2.35271,10,359.1261737356594,33146335195.0,False,€€,48.845047,2.349465
+Le Petit Pont,Brasseries,2.5,"1 rue du Petit Pont, Paris",48.852714,2.346749,142,875.3659637989509,33143542381.0,False,€€,48.845047,2.349465
+Saint Séverin,"French, Bars, Breakfast & Brunch",2.5,"3 place Saint-Michel, Paris",48.853351,2.344467,44,993.1232313624646,33143541936.0,False,€€,48.845047,2.349465
+Chez Janou,"Bistros, Provencal",4.0,"2 rue Roger Verlomme, Paris",48.8566952430158,2.36717752386277,589,420.035338186144,33142722841.0,False,€€,48.857041,2.372895
+Chez Mademoiselle,French,4.5,"16 rue Charlemagne, Paris",48.85432,2.35979,116,1005.3824322878526,33142721416.0,False,€€€,48.857041,2.372895
+Maison Landemaine,"Bakeries, Salad, Sandwiches",4.5,"28 boulevard Beaumarchais, Paris",48.85601,2.36871,27,327.09325630853243,33148062243.0,False,€,48.857041,2.372895
+Café des Anges,French,4.0,"66 rue de la Roquette, Paris",48.8554671035123,2.37455475240992,154,213.0631432386417,33147000063.0,False,€€,48.857041,2.372895
+Cuba Compagnie,"Cuban, Cocktail Bars, Tapas Bars",3.5,"48 boulevard Beaumarchais, Paris",48.85695,2.36821,172,342.88174052273195,33148060711.0,False,€€,48.857041,2.372895
+Café Divan,"French, Lounges",4.0,"60 rue de la Roquette, Paris",48.85525,2.37374,127,208.57886559976467,33148057236.0,False,€€,48.857041,2.372895
+La Rotonde,"Bars, Modern European",3.5,"17 rue de la Roquette, Paris",48.8544638054578,2.37164709693766,68,300.8036951304059,33147006893.0,False,€€,48.857041,2.372895
+Le Bistrot du Peintre,Bistros,3.5,"116 ave Ledru Rollin, Paris",48.85326,2.37723,123,526.6922517973273,33147003439.0,False,€€,48.857041,2.372895
+Caffé Créole,"Cajun/Creole, Cocktail Bars",4.0,"62 boulevard Beaumarchais, Paris",48.857912,2.368379,17,344.25365217218183,33155285076.0,False,€€€,48.857041,2.372895
+ALMA,"Chimney Cakes, Cafes, Coffee & Tea",5.0,"59 boulevard Beaumarchais, Paris",48.8577406800785,2.36776560544968,10,383.21010568245424,33966845734.0,False,€€,48.857041,2.372895
+Café Oberkampf,Cafes,4.5,"3 rue Neuve Popincourt, Paris",48.86469,2.37398,51,861.2418900169547,NA,False,€€,48.857041,2.372895
+Chez Troquette,French,5.0,"1 rue Saint-Maur, Paris",48.85866,2.38339,12,787.6326897547233,33143739066.0,False,€€,48.857041,2.372895
+Bagelstein,"Bagels, American (Traditional)",3.5,"15 rue de la Roquette, Paris",48.8543091,2.3712499,24,324.3650174937309,33143550124.0,False,€€,48.857041,2.372895
+L'Armagnac,Bistros,4.0,"104 rue Charonne, Paris",48.854496,2.384889,38,922.0369752639748,33143714943.0,False,€€,48.857041,2.372895
+Chez Justine,"French, Barbeque",3.5,"96 rue Oberkampf, Paris",48.865686,2.377854,147,1027.4125773849382,33143574403.0,False,€€,48.857041,2.372895
+Café Charlot,Cafes,3.5,"38 rue de Bretagne, Paris",48.8630405795265,2.36258512774969,136,1006.8764317481742,33144540330.0,False,€€,48.857041,2.372895
+Le Préau,French,3.5,"18 bd Richard Lenoir, Paris 11",48.8558499,2.36991,12,249.22379829046727,33147009040.0,False,€€,48.857041,2.372895
+Café de l'Industrie,"French, Bars",4.0,"16 rue Saint Sabin, Paris",48.855669,2.371826,16,171.47245776476151,33147001353.0,False,€€,48.857041,2.372895
+Tchaikhana de Boukhara,Mediterranean,4.0,"53 Rue Amelot, Paris",48.85805,2.36861,13,332.92050185277907,33143388840.0,False,€€,48.857041,2.372895
+Maison Landemaine,"Bakeries, Salad, Sandwiches",4.5,"121 rue de Charonne, Paris",48.8548729472644,2.38575886934996,11,971.554191956074,33143713306.0,False,€€,48.857041,2.372895
+Caves Saint Gilles,"Spanish, Tapas Bars",3.5,"4 rue St Gilles, Paris",48.858684,2.367085,80,462.6092629958756,33148872262.0,False,€€€,48.857041,2.372895
+La Belle Équipe,"Bistros, French, Cafes",4.5,"92 rue de Charonne, Paris",48.85384,2.38197,36,758.7211711999303,33143718958.0,False,€€,48.857041,2.372895
+Au Métro,Brasseries,4.5,"19 rue de Malte, Paris",48.864421,2.368517,13,880.8457722220052,33147004876.0,False,€€,48.857041,2.372895
+Le Bûcheron,"Italian, Breakfast & Brunch",4.0,"14 rue de Rivoli, Paris",48.855516,2.359802,73,972.7730427937878,33148877131.0,False,€€,48.857041,2.372895
+En attendant l'or,"Pubs, French",3.5,"6 rue Faidherbe, Paris",48.850661373888,2.3845008934232,65,1106.5085150033467,33143714310.0,False,€€,48.857041,2.372895
+Breakfast in America 2,"Breakfast & Brunch, Diners",3.5,"4 rue Malher, Paris",48.8555553,2.36121511,316,870.3187384950336,33142724021.0,False,€€,48.857041,2.372895
+Season,"Breakfast & Brunch, Vegetarian, American (Traditional)",3.5,"1 rue Charles François Dupuis, Paris",48.86518,2.36283,100,1168.8891536461626,33967175297.0,False,€€,48.857041,2.372895
+Ma Bourgogne,French,3.0,"19 Place Vosges, Paris",48.85635,2.3649,65,589.924413118452,33142717751.0,False,€€€,48.857041,2.372895
+Au Bouquet Saint-Paul,Brasseries,4.0,"85 rue Saint-Antoine, Paris",48.854536,2.362741,61,793.380727038309,33142785503.0,False,€€,48.857041,2.372895
+La Favorite,"French, Bistros, Cafes",3.0,"4 rue de Rivoli, Paris",48.85524,2.36113,102,883.7171356665201,33142785648.0,False,€€,48.857041,2.372895
+Maison Landemaine,"Bakeries, Salad, Sandwiches",4.5,"41 rue Oberkampf, Paris",48.8644770551965,2.37155862764912,14,832.5576397674237,33143578233.0,False,€€,48.857041,2.372895
+Falstaff,Brasseries,3.0,"10-12 place de la Bastille, Paris",48.85294,2.36952,55,518.6050340944556,33146283180.0,False,€€,48.857041,2.372895
+Indiana Café,Tex-Mex,3.0,"14 place de la Bastille, Paris",48.85353,2.3698,51,451.3522541064703,33144757980.0,False,€€,48.857041,2.372895
+Café des Phares,Brasseries,3.0,"7 Place Bastille, Paris",48.85344,2.36892,43,494.907711230391,33142720470.0,False,€€,48.857041,2.372895
+L'Artiste,"French, Cocktail Bars, Breakfast & Brunch",4.0,"153 rue de la Roquette, Paris",48.85952,2.38652,47,1034.8067514636657,33143799619.0,False,€€,48.857041,2.372895
+Comptoir des Mers,Seafood,3.5,"1 rue Turenne, Paris",48.854782,2.362902,25,773.0432580627494,33142726651.0,False,€€€,48.857041,2.372895
+Les Funambules,"French, Breakfast & Brunch",3.5,"12 rue Faidherbes, Paris",48.85118221,2.3840757,89,1045.7871741391232,33143708370.0,False,€€,48.857041,2.372895
+Le QG,"Bars, Breakfast & Brunch",2.5,"32 rue de la Roquette, Paris",48.85436,2.37143,11,316.83531838850234,33147007208.0,False,€€,48.857041,2.372895
+Le Pain Quotidien,"Bakeries, Breakfast & Brunch, Coffee & Tea",3.5,"24 rue de Charonne, Paris",48.853033,2.375003,19,471.65432092037054,33148067204.0,False,€€,48.857041,2.372895
+Le Chat Bossu,"Bistros, Coffee & Tea, Cafes",4.0,"37 rue de Cotte, Paris",48.8505523,2.3783794,44,825.6374688799237,33143408263.0,False,€€,48.857041,2.372895
+Café du Marché des Enfants Rouges,Cafes,4.0,"37 Rue Bretagne, Paris",48.8628,2.36262,46,987.3138967518028,33964130625.0,False,€€,48.857041,2.372895
+Minimes,"Brasseries, French, Cocktail Bars",3.5,"36 rue de Turenne, Paris",48.8575308447292,2.36458124102682,20,610.6355075907385,33142713670.0,False,€€,48.857041,2.372895
+Les Chimères,Brasseries,3.5,"133 Rue St Antoine, Paris",48.85529,2.35993,30,968.2953140997728,33142727197.0,False,€€,48.857041,2.372895
+Café Crème,"Breakfast & Brunch, Cafes",3.5,"4 rue Dupetit-Thouars, Paris",48.865016,2.362797,63,1154.097803995738,33142720406.0,False,€€,48.857041,2.372895
+Les Petites Canailles,French,3.5,"80 rue Amelot, Paris",48.8607241782034,2.36737402981832,24,575.156808514018,NA,False,€€,48.857041,2.372895
+Le Bidule,"Bars, Bistros, French",3.5,"2 Rue Faidherbe, Paris",48.85027,2.38451,22,1135.4028934659102,33143716950.0,False,€€,48.857041,2.372895
+Les Grandes Marches,Brasseries,3.0,"6 place de la Bastille, Paris",48.8532,2.37025,27,468.930638727032,33143429032.0,False,€€€,48.857041,2.372895
+1K Paris Hotel,"Hotels, Bars, Restaurants",4.0,"13 boulevard du Temple, Paris",48.8639318,2.3658744,6,922.3712734960964,33142712000.0,False,€€€,48.857041,2.372895
+Le Grand Breguet,Breakfast & Brunch,3.0,"17 rue Breguet, Paris",48.85748,2.37335,5,109.42073526626632,33970755459.0,False,€,48.857041,2.372895
+Maison Landemaine,"Bakeries, Sandwiches, Salad",4.0,"130 rue de la Roquette, Paris",48.85741,2.37993,4,515.8995926844617,33143799803.0,False,€,48.857041,2.372895
+La Coupole,"Brasseries, Seafood",3.5,"102 boulevard du Montparnasse, Paris",48.8424,2.32835,270,276.4071551900776,33143201420.0,False,€€€,48.844799,2.329338
+Le Select Montparnasse,Brasseries,3.5,"99 boulevard du Montparnasse, Paris",48.8424,2.32835,56,276.4071551900776,33173202760.0,False,€€€,48.844799,2.329338
+La Rotonde,Brasseries,4.0,"105 boulevard du Montparnasse, Paris",48.8423557905769,2.32917424911591,182,271.967616457721,33143264826.0,False,€€€,48.844799,2.329338
+Le Petit Broc,Brasseries,4.0,"206 boulevard Raspail, Paris",48.841575,2.329496,35,358.71110687705806,33140477483.0,False,€€,48.844799,2.329338
+Le Trait d'Union,French,3.5,"122 rue de Rennes, Paris",48.84677,2.32651,35,303.6704760340943,33145487066.0,False,€€,48.844799,2.329338
+Ciel de Paris,"Modern European, French",3.5,"33 avenue du Maine, Paris",48.842182,2.322119,232,603.1254251189791,33140647764.0,False,€€€€,48.844799,2.329338
+Les Fauves,"French, Breakfast & Brunch",4.5,"33 boulevard Edgar Quinet, Paris",48.84256,2.322584,16,553.4132899598808,33172385892.0,False,€€€,48.844799,2.329338
+Café de l'Atelier,Brasseries,3.0,"95 boulevard du Montparnasse, Paris",48.84272,2.32804,60,250.36556149861252,33145449881.0,False,€€,48.844799,2.329338
+Café Montparnasse,"Breakfast & Brunch, Brasseries",3.5,"8 place du 18 Juin 1940, Paris",48.84423,2.32356,30,365.28796222125015,33145489934.0,False,€€€,48.844799,2.329338
+Le Plomb du Cantal,Auvergnat,3.5,"3 rue de la Gaîté, Paris",48.8407210804336,2.32449908747356,302,575.3466643708796,33143351692.0,False,€€€,48.844799,2.329338
+La Piazzetta,"Italian, Breakfast & Brunch",5.0,"1 rue Bréa, Paris",48.843792,2.3305,4,140.63721755268378,33973220768.0,False,€€€,48.844799,2.329338
+Huguette,Seafood,4.0,"81 rue de Seine, Paris",48.8532753282413,2.337029,67,1097.729035487189,33143250028.0,False,€€,48.844799,2.329338
+Au Petit Suisse,"Brasseries, French",4.0,"16 rue de Vaugirard, Paris",48.84905,2.33901,120,851.0748720133956,33143260381.0,False,€€,48.844799,2.329338
+Culture Crêpes,Creperies,4.5,"26 rue Saint-André-des-Arts, Paris",48.8533962,2.3425902,45,1361.6594757947616,33951377541.0,False,€,48.844799,2.329338
+Maison Sauvage,"French, Breakfast & Brunch",4.0,"5 rue de Buci, Paris",48.85366,2.33806,62,1176.7501262805167,33146342626.0,False,€€,48.844799,2.329338
+L'Atlas,"French, Seafood",3.5,"11 rue Buci, Paris",48.853644,2.33762,99,1155.2075031897953,33140512630.0,False,€€€,48.844799,2.329338
+Le Paris Montparnasse,"Breakfast & Brunch, Brasseries",4.0,"43 avenue du Maine, Paris",48.841152,2.321768,52,686.5456842938447,33143209302.0,False,€€,48.844799,2.329338
+Charivari,Bistros,3.5,"143 boulevard Raspail, Paris",48.84244,2.32956,22,262.8442734431202,33146338202.0,False,€€,48.844799,2.329338
+Le Pain Quotidien,"Breakfast & Brunch, Bakeries, Coffee & Tea",4.0,"25 rue de Varenne, Paris",48.85386,2.32417,62,1063.7136826625865,33145440210.0,False,€€,48.844799,2.329338
+Les Éditeur,"French, Lounges, Brasseries",3.5,"4 carrefour de l'Odéon, Paris",48.851994,2.338499,167,1043.738262954502,33143266776.0,False,€€€,48.844799,2.329338
+Café Cassette,"Breakfast & Brunch, French, Wine Bars",3.5,"73 rue de Rennes, Paris",48.85108,2.33069,70,705.3571325865837,33145485378.0,False,€€,48.844799,2.329338
+Le Choupinet,"Brasseries, French, Cafes",4.0,"58 boulevard Saint-Michel, Paris",48.8477332,2.340714,27,894.1022260117194,33142030993.0,False,€€€,48.844799,2.329338
+Indiana Café,"Burgers, Tapas Bars, Breakfast & Brunch",2.5,"72 bd de Montparnasse, Paris",48.8433226,2.3250955,69,351.1919962238499,33143353628.0,False,€€,48.844799,2.329338
+Café Malongo,Cafes,4.0,"50 rue Saint-André des Arts, Paris",48.853487,2.340656,50,1272.4279366914986,33143264710.0,False,€€,48.844799,2.329338
+Le Prince Racine,"Cafes, Brasseries, French",4.5,"22 rue Monsieur le Prince, Paris",48.849857,2.339913,14,956.6067758998572,33143298335.0,False,€€,48.844799,2.329338
+Le Hibou,"Bistros, Bars",3.0,"16 carrefour de l'Odéon, Paris",48.8515168,2.338431,89,1000.3310581615398,33143549691.0,False,€€€,48.844799,2.329338
+Le Pré,"Cocktail Bars, Beer Bar, Cafes",5.0,"4 rue du Four, Paris",48.85301,2.33514,10,1011.7583913686548,33140469322.0,False,€€€,48.844799,2.329338
+Le Mabillon,Brasseries,2.5,"164 boulevard Saint-Germain, Paris",48.85333,2.33575,141,1065.6565741333209,33143266293.0,False,€€€,48.844799,2.329338
+Le Néo Café,"French, Bars",3.5,"126 boulevard Saint-Germain, Paris",48.852482,2.339736,27,1143.9822222327696,33974735519.0,False,€€€,48.844799,2.329338
+McDonald's,"Fast Food, Burgers",3.0,"167 rue de Rennes, Paris",48.8446,2.32456,41,350.326038834403,33145491850.0,False,€,48.844799,2.329338
+Café Odessa,Brasseries,3.0,"28 rue d'Odessa, Paris",48.841569,2.324697,21,494.3207022340153,33143206484.0,False,€€€,48.844799,2.329338
+Le Buci,Brasseries,3.0,"52 Rue Dauphine, Paris",48.8538316757026,2.3384380229985,59,1205.0377588180463,33143266752.0,False,€€,48.844799,2.329338
+La Grille Vintage,Brasseries,3.5,"14 rue Mabillon, Paris",48.85194,2.33524,40,903.8652095080304,33143541687.0,False,€€€,48.844799,2.329338
+Le Relais Odéon,"Bistros, Cocktail Bars",3.5,"132 boulevard Saint Germain, Paris",48.852621,2.338988,72,1120.2895608769284,33143298180.0,False,€€€,48.844799,2.329338
+Le Jockey,Brasseries,3.0,"232 bd Raspail, Paris",48.83965,2.33017,25,573.7909199073548,33143206452.0,False,€€,48.844799,2.329338
+Chez Papa,French Southwest,4.0,"138 bd du Montprnasse, Paris",48.84087,2.33235,6,495.50834934953974,33143224485.0,False,€€,48.844799,2.329338
+Le Cercle Luxembourg,Brasseries,3.5,"1 rue Gay-Lussac, Paris",48.846948,2.340918,16,880.432890084013,33146346398.0,False,€€,48.844799,2.329338
+Pizza Roma,"Pizza, Italian",3.0,"61 avenue Maine, Paris",48.8395923,2.3223434,29,772.8036485430601,33143201185.0,False,€€,48.844799,2.329338
+Lili et Riton,French,4.5,"64 rue du Montparnasse, Paris",48.8415247163425,2.32505436045775,8,480.45391257324457,33143209352.0,False,€€,48.844799,2.329338
+Bullier,Brasseries,3.0,"22 avenue de l'Observatoire, Paris",48.839561,2.336374,25,777.4416382812575,33143210606.0,False,€€,48.844799,2.329338
+Café Gaité,Brasseries,3.0,"10 rue de la Gaité, Paris",48.84041,2.32407,10,615.2854034950539,33143207729.0,False,€€,48.844799,2.329338
+Indiana Club,"Pubs, Tex-Mex, Pool Halls, Burgers, American (Traditional), Breakfast & Brunch",3.0,"77 avenue Maine, Paris",48.83844,2.3228,81,853.7736347838256,33143225046.0,False,€€,48.844799,2.329338
+Just'in,"French, Breakfast & Brunch",3.5,"Hôtel Pullman Montparnasse, Paris",48.83854,2.3203299,17,944.3284843790312,33144364400.0,False,€€,48.844799,2.329338
+La Consigne,"French, Bistros, Brasseries",3.0,"71 bd Montparnasse, Paris",48.84366,2.32447,20,378.0698948606467,33145489751.0,False,€€€,48.844799,2.329338
+Stand,Italian,3.5,"9 bd Edgard Quinet, Paris",48.84058,2.32665,15,508.72522063694606,33143273887.0,False,€,48.844799,2.329338
+Pret à Manger,"Coffee & Tea, Sandwiches, Breakfast & Brunch",4.5,"49 boulevard Saint-Michel, Paris",48.84852,2.3418,6,1006.12631820183,33142018196.0,False,€,48.844799,2.329338
+Couleur Café,Brasseries,4.0,"60 rue de Sèvres, Paris",48.848136,2.319778,7,791.8386850347488,33175429196.0,False,€€,48.844799,2.329338
+Le Ciel de Paris,"French, Bars",3.5,"33 Avenue du Maine, Paris",48.84228,2.32124,7,615.1990299877401,33140647764.0,False,€€,48.844799,2.329338
+Le Rostand,"French, Bars",3.0,"6 place Edmond Rostand, Paris",48.84775,2.34025,53,869.4757358245407,33143546158.0,False,€€€,48.844799,2.329338
+My Baar,"Tapas Bars, Bistros",3.5,"152 boulevard du Montparnasse, Paris",48.8402731,2.3343055,7,620.8566793741455,33143210521.0,False,€€,48.844799,2.329338
+Le Baribal,"Bars, French",4.0,"186 rue Vaugirard, Paris",48.841890513781,2.3089872879311,40,1203.9538744859449,33147341532.0,False,€€,48.833101,2.29938
+Dupont Café,"Bars, French",3.0,"198 rue de la Convention, Paris",48.83721,2.29605,43,518.3884134785407,33145329565.0,False,€€,48.833101,2.29938
+Les Trois Garçons,Brasseries,4.0,"165 Rue Javel, Paris",48.84118,2.29126,22,1077.0806212974237,33140601435.0,False,€€€,48.833101,2.29938
+Le Murmure,French,3.5,"108 rue de la Convention, Paris",48.841095382862,2.2875948527027,51,1238.5793754604815,33145544018.0,False,€€,48.833101,2.29938
+McDonald's,"Fast Food, Burgers",4.5,"192 rue Convention, Paris",48.8374944,2.2955888,7,561.780727853438,33153686450.0,False,€,48.833101,2.29938
+Au Général Beuret,"Coffee & Tea, Breakfast & Brunch",3.5,"9 place du Général-Beuret, Paris",48.84194,2.30305,68,1018.8387930900265,33142502862.0,False,€€,48.833101,2.29938
+Chez Clément,"French, Rotisserie Chicken",2.5,"407 rue de Vaugirard, Paris",48.8327168744913,2.28851749943146,32,796.2280911666107,33153689400.0,False,€€€,48.833101,2.29938
+Wallace,Cafes,3.5,"90 rue de Cambronne, Paris",48.8421402,2.3029001,8,1031.752993267243,33147342839.0,False,€€€,48.833101,2.29938
+Le Diplomate,"Tobacco Shops, Sports Bars, Brasseries",3.5,"252 rue Convention, Paris",48.83555,2.30235,5,348.3973852848462,33625619613.0,False,€€,48.833101,2.29938
+Dupont Versailles,"Brasseries, Coffee & Tea, French",2.5,"386 rue Vaugirard, Paris",48.83269,2.28835,21,808.6345485700837,33145234728.0,False,€€,48.833101,2.29938
+Le Marché,"Bars, Breakfast & Brunch, Tapas Bars",3.0,"238 rue de la Convention, Paris",48.835896,2.300685,2,325.0828339257702,33148281998.0,False,€€,48.833101,2.29938
+La Source,French,2.5,"39 rue Alain Chartier, Paris",48.837235204873,2.2970451130735,31,490.3873587213444,33173202674.0,False,€€,48.833101,2.29938
+Au Petit Parisien,French,3.5,"358 rue de Vaugirard, Paris",48.835506,2.29258,6,564.9794885332792,33674788172.0,False,€€,48.833101,2.29938
+L'Argument,Brasseries,3.5,"121 rue de la Convention, Paris",48.8393556682169,2.29157772326793,9,899.84477853044,33145575290.0,False,€€,48.833101,2.29938
+Le Quotidien,French,1.0,"41 rue Alain Chartier, Paris",48.83725,2.297147,1,489.38904308237505,33140450802.0,False,€€,48.833101,2.29938
+La Boucherie,Steakhouses,2.0,"372 bis rue de Vaugirard, Paris",48.833845,2.289867,3,701.1852751593511,33158451469.0,False,€€,48.833101,2.29938
+Somec,"Korean, Barbeque, Karaoke",3.5,"80 rue de la Procession, Paris",48.8359108,2.31076,5,873.6135298467236,33147340835.0,False,€€€,48.833101,2.29938
+La pizza,"Fast Food, Italian",4.0,"268 rue Lecourbe, Paris",48.8387334,2.2898636,2,936.642564192335,33145545277.0,False,€€€,48.833101,2.29938
+McDonald's,"Fast Food, Burgers",3.5,"110-112 rue Jean Bleuzen, Vanves",48.824391,2.299071,3,968.82636882035,33147363230.0,False,€,48.833101,2.29938
+la Table Médiévale,Restaurants,5.0,"7 rue de Cadix, Paris",48.8344,2.28885,1,784.1362839400415,33950096885.0,False,€€,48.833101,2.29938
