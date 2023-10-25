@@ -8,6 +8,7 @@ This project aims to find meaningful information from different API's for a part
 - Collect data from multiple API's to have a comprehansive dataset to observe a trend. In this case, citybikes, foursquare and yelp were used to fetch the data using python.
 
 ### 2.Data Cleaning
+<a href="./Statistical-Modelling-Project/Statistical-Modelling-Project/notebooks/Data_cleaning.ipynb" > Data Cleaning Notebook </a>
 - Identify and handle missing values in columns. You can fill missing values using the mean, median, or mode of the column or drop rows/columns with missing values based on the context.
 - Check for and remove duplicate rows from the dataset. Duplicates can skew analysis results.
 - Ensure that columns have the correct data types.
