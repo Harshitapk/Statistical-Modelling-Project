@@ -5,6 +5,8 @@ This project aims to find meaningful information from different API's for a part
 
 ## Process
 ### 1.Data Collection 
+<a href="./notebooks/Part1_city_bikes.ipynb" > Part1: Data from citybikes API </a>
+<a href="./notebooks/Part2_yelp_foursquare_EDA.ipynb" > Part2: Data frpm Foursquare and Yelp API </a>
 - Collect data from multiple API's to have a comprehansive dataset to observe a trend. In this case, citybikes, foursquare and yelp were used to fetch the data using python.
 
 ### 2.Data Cleaning
@@ -16,13 +18,16 @@ This project aims to find meaningful information from different API's for a part
 - Store relevant information in Dataframes and convert into csv's for further analysis.
 
 ### 3.Joining Data
+<a href="./notebooks/Part3_joining_data.ipynb" > Joining Data for EDA </a>
 - Combine data from datasets created previously and observe trends.
 
 ### 4.Data visualization for EDA
+<a href="./notebooks/Part3_joining_data.ipynb" > Joining Data for EDA </a>
 - Create plots to understand the data, discovering patterns and spotting anomalies.
 - I used Seaborn Python data visualization library based on Matplotlib as it provides a high-level interface for creating attractive and informative statistical graphics.
 
 ### 5. Data Model
+<a href="./notebooks/Part4_model_building.ipynb" > Model Building </a>
 - Build Multiple Linear Regression Model to understand the relationship between a dependent variable (or target) and one or more independent variables (or predictors).
 - I used it predict/find empty slots based on features ['Bikes Available', 'Slots','Ebikes'] 
 
