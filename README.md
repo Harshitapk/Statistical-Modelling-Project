@@ -21,7 +21,7 @@ As per the project objectives I have accessed data from multiple API's, Cleaned 
 - Store relevant information in Dataframes and convert into csv's for further analysis.
 
 ### 3.Joining Data
-<a href="./notebooks/Part3_joining_data.ipynb" > Joining Data for EDA </a>
+<a href="./notebooks/Part3_joining_data.ipynb" > Joining Data for EDA Part3 </a>
 - Combine data from datasets created previously and observe trends.
 
 ### 4.Data visualization for EDA
