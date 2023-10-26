@@ -21,16 +21,16 @@ As per the project objectives I have accessed data from multiple API's, Cleaned 
 - Store relevant information in Dataframes and convert into csv's for further analysis.
 
 ### 3.Joining Data
-<a href="./notebooks/Part3_joining_data.ipynb" > Joining Data for EDA Part3 </a>
+<a href="./notebooks/Part3_joining_data.ipynb" > Part3: Joining Data for EDA </a>
 - Combine data from datasets created previously and observe trends.
 
 ### 4.Data visualization for EDA
-<a href="./notebooks/Part3_joining_data.ipynb" > Joining Data for EDA Part3 </a>
+<a href="./notebooks/Part3_joining_data.ipynb" > Part3: Joining Data for EDA </a>
 - Create plots to understand the data, discovering patterns and spotting anomalies.
 - I used Seaborn Python data visualization library based on Matplotlib as it provides a high-level interface for creating attractive and informative statistical graphics.
 
 ### 5. Data Model
-<a href="./notebooks/Part4_model_building.ipynb" > Model Building Part4 </a>
+<a href="./notebooks/Part4_model_building.ipynb" > Part4: Model Building </a>
 - Build Multiple Linear Regression Model to understand the relationship between a dependent variable (or target) and one or more independent variables (or predictors).
 - I used it predict/find empty slots based on features ['Bikes Available', 'Slots','Ebikes'] 
 
