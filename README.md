@@ -4,10 +4,13 @@
 This project aims to find meaningful information from different API's for a particular city using bike rentals data. It was achieved by collecting data about various venues around different bike stations and observe trends. I chose restaturants category to find out what are the options tourists have if they want to explore the city on a bike and what are crowded places on the basis of Reviews,ratings,price and payment facilities.
 
 ## Process
+As per the project objectives I have accessed data from multiple API's, Cleaned and Transformed it using Python, Loaded database using python, performed EDA, including using both statistics and visualizations,identified trends and patterns in data using statistical models and interpreted the results of the statistical models. Please find the documents and more details below:
+
 ### 1.Data Collection 
 <a href="./notebooks/Part1_city_bikes.ipynb" > Part1: Data from citybikes API </a>
-<a href="./notebooks/Part2_yelp_foursquare_EDA.ipynb" > Part2: Data frpm Foursquare and Yelp API </a>
 - Collect data from multiple API's to have a comprehansive dataset to observe a trend. In this case, citybikes, foursquare and yelp were used to fetch the data using python.
+  
+<a href="./notebooks/Part2_yelp_foursquare_EDA.ipynb" > Part2: Data from Foursquare and Yelp API </a>
 
 ### 2.Data Cleaning
 <a href="./notebooks/Data_cleaning.ipynb" > Data Cleaning Notebook </a>
@@ -18,16 +21,16 @@ This project aims to find meaningful information from different API's for a part
 - Store relevant information in Dataframes and convert into csv's for further analysis.
 
 ### 3.Joining Data
-<a href="./notebooks/Part3_joining_data.ipynb" > Joining Data for EDA </a>
+<a href="./notebooks/Part3_joining_data.ipynb" > Part3: Joining Data for EDA </a>
 - Combine data from datasets created previously and observe trends.
 
 ### 4.Data visualization for EDA
-<a href="./notebooks/Part3_joining_data.ipynb" > Joining Data for EDA </a>
+<a href="./notebooks/Part3_joining_data.ipynb" > Part3: Joining Data for EDA </a>
 - Create plots to understand the data, discovering patterns and spotting anomalies.
 - I used Seaborn Python data visualization library based on Matplotlib as it provides a high-level interface for creating attractive and informative statistical graphics.
 
 ### 5. Data Model
-<a href="./notebooks/Part4_model_building.ipynb" > Model Building </a>
+<a href="./notebooks/Part4_model_building.ipynb" > Part4: Model Building </a>
 - Build Multiple Linear Regression Model to understand the relationship between a dependent variable (or target) and one or more independent variables (or predictors).
 - I used it predict/find empty slots based on features ['Bikes Available', 'Slots','Ebikes'] 
 
