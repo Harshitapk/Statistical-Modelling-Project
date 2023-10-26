@@ -9,7 +9,8 @@ As per the project objectives I have accessed data from multiple API's, Cleaned 
 ### 1.Data Collection 
 <a href="./notebooks/Part1_city_bikes.ipynb" > Part1: Data from citybikes API </a>
 - Collect data from multiple API's to have a comprehansive dataset to observe a trend. In this case, citybikes, foursquare and yelp were used to fetch the data using python.
- <a href="./notebooks/Part2_yelp_foursquare_EDA.ipynb" > Part2: Data from Foursquare and Yelp API </a>
+  
+<a href="./notebooks/Part2_yelp_foursquare_EDA.ipynb" > Part2: Data from Foursquare and Yelp API </a>
 
 ### 2.Data Cleaning
 <a href="./notebooks/Data_cleaning.ipynb" > Data Cleaning Notebook </a>
